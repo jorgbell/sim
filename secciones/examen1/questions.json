@@ -1,62 +1,1382 @@
 [
   {
-    "pregunta": "¿Cuál es la capital de Francia?",
-    "opciones": ["Madrid", "París", "Roma", "Berlín"],
-    "correcta": 1
+    "pregunta": "Señale la respuesta correcta:",
+    "opciones": [
+      "El Derecho Civil es único para toda España.",
+      "Todas las Comunidades Autónomas tienen su propio Derecho civil.",
+      "El Estado tiene competencia exclusiva en la determinación de las bases de las obligaciones contractuales a tenor del artículo 149.1.87 de la Constitución."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 2 – La codificación y los derechos forales (art. 149.1.8ª CE)"
   },
   {
-    "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
-    "opciones": ["1935", "1939", "1941", "1945"],
-    "correcta": 1
+    "pregunta": "La renuncia a la prescripción:",
+    "opciones": [
+      "Deberá realizarse expresamente por el sujeto pasivo.",
+      "Sólo es admisible respecto a la prescripción ganada.",
+      "Se puede realizar durante el transcurso de la prescripción por medio de un comportamiento tácito del sujeto pasivo."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 8 – La prescripción y la caducidad (art. 1935 CC)"
   },
   {
-    "pregunta": "¿Cuál es el resultado de 7 x 8?",
-    "opciones": ["54", "56", "64", "48"],
-    "correcta": 1
+    "pregunta": "Rodrigo es representante legal de Mauricio, declarado ausente hace ya años. Ahora, Rodrigo vende una finca de Mauricio a mitad de su valor. Diga qué afirmación de las siguientes es correcta:",
+    "opciones": [
+      "La venta es válida, pero puede ser objeto de rescisión.",
+      "La venta es nula de pleno derecho.",
+      "La venta es anulable."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 25 – La ineficacia del negocio jurídico (art. 1291.1-2 CC, rescisión por lesión)"
   },
   {
-    "pregunta": "¿Qué gas es esencial para la respiración humana?",
-    "opciones": ["Nitrógeno", "Dióxido de carbono", "Oxígeno", "Hidrógeno"],
-    "correcta": 2
+    "pregunta": "Diga cuál de los siguientes enunciados es el CORRECTO:",
+    "opciones": [
+      "La mayor parte de las inscripciones del Registro Civil, aunque sean obligatorias, tienen carácter declarativo, siendo excepcionales las inscripciones constitutivas",
+      "La mayor parte de las inscripciones del Registro Civil, aunque sean obligatorias, tienen carácter constitutivo, siendo excepcionales las inscripciones declarativas",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 16 – El Registro Civil (inscripciones declarativas/constitutivas)"
   },
   {
-    "pregunta": "¿Quién escribió 'Don Quijote de la Mancha'?",
-    "opciones": ["Lope de Vega", "Miguel de Cervantes", "Federico García Lorca", "Gustavo Adolfo Bécquer"],
-    "correcta": 1
+    "pregunta": "Señale la respuesta FALSA:",
+    "opciones": [
+      "La persona, la familia y el patrimonio son las materias fundamentales de las que se ocupa el Derecho civil.",
+      "El Derecho Civil se recoge exclusivamente en el Código Civil.",
+      "El Derecho civil es Derecho privado."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 1 – El Derecho civil español (Derecho civil: persona, familia, patrimonio; CC + leyes especiales)"
   },
   {
-    "pregunta": "¿Cuál es el planeta más cercano al Sol?",
-    "opciones": ["Venus", "Tierra", "Mercurio", "Marte"],
-    "correcta": 2
+    "pregunta": "La expresión opinio iuris seu necessitatis hace referencia a:",
+    "opciones": [
+      "El elemento espiritual de la costumbre, sin el cuál esta no es fuente del Derecho.",
+      "Un principio general del Derecho en virtud del cuál para resolver un litigio es siempre preciso el dictamen de un Juez.",
+      "Los usos normativos carecen de valor jurídico."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 3 – Ordenamiento jurídico y fuentes del Derecho (la costumbre, opinio iuris seu necessitatis)"
   },
   {
-    "pregunta": "¿Cuál es el símbolo químico del oro?",
-    "opciones": ["Go", "Gd", "Au", "Ag"],
-    "correcta": 2
+    "pregunta": "Con la Ley 8/2021, de 2 de junio, por la que se reforma la legislación civil y procesal para el apoyo a las personas con discapacidad en el ejercicio de su capacidad jurídica, el guardador de hecho es una figura:",
+    "opciones": [
+      "Que no puede desempenar nunca actuaciones representativas.",
+      "Que puede desempefnar actuaciones representativas con autorizacio6n en expediente de jurisdicción voluntaria.",
+      "Que puede desempefniar actuaciones representativas con autorización del Ministerio Fiscal y de los progenitores si se trata de un menor de edad."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 12 – Capacidad, discapacidad y cargos tuitivos (art. 264 CC, guardador de hecho, Ley 8/2021)"
   },
   {
-    "pregunta": "¿En qué continente se encuentra Egipto?",
-    "opciones": ["Asia", "África", "Europa", "Oceanía"],
-    "correcta": 1
+    "pregunta": "La declaración de ausencia legal deben instarla:",
+    "opciones": [
+      "El cónyuge no separado legalmente",
+      "El cónyuge que tenga hijos menores de edad con la persona desaparecida",
+      "Los Ayuntamientos del último domicilio del desaparecido o de donde vivan sus hijos menores de edad."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 13 – La ausencia y la declaración de fallecimiento (art. 182 CC, obligados a instar la declaración de ausencia)"
   },
   {
-    "pregunta": "¿Cuántos lados tiene un hexágono?",
-    "opciones": ["5", "6", "7", "8"],
-    "correcta": 1
+    "pregunta": "La declaración de fallecimiento",
+    "opciones": [
+      "Exige previa declaración de ausencia legal",
+      "No exige previa declaración de ausencia legal",
+      "Exige previa declaración de ausencia legal salvo caso de naufragio y accidente aéreo"
+    ],
+    "correcta": 1,
+    "cita": "Cap. 13 – La ausencia y la declaración de fallecimiento (declaración de fallecimiento)"
   },
   {
-    "pregunta": "¿Cuál es el órgano principal del sistema circulatorio?",
-    "opciones": ["Pulmón", "Hígado", "Corazón", "Riñón"],
-    "correcta": 2
+    "pregunta": "Luis interpone recurso de apelación contra la sentencia del juzgado a los 25 días de recibirla, cuando el plazo legal para recurrir es de 20 días. Ante ello:",
+    "opciones": [
+      "La otra parte necesariamente debera alegar el transcurso del plazo, porque la prescripción ha de alegarse siempre.",
+      "La otra parte no es necesario que alegue el transcurso del plazo, porque la caducidad es apreciable de oficio por el Juez.",
+      "La otra parte necesariamente debera alegar el transcurso del plazo, porque la caducidad ha de alegarse siempre."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 8 – La prescripción y la caducidad (diferencias prescripción/caducidad)"
   },
   {
-    "pregunta": "¿Qué lenguaje de marcado se usa para estructurar páginas web?",
-    "opciones": ["CSS", "HTML", "JS", "SQL"],
-    "correcta": 1
+    "pregunta": "La Constituci6én Espanola (1978) establece en su art.15 que “todos tienen derecho a la vida y ala integridad física y moral...”:",
+    "opciones": [
+      "Vida e integridad física son obviamente lo mismo.",
+      "Vida e integridad física son claramente diferenciables.",
+      "Vida e integridad física son derechos, pero no fundamentales."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 10 – Los derechos de la personalidad (art. 15 CE, vida e integridad física)"
   },
   {
-    "pregunta": "¿Cuál es el río más largo del mundo?",
-    "opciones": ["Nilo", "Amazonas", "Yangtsé", "Misisipi"],
-    "correcta": 1
+    "pregunta": "¢Podria una Administraci6n pública vender un bien de dominio publico?",
+    "opciones": [
+      "No, en ningun caso.",
+      "Si, previa Autorizaci6n administrativa.",
+      "Si, previa desafectación del bien a la función pública"
+    ],
+    "correcta": 2,
+    "cita": "Cap. 20 – Los bienes y las cosas (art. 132 CE, bienes de dominio público)"
+  },
+  {
+    "pregunta": "Los derechos de la nacionalidad,       vecindad y domicilio ~Estan    integrados dentro del patrimonio de una persona?",
+    "opciones": [
+      "No, puesto que carecen de contenido económico.",
+      "Si, porque le pertenecen exclusivamente a la persona en cuestion.",
+      "Únicamente en ciertos casos previstos por la Ley."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 21 – El patrimonio (atributos de la persona sin contenido económico)"
+  },
+  {
+    "pregunta": "En el régimen matrimonial de gananciales:",
+    "opciones": [
+      "Existe únicamente un patrimonio colectivo.",
+      "Existe únicamente un patrimonio privativo.",
+      "Coexisten, tanto el patrimonio colectivo cómo el privativo."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 21 – El patrimonio (art. 1344 CC, sociedad de gananciales)"
+  },
+  {
+    "pregunta": "Cuando un sujeto, amparandose en un acto permitido por la ley, esta persiguiendo un resultado contrario al ordenamiento jurídico, estamos ante:",
+    "opciones": [
+      "Un hecho doloso.",
+      "Un acto en fraude de Ley.",
+      "Un delito penal."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 5 – La vigencia y eficacia de las normas (art. 6.4 CC, fraude de ley)"
+  },
+  {
+    "pregunta": "Los hijos con padres de distinta vecindad civil podran optar por.",
+    "opciones": [
+      "Únicamente la vecindad civil del lugar de su nacimiento.",
+      "Exclusivamente la ultima vecindad civil de cualquiera de sus padres.",
+      "Tanto la vecindad civil del lugar de su nacimiento cómo la ultima de cualquiera de sus padres."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 15 – La vecindad civil y el domicilio (art. 14.3 CC, vecindad civil de los hijos)"
+  },
+  {
+    "pregunta": "Pedro Pérez y Maria Mariachi acaban de tener un bebé y no saben qué orden de apellidos otorgar al reción nacido: si Pérez Mariachi o Mariachi Pérez. Si no le comunican al Encargado del Registro Civil en un plazo de tres días un acuerdo al respecto, éste acordara:",
+    "opciones": [
+      "El apellido paterno en primer lugar y luego el materno.",
+      "El apellido menos frecuente.",
+      "El apellido que el Encargado del Registro Civil considere mas conveniente atendiendo al interés superior del menor."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 16 – El Registro Civil (art. 49 LRC-2011: el Encargado decide en caso de desacuerdo atendiendo al interés superior del menor)"
+  },
+  {
+    "pregunta": "La diferencia fundamental entre las asociaciones de interés público y asociaciones de interés particular radica en:",
+    "opciones": [
+      "En que las asociaciones de interés público su creaci6n compete al estado o Comunidad autOnoma y las asociaciones de interés particular no.",
+      "En que las de interés público no tienen animo de lucro y las asociaciones de interés particular si.",
+      "No hay diferencias entre ambas"
+    ],
+    "correcta": 0,
+    "cita": "Cap. 18 – Las asociaciones (art. 35 CC, interés general en asociaciones)"
+  },
+  {
+    "pregunta": "La condición de socio de una asociación:",
+    "opciones": [
+      "Se puede trasmitir mortis causa.",
+      "Solo se puede trasmitir inter vivos.",
+      "Es de carácter personalisimo y esencialmente intrasmisible."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 18 – Las asociaciones (arts. 19-20 LOA: condición de asociado esencialmente voluntaria e intransmisible, inter vivos y mortis causa)"
+  },
+  {
+    "pregunta": "Los fines de una fundación:",
+    "opciones": [
+      "Deberán constar expresamente y de manera imprescindible en los estatutos.",
+      "Se aprueban una vez inscrita la fundación.",
+      "Se aprueban por el protectorado."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 19 – Las fundaciones (art. 34 CE y art. 3.2 LF, fines de la fundación)"
+  },
+  {
+    "pregunta": "Con la Ley 8/2021, de 2 de junio, por la que se reforma la legislación civil y procesal para el apoyo a las personas con discapacidad en el ejercicio de su capacidad jurídica:",
+    "opciones": [
+      "Los mayores de edad podran ser sometidos a tutela en determinadas circunstancias previstas en la ley.",
+      "Los menores de edad podran ser sometidos a tutela en determinadas circunstancias previstas en la ley.",
+      "La tutela ya no es posible ni para mayores de edad ni para menores de edad."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 12 – Capacidad, discapacidad y cargos tuitivos (Ley 8/2021, restricción de la tutela a menores)"
+  },
+  {
+    "pregunta": "El patrimonio de una fundaci6on en periodo de constituci6n, constituye un claro ejemplo de:",
+    "opciones": [
+      "Patrimonio personal, porque la fundación tiene personalidad jurídica.",
+      "Patrimonio de destino, puesto que la fundación todavia no tiene personalidad jurídica.",
+      "Patrimonio de carácter interino, puesto que aún no se sabe quién va a ser su titular."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 21 – El patrimonio (patrimonios de destino)"
+  },
+  {
+    "pregunta": "La interpretaci6n supone:",
+    "opciones": [
+      "La aplicaci6n de una norma a un supuesto carente de regulación.",
+      "Averiguar el sentido de las palabras que integran la norma para poder aplicarla al caso planteado.",
+      "Averiguar qué lugar ocupa la norma en el sistema de fuentes."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 4 – La aplicación de las normas jurídicas (art. 3.1 CC, interpretación de las normas)"
+  },
+  {
+    "pregunta": "Es un derecho subjetivo:",
+    "opciones": [
+      "El derecho de propiedad.",
+      "El Derecho mercantil.",
+      "El Derecho Civil."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 6 – Los derechos subjetivos (concepto de derecho subjetivo)"
+  },
+  {
+    "pregunta": "En el cómputo de los plazos de prescripción, el primer día:",
+    "opciones": [
+      "Se excluye, comenzando el cómputo al día siguiente.",
+      "No se excluye, comenzando el cómputo en el día inicial.",
+      "Dependiendo del tipo de prescripción ante el que estemos, se excluye o no."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 8 – La prescripción y la caducidad (art. 5 CC, cómputo de plazos)"
+  },
+  {
+    "pregunta": "Cómo regla general, la interrupción del plazo de prescripción determina que:",
+    "opciones": [
+      "Deja de correr, volviéndose a computar desde el inicio si siguen dándose los requisitos para la prescripción.",
+      "Deja de correr, reanudándose el cómputo en el mismo punto temporal cuando finalice la causa de interrupción y si siguen dándose los requisitos para la prescripción.",
+      "La prescripción no es interrumpible."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 8 – La prescripción y la caducidad (art. 1973 CC, interrupción de la prescripción)"
+  },
+  {
+    "pregunta": "Las disposiciones transitorias que aparecen en las Leyes, sirven para:",
+    "opciones": [
+      "Establecer la irretroactividad de la misma.",
+      "Establecer criterios de interpretación de la misma.",
+      "Resolver los problemas que puedan surgir cuando una ley nueva deroga a la anterior."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 5 – La vigencia y eficacia de las normas (disposiciones transitorias del CC)"
+  },
+  {
+    "pregunta": "El consentimiento, el objeto y la causa son elementos del contrato:",
+    "opciones": [
+      "Naturales.",
+      "Accidentales.",
+      "Esenciales."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 25 – La ineficacia del negocio jurídico (art. 1261 CC, elementos esenciales del contrato)"
+  },
+  {
+    "pregunta": "Señale la alternativa correcta:",
+    "opciones": [
+      "El Derecho civil forma parte del Derecho público.",
+      "El Derecho civil es Derecho privado que se ocupa de las relaciones entre los comerciantes y empresarios.",
+      "El Derecho civil es Derecho privado común y, como tal, funciona como Derecho supletorio respecto de los Derechos especiales y particulares."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 1 – El Derecho civil español (Derecho civil como Derecho común y supletorio)"
+  },
+  {
+    "pregunta": "Sefhale la respuesta correcta:",
+    "opciones": [
+      "El Derecho Civil es único para toda España.",
+      "Todas las Comunidades Autónomas tienen su propio Derecho civil.",
+      "El Estado tiene competencia exclusiva en la determinación de las bases de las obligaciones contractuales a tenor del artículo 149.1.87 de la Constitución."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 2 – La codificación y los derechos forales (art. 149.1.8ª CE)"
+  },
+  {
+    "pregunta": "El plazo de ejercicio de la acción de anulabilidad es de:",
+    "opciones": [
+      "De cinco años.",
+      "De cuatro años.",
+      "No tiene plazo, esta acción no caduca nunca."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 25 – La ineficacia del negocio jurídico (art. 1301.1 CC, plazo de la acción de anulabilidad)"
+  },
+  {
+    "pregunta": "Rodrigo es representante legal de Mauricio, declarado ausente hace ya años. Ahora, Rodrigo vende una finca de Mauricio a mitad de su valor. Diga qué afirmación de las siguientes es correcta:",
+    "opciones": [
+      "La venta es válida, pero puede ser objeto de rescisión.",
+      "La venta es nula de pleno derecho.",
+      "La venta es anulable."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 25 – La ineficacia del negocio jurídico (art. 1291.1-2 CC, rescisión por lesión)"
+  },
+  {
+    "pregunta": "Un contrato celebrado por alguien que sufra un vicio del consentimiento será:",
+    "opciones": [
+      "Nulo.",
+      "Anulable.",
+      "Ambas respuestas son incorrectas."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 25 – La ineficacia del negocio jurídico (art. 1301-1302 CC, vicios del consentimiento y anulabilidad)"
+  },
+  {
+    "pregunta": "Raul ha sido designado apoderado para comprar una finca para Diego Armando. Si Raul realizara la operación sin mencionar que lo hace en nombre y por cuenta de Diego Armando:",
+    "opciones": [
+      "Nos encontramos ante el denominado fa/sus procurator.",
+      "Es una representación directa.",
+      "Es una representación indirecta."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 26 – La representación (representación directa/indirecta, falsus procurator)"
+  },
+  {
+    "pregunta": "«Cuál de los siguientes extremos no es necesario que figure en el acta fundacional de una asociación?",
+    "opciones": [
+      "Nombre y apellidos de los promotores.",
+      "Duraci6on de la asociación.",
+      "Aprobación de los estatutos."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 18 – Las asociaciones (art. 6.1 LOA, contenido del acta fundacional)"
+  },
+  {
+    "pregunta": "Los estatutos de una asociaci6n deberan aprobarse:",
+    "opciones": [
+      "Una vez que la misma sea inscrita en el registro correspondiente.",
+      "Junto con el acta fundacional.",
+      "En la primera reunion de la junta general."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 18 – Las asociaciones (art. 6.1 LOA, acta fundacional y estatutos)"
+  },
+  {
+    "pregunta": "La asociación se puede constituir",
+    "opciones": [
+      "Solo por tiempo indefinido.",
+      "Siempre por un plazo determinado.",
+      "Tanto por tiempo indefinido cómo por un plazo determinado."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 18 – Las asociaciones (conocimiento general de la LOA; no localizado literalmente en el resumen)"
+  },
+  {
+    "pregunta": "Para que exista, la prescripción:",
+    "opciones": [
+      "Es apreciable de oficio por el Juez.",
+      "Deberá alegarse por el sujeto pasivo.",
+      "Se produce automaticamente."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 8 – La prescripción y la caducidad (la prescripción ha de ser alegada por el beneficiado)"
+  },
+  {
+    "pregunta": "Luisa debe a Pedro 20.000 euros. En caso de que no le reclame el pago en el plazo legal, perdería la posibilidad de hacerlo, por lo que estaríamos ante un caso de:",
+    "opciones": [
+      "Prescripción del derecho.",
+      "Caducidad del derecho.",
+      "Usucapión del derecho."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 8 – La prescripción y la caducidad (prescripción extintiva de derechos de crédito)"
+  },
+  {
+    "pregunta": "El declarado ausente, por la declaración de ausencia:",
+    "opciones": [
+      "Si esta casado, queda divorciado legalmente salvo que hubiera otorgado poder general para todos sus asuntos.",
+      "Si esta casado, queda divorciado legalmente en todo caso.",
+      "Se le nombrara un representante legal."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 13 – La ausencia y la declaración de fallecimiento (art. 156.4 CC, efectos de la declaración de ausencia)"
+  },
+  {
+    "pregunta": "El matrimonio del declarado fallecido:",
+    "opciones": [
+      "Se disuelve por la declaraci6on de fallecimiento, en todo caso.",
+      "Se disuelve por la declaración de fallecimiento solo si asi lo pide el Ministerio Fiscal.",
+      "Se disuelve por la declaración de fallecimiento, salvo que de ese matrimonio haya hijos menores de edad."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 13 – La ausencia y la declaración de fallecimiento (art. 85 CC, disolución del matrimonio por fallecimiento)"
+  },
+  {
+    "pregunta": "Maria Blanca y Carlos acaban de ser padres y quieren que su hija lleve sus nombres: Maria Blanca Carla. Pretenden inscribirla asi en el Registro Civil. ~Cree usted que será posible con la Ley del Registro Civil?",
+    "opciones": [
+      "Si, ya que se permite poner dos nombres simples y uno compuesto.",
+      "No, solo se permite poner un nombre compuesto o dos nombres simples.",
+      "Si, ya que no hay limite de nombres propios."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 16 – El Registro Civil (art. 51 LRC-2011, límite de nombres propios)"
+  },
+  {
+    "pregunta": "Marisa, de vecindad civil comun, se acaba de casar en Zaragoza con Pau, de vecindad civil catalana. Le pregunta Marisa si por el hecho de casarse se vera afectada su vecindad civil comun. ¢,Cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "El matrimonio altera la vecindad civil, siendo a partir de la celebración del matrimonio la vecindad civil la del lugar de residencia.",
+      "El matrimonio no altera la vecindad civil, pudiendo cualquiera de los cOnyuges optar por la vecindad civil del otro en cualquier momento del matrimonio.",
+      "El matrimonio no altera la vecindad civil, pudiendo cualquiera de los cényuges optar por la vecindad del otro en el plazo de 10 años desde la celebración del matrimonio, ya que de lo contrario esta opción decae."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 15 – La vecindad civil y el domicilio (art. 14.4 CC, vecindad civil y matrimonio)"
+  },
+  {
+    "pregunta": "La renuncia a la prescripción:",
+    "opciones": [
+      "Deberá realizarse expresamente por el sujeto pasivo.",
+      "Sólo es admisible respecto a la prescripción ganada.",
+      "Se puede realizar durante el transcurso de la prescripción por medio de un comportamiento tácito del sujeto pasivo."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 8 – La prescripción y la caducidad (art. 1935 CC, renuncia a la prescripción)"
+  },
+  {
+    "pregunta": "La subrogación real implica que:",
+    "opciones": [
+      "El objeto de un derecho, sobre el que recae una determinada afección, se sustituye por otro distinto.",
+      "El titular de un derecho se sustituye por otro distinto.",
+      "Ante la inexistencia de titulares de un derecho, pasa a ser de titularidad del Rey."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 6 – Los derechos subjetivos (subrogación real)"
+  },
+  {
+    "pregunta": "La renuncia de derechos solo es válida:",
+    "opciones": [
+      "Cuando no contrarie el interés o el orden público.",
+      "Cuando no perjudique a terceros.",
+      "Cuando no contrarie el interés o el orden público y no perjudique a terceros."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 6 – Los derechos subjetivos (art. 6.2 CC, renuncia de derechos)"
+  },
+  {
+    "pregunta": "La costumbre solo será aplicable al caso concreto.",
+    "opciones": [
+      "Si el juez considera que aplicandola al caso se resuelve en equidad.",
+      "Si se prueba su existencia por una de las partes o ambas partes estuvieran de acuerdo en su existencia y no es contraria a la moral ni al orden público.",
+      "Si sirve para llegar a una solución mas justa que la que resultad de aplicar la Ley."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 4 – La aplicación de las normas jurídicas (art. 281.2 LEC, prueba de la costumbre)"
+  },
+  {
+    "pregunta": "El artículo 1.711 del Código Civil dispone que “A falta de pacto en contrario, el mandato se supone gratuito”.",
+    "opciones": [
+      "Es una norma de Derecho imperativo.",
+      "Es una norma de Derecho supletorio.",
+      "Es una disposición de Derecho público."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 5 – La vigencia y eficacia de las normas (normas imperativas y dispositivas; art. 1711 CC)"
+  },
+  {
+    "pregunta": "Señale la alternativa correcta:",
+    "opciones": [
+      "Las Comunidades Autónomas tienen competencia en materia de ordenación de los registros publicos, cómo el Registro Civil o el Registro de la Propiedad.",
+      "El   artículo   149.1.87   de   la   Constitución   reconoce   a   las   Comunidades     Autónomas competencia      para    conservar,   modificar o desarrollar sus         Derechos   civiles forales   o especiales, allí donde existan.",
+      "La interpretación del artículo 149.1.87 de la Constituci6n ha sido pacífica por parte de toda la doctrina civilista."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 2 – La codificación y los derechos forales (art. 149.1.8ª CE)"
+  },
+  {
+    "pregunta": "Diga la alternativa FALSA:",
+    "opciones": [
+      "La elaboración del Código Civil se inició con el reinado de los Reyes Católicos, aunque su promulgación fue muy posterior.",
+      "El Código Civil tiene influencia considerable del Código Civil francés.",
+      "El Código Civil fue definitivamente publicado en julio de 1889."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 2 – La codificación y los derechos forales (historia de la codificación civil española)"
+  },
+  {
+    "pregunta": "El principal efecto de la nulidad parcial de un contrato es:",
+    "opciones": [
+      "Considerar la cláusula que no sea válida cómo no puesta o inexistente.",
+      "Invalidar todo el contrato porque la cláusula nula tiñe de nulidad todo el contrato.",
+      "Ambas respuestas son correctas."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 25 – La ineficacia del negocio jurídico (nulidad parcial, principio de conservación del negocio)"
+  },
+  {
+    "pregunta": "Pedro es representante legal de Juan, que es su hijo menor de edad. Ahora, Pedro vende un caballo de Juan a mitad de su valor. Diga qué afirmación de las siguientes es correcta:",
+    "opciones": [
+      "La venta es válida, pero puede ser objeto de rescisión.",
+      "La venta es nula de pleno derecho.",
+      "La venta es anulable."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 25 – La ineficacia del negocio jurídico (art. 1291 CC, rescisión por lesión (patria potestad))"
+  },
+  {
+    "pregunta": "Rosalía y Ramón están casados en gananciales y ambos son titulares de una colecci6én de cuadros perteneciente a los dos (ganancial). El mes pasado, Rosalía decide vender tres valiosos cuadros de esa colección, sin contar con el consentimiento de Ramón. Diga qué afirmación de las siguientes es la correcta:",
+    "opciones": [
+      "El acto es rescindible en un plazo de 4 años desde su celebración.",
+      "El acto es nulo de pleno derecho.",
+      "El acto es anulable por la falta de consentimiento de Ramón."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 25 – La ineficacia del negocio jurídico (art. 1322.2 CC, anulabilidad de actos sobre bienes gananciales)"
+  },
+  {
+    "pregunta": ": Marina compra una finca por cuenta de Paco y actuando en nombre de éste. Marina es",
+    "opciones": [
+      "La representante directa de Paco.",
+      "La representante indirecta de Paco.",
+      "La autocontratante."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 26 – La representación (representación directa)"
+  },
+  {
+    "pregunta": "Martina se ha ido a Bolonia, y su amigo Domingo le ha encargado que le compre mortadela. Si Martina la compra sin decir que es para Domingo, será:",
+    "opciones": [
+      "La representante directa de Domingo.",
+      "La representante indirecta de Domingo.",
+      "La falsus procurator de Domingo."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 26 – La representación (representación indirecta)"
+  },
+  {
+    "pregunta": "Señale la alternativa FALSA:",
+    "opciones": [
+      "En el Derecho civil comun la doctrina científica es fuente del Derecho siempre que sean opiniones vertidas por juristas de reconocido prestigio.",
+      "De conformidad con el artículo 149.1.8\" de la Constitución espafola el Estado tiene competencia exclusiva en materia de legislación civil sin perjuicio de la conservación, modificación y desarrollo por las Comunidades Aut6nomas de los Derechos civiles, forales o especiales, allí donde existan.",
+      "En sentido estricto, a tenor del artículo 1.6 del Cddigo Civil, solo puede considerarse jurisprudencia la emanada del Tribunal Supremo."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 3 – Ordenamiento jurídico y fuentes del Derecho (doctrina científica y jurisprudencia como fuentes; art. 1.6 CC)"
+  },
+  {
+    "pregunta": "¢ Qué tipo de organo no constituye el esquema organizativo de una asociación segun la normativa sobre asociaciones?",
+    "opciones": [
+      "La Asamblea General.",
+      "El presidente.",
+      "La Junta General."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 18 – Las asociaciones (arts. 11-12 LOA: Asamblea General, Junta Directiva y Presidente; no existe la 'Junta General')"
+  },
+  {
+    "pregunta": "{Cómo puede constituirse 0 crearse una fundación de forma general?",
+    "opciones": [
+      "Solo por personas físicas.",
+      "Tanto por personas físicas cómo jurídicas, pero solo en acto inter vivos.",
+      "Tanto por personas físicas cómo jurídicas, ya sea mediante acto infer vivos 0 mortis causa."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 19 – Las fundaciones (conocimiento general del art. 8 Ley 50/2002; no localizado literalmente en el resumen)"
+  },
+  {
+    "pregunta": "Sefala la afirmación FALSA respecto a las fundaciones:",
+    "opciones": [
+      "Los fines perseguidos por el fundador han de ser determinados.",
+      "Los futuros beneficiarios de las prestaciones de la fundación han de ser indeterminados.",
+      "Los futuros beneficiarios de las prestaciones de la fundación tienen que ser determinados."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 19 – Las fundaciones (beneficiarios indeterminados de la fundación, art. 3.2 LF)"
+  },
+  {
+    "pregunta": "Cuando se concede a una persona un ámbito de poder para la satisfacción de intereses de otras personas, estamos ante:",
+    "opciones": [
+      "Un derecho subjetivo.",
+      "Una facultad.",
+      "Una potestad."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 6 – Los derechos subjetivos (concepto de potestad)"
+  },
+  {
+    "pregunta": "Conforme al Código Civil, los presupuestos de aplicación del abuso del derecho son:",
+    "opciones": [
+      "Existencia de un derecho y uso abusivo del mismo por su titular.",
+      "Acción u omisión del titular de carácter abusivo, sobrepasando manifiestamente los límites normales del ejercicio de su derecho, y consecuencia dañosa para un tercero.",
+      "Ejercicio de un derecho por su titular agrediendo violentamente a un tercero."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 7 – El ejercicio de los derechos (art. 7.2 CC, presupuestos del abuso del derecho)"
+  },
+  {
+    "pregunta": "Luis y Antonio firman un contrato por siete días el lunes de esta semana. El último día de vigencia del contrato será:",
+    "opciones": [
+      "El lunes de la semana siguiente.",
+      "El martes de la semana siguiente.",
+      "El miércoles de la semana siguiente."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 8 – La prescripción y la caducidad (art. 5 CC, cómputo de plazos)"
+  },
+  {
+    "pregunta": "Pasado el tiempo (y otros requisitos), el no ejercicio de un derecho implica para su titular la pérdida de la posibilidad de ejercitarlo. Hablamos de:",
+    "opciones": [
+      "Usucapión.",
+      "Consolidación.",
+      "Prescripción."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 8 – La prescripción y la caducidad (concepto de prescripción extintiva)"
+  },
+  {
+    "pregunta": "En el cómputo de los plazos de prescripción, el primer día:",
+    "opciones": [
+      "Se excluye, comenzando el cómputo al día siguiente.",
+      "No se excluye, comenzando el cómputo en el día inicial.",
+      "Dependiendo del tipo de prescripción ante el que estemos, se excluye o no."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 8 – La prescripción y la caducidad (art. 5 CC, cómputo de plazos)"
+  },
+  {
+    "pregunta": "Cómo regla general, la suspensión del plazo de caducidad determina que:",
+    "opciones": [
+      "Deja de correr, volviéndose a computar desde el inicio.",
+      "Deja de correr, reanudándose el cómputo en el mismo punto temporal cuando finalice la causa de suspensión.",
+      "La caducidad no es susceptible de suspensión, salvo excepciones."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 8 – La prescripción y la caducidad (diferencias prescripción/caducidad, no suspensión de la caducidad)"
+  },
+  {
+    "pregunta": "Cuando una ley nueva indica explícitamente que leyes anteriores quedan derogadas, estamos ante un supuesto de:",
+    "opciones": [
+      "Derogación genérica.",
+      "Derogación expresa.",
+      "Derogaci6n tácita."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 5 – La vigencia y eficacia de las normas (derogación expresa, tácita y genérica)"
+  },
+  {
+    "pregunta": "Pepe y Pepa firman un contrato por tres meses el 31 de enero. El último día de vigencia del contrato será:",
+    "opciones": [
+      "El 30 de abril.",
+      "El 1 de mayo.",
+      "El 31 de mayo."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 8 – La prescripción y la caducidad (art. 5 CC, cómputo de plazos por meses)"
+  },
+  {
+    "pregunta": ",Cuál es la afirmación correcta?",
+    "opciones": [
+      "Todos los derechos, facultades y potestades son renunciables.",
+      "Solo son renunciables los derechos subjetivos propiamente dichos y una vez se encuentren realmente constituidos.",
+      "Los derechos aún no nacidos son susceptibles de renuncia."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 6 – Los derechos subjetivos (art. 6.2 CC, renunciabilidad de derechos)"
+  },
+  {
+    "pregunta": "Conforme al Cddigo Civil, en los plazos señalados por días, comenzarán a computarse:",
+    "opciones": [
+      "Desde el mismo día, de fecha a fecha.",
+      "Desde el día siguiente, excluyendo el primer día del cómputo.",
+      "Desde el mismo momento (hora y minuto) en que se haya fijado el inicio del plazo."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 8 – La prescripción y la caducidad (art. 5 CC, cómputo de plazos por días)"
+  },
+  {
+    "pregunta": "Es requisito indispensable para constituir una fundación:",
+    "opciones": [
+      "Que se constituya por un tiempo concreto.",
+      "La voluntad del fundador y la dotación patrimonial suficiente para atender a los fines previstos.",
+      "Que se efectue por tiempo indefinido."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 19 – Las fundaciones (dotación patrimonial y voluntad del fundador, art. 12 LF)"
+  },
+  {
+    "pregunta": "El patronato de las fundaciones debe estar compuesto al menos por:",
+    "opciones": [
+      "Un miembro.",
+      "Dos miembros.",
+      "Tres miembros."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 19 – Las fundaciones (art. 15.1 LF, patronato mínimo de tres miembros)"
+  },
+  {
+    "pregunta": "Para la modificación o la fusi6n de fundaciones se requiere:",
+    "opciones": [
+      "El acuerdo del patronato y la autorización o control del protectorado.",
+      "Solamente el acuerdo del patronato.",
+      "La modificación si es posible pero la fusi6n esta prohibida por la Ley de Fundaciones."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 19 – Las fundaciones (modificación y fusión de fundaciones, Protectorado)"
+  },
+  {
+    "pregunta": "Pedro tiene derecho a la extracción de agua del pozo de su finca. Decide montar en su finca un criadero de peces y para ello extrae del pozo el triple del agua normal, lo que provoca que el pozo de su vecino no tenga suficiente agua para que este pueda extraerla. Estariamos ante una situación de:",
+    "opciones": [
+      "Abuso del derecho.",
+      "Colisión de derechos.",
+      "Cotitularidad."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 7 – El ejercicio de los derechos (colisión de derechos)"
+  },
+  {
+    "pregunta": "Conforme a lo dispuesto en el Código Civil, los presupuestos de aplicación del abuso del derecho son:",
+    "opciones": [
+      "Acción u omisión de carácter abusivo y consecuencia dañosa para un tercero.",
+      "Acción abusiva y violaci6n del derecho de un tercero.",
+      "Infracción de un derecho de un tercero."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 7 – El ejercicio de los derechos (art. 7.2 CC, presupuestos del abuso del derecho)"
+  },
+  {
+    "pregunta": "Ilham, ciudadano de un pais de Asia Central, solicita y obtiene la nacionalidad espafola. Cuando recae la resolución de concesión de la nacionalidad, Ilham se halla en una carcel francesa, por lo que no puede cumplir en plazo los requisitos de aceptación de la nacionalidad y pierde la posibilidad de acceder a la misma. Estariamos ante un caso de:",
+    "opciones": [
+      "Prescripción.",
+      "Caducidad.",
+      "Renuncia."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 14 – La nacionalidad (art. 23 CC: plazo de caducidad de 180 días para inscribir la adquisición)"
+  },
+  {
+    "pregunta": "Para solicitar la nacionalidad por residencia, en el cómputo del plazo, la residencia debera ser:",
+    "opciones": [
+      "Legal, continuada e inmediatamente anterior a la petición",
+      "Legal, continuada pero no necesariamente inmediatamente anterior a la petición",
+      "Legal, puede no ser continuada, e inmediatamente anterior a la petición"
+    ],
+    "correcta": 0,
+    "cita": "Cap. 14 – La nacionalidad (residencia legal, continuada e inmediatamente anterior)"
+  },
+  {
+    "pregunta": "Ahmed es un refugiado afgano que reside en España desde hace algun tiempo. ¢ Qué plazo de residencia necesita, en este caso, Anmed para solicitar la nacionalidad espanola?",
+    "opciones": [
+      "Un año de residencia en España.",
+      "Quince afos de residencia en España.",
+      "Cinco afos de residencia en España."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 14 – La nacionalidad (plazo de 5 años para refugiados)"
+  },
+  {
+    "pregunta": "Gladys es originaria de un pais iberoamericano y reside legalmente en España desde hace algun tiempo.      Qué plazo de residencia necesita, en este caso,       Gladys para solicitar la nacionalidad espanola?",
+    "opciones": [
+      "Un año de residencia en España.",
+      "Dos años de residencia en España.",
+      "Diez ahos de residencia en España."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 14 – La nacionalidad (plazo de 2 años para iberoamericanos)"
+  },
+  {
+    "pregunta": "Señale la alternativa correcta:",
+    "opciones": [
+      "La costumbre es fuente del Derecho siempre que resulte probada su existencia y resulte mas justa que la Ley aplicable al caso.",
+      "La costumbre es fuente del Derecho de primer grado porque viene establecida cómo tal por el Cddigo Civil.",
+      "Enel Derecho foral navarro se admite la costumbre contra legem."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 3 – Ordenamiento jurídico y fuentes del Derecho (costumbre contra legem en el Derecho foral navarro)"
+  },
+  {
+    "pregunta": ") Señale la alternativa correcta. En el Derecho foral navarro:",
+    "opciones": [
+      "Se admite la costumbre contra legem aunque sea contraria a la moral y al orden público.",
+      "La costumbre es fuente del Derecho secundaria.",
+      "La costumbre es fuente del Derecho de primer grado por ser preferente a la ley."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 3 – Ordenamiento jurídico y fuentes del Derecho (costumbre como fuente de primer grado en Navarra)"
+  },
+  {
+    "pregunta": "Los futuros beneficiarios de las prestaciones de una fundación:",
+    "opciones": [
+      "Han de ser personas concretas y determinadas.",
+      "Han de ser colectividades genéricas de personas.",
+      "Las dos respuestas anteriores son correctas."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 19 – Las fundaciones (art. 3.2 LF, beneficiarios indeterminados)"
+  },
+  {
+    "pregunta": "Un contrato solemne que se celebre sin observar la forma determinada exigible,                                es susceptible de:",
+    "opciones": [
+      "Nulidad.",
+      "Anulabilidad.",
+      "Anulable, pero se puede confirmar."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 25 – La ineficacia del negocio jurídico (incumplimiento de forma en negocios solemnes = nulidad)"
+  },
+  {
+    "pregunta": "~Cuál de los siguientes elementos no es esencial en el negocio juridico?",
+    "opciones": [
+      "Consentimiento.",
+      "Causa.",
+      "Condición."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 25 – La ineficacia del negocio jurídico (art. 1261 CC, elementos esenciales del negocio jurídico)"
+  },
+  {
+    "pregunta": "Juan,   marido     de     Liliana,   dona   un   cuadro,   propiedad     ganancial    de     ambos,   sin   el consentimiento de Liliana. ¢Será válido el contrato?",
+    "opciones": [
+      "No, es un contrato rescindible por lesidén.",
+      "No, es un contrato nulo.",
+      "No, es un contrato anulable."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 25 – La ineficacia del negocio jurídico (art. 1322.2 CC, donación de bien ganancial sin consentimiento)"
+  },
+  {
+    "pregunta": "Segun el Código Civil, los frutos naturales son:",
+    "opciones": [
+      "Los que producen los predios de cualquier especie a beneficio del cultivo o del trabajo.",
+      "Las producciones espontaneas de la tierra y las crias y demas productos de los animales.",
+      "El alquiler de los edificios, rentas perpetuas, vitalicias u otras analogas."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 20 – Los bienes y las cosas (art. 354-355 CC, frutos naturales)"
+  },
+  {
+    "pregunta": "Con la Ley 8/2021, de 2 de junio, por la que se reforma la legislación civil y procesal para el apoyo a las personas con discapacidad en el ejercicio de su capacidad jurídica:",
+    "opciones": [
+      "Se elimina la patria potestad prorrogada.",
+      "Se impone la patria potestad prorrogada.",
+      "La   patria    potestad    prorrogada   se   plantea   cómo    una     posibilidad,   pero    no   de forma obligatoria."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 12 – Capacidad, discapacidad y cargos tuitivos (Ley 8/2021, desaparición de la patria potestad prorrogada)"
+  },
+  {
+    "pregunta": "El fallecimiento determina la extinción de la personalidad civil:",
+    "opciones": [
+      "Siempre.",
+      "Nunca, porque la personalidad civil perdura siempre.",
+      "Ambas respuestas son incorrectas."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 9 – La persona (art. 32 CC, extinción de la personalidad civil por la muerte)"
+  },
+  {
+    "pregunta": "Las leyes entran en vigor:",
+    "opciones": [
+      "Cuando son aprobadas por las Cortes Generales.",
+      "Tras su publicaci6n en el BOE.",
+      "Cuando las sanciona el Rey."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 5 – La vigencia y eficacia de las normas (publicación de las leyes en el BOE)"
+  },
+  {
+    "pregunta": "{Cuando la retroactividad es de grado minimo o débil?",
+    "opciones": [
+      "Cuando la nueva ley se aplica a todos los hechos, actos o situaciones, aunque nacieran bajo el imperio de la ley derogada.",
+      "Cuando la nueva ley solo se aplica a los efectos futuros de hechos, actos o situaciones anteriores, es decir, a los producidos con posterioridad a su entrada en vigor.",
+      "Cuando la nueva ley se aplica solo a los supuestos ya sentenciados por los tribunales."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 5 – La vigencia y eficacia de las normas (grados de retroactividad)"
+  },
+  {
+    "pregunta": "En términos generales       ;Las deudas forman parte integrante del patrimonio de una persona?",
+    "opciones": [
+      "Si.",
+      "No",
+      "Si, excepto si se trata de un patrimonio colectivo."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 21 – El patrimonio (las deudas como parte del patrimonio)"
+  },
+  {
+    "pregunta": "Cuando un sujeto, amparandose en un acto permitido por la ley, esta persiguiendo un resultado contrario al ordenamiento jurídico, estamos ante:",
+    "opciones": [
+      "Un hecho doloso.",
+      "Un acto en fraude de ley.",
+      "Un delito penal."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 5 – La vigencia y eficacia de las normas (art. 6.4 CC, fraude de ley)"
+  },
+  {
+    "pregunta": "Señale la respuesta correcta:",
+    "opciones": [
+      "La concepción historicista del Derecho civil pone de relieve el carácter inmutable del Derecho civil.",
+      "Segun la concepción aprioristica del Derecho civil, la noción de Derecho civil es siempre cambiante.",
+      "Actualmente,       la mayor parte de los civilistas siguen una posición intermedia entre la concepción aprioristica e historicista del Derecho civil."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 1 – El Derecho civil español (concepciones historicista y apriorística del Derecho civil)"
+  },
+  {
+    "pregunta": "Indique cuál de las siguientes proposiciones es un caso de patrimonio separado:",
+    "opciones": [
+      "La herencia aceptada a beneficio de inventario.",
+      "Los bienes obtenidos con su trabajo por el mayor de 18 años, pero no se ha independizado de sus padres.",
+      "La masa patrimonial en el convenio de acreedores."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 21 – El patrimonio (art. 1023 CC, herencia a beneficio de inventario, patrimonio separado)"
+  },
+  {
+    "pregunta": "Es uno de los elementos esenciales para la validez del negocio jurídico:",
+    "opciones": [
+      "La condición.",
+      "La causa.",
+      "El término esencial."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 25 – La ineficacia del negocio jurídico (art. 1261 CC, elementos esenciales del negocio jurídico)"
+  },
+  {
+    "pregunta": "La donaci6én de un bien inmueble debe realizarse para su validez en escritura pública, por tanto, este negocio jurídico se califica cómo:",
+    "opciones": [
+      "Solemne.",
+      "Bilateral.",
+      "Oneroso."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 22 – El negocio jurídico (negocios solemnes)"
+  },
+  {
+    "pregunta": "La vecindad civil es:",
+    "opciones": [
+      "Un criterio de determinaci6én de la legislación civil (comun o foral) aplicable solo a ciudadanos espanoles.",
+      "Un criterio de determinación de la legislación civil (comun o foral) aplicable tanto a ciudadanos espanoles cómo extranjeros.",
+      "Ambas respuestas son incorrectas."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 15 – La vecindad civil y el domicilio (art. 14.1 CC, vecindad civil)"
+  },
+  {
+    "pregunta": "Segun nuestro Céddigo Civil, los animales:",
+    "opciones": [
+      "Pueden ser objeto de apropiación.",
+      "Son seres vivos dotados de sensibilidad, por lo que no pueden ser objeto de apropiación.",
+      "No pueden ser objeto de apropiación, aunque no tengan sensibilidad."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 20 – Los bienes y las cosas (art. 333 CC (Ley 17/2021), animales objeto de apropiación)"
+  },
+  {
+    "pregunta": "El Código Civil, para referirse a todas las personas jurídico-publicas que deben su nacimiento al propio impulso de la Administraci6n pública y de los diferentes organismos politicos, utiliza el término:",
+    "opciones": [
+      "Corporaciones.",
+      "Asociaciones.",
+      "Entidades de interés social."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 17 – Las personas jurídicas (art. 35 CC, corporaciones)"
+  },
+  {
+    "pregunta": "Las asociaciones inscritas responden de sus obligaciones:",
+    "opciones": [
+      "Con todos sus bienes presentes y futuros.",
+      "Con su capital inicial.",
+      "Con todos sus bienes presentes, pero no los futuros."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 18 – Las asociaciones (principio general de responsabilidad patrimonial universal, art. 1911 CC; no localizado literalmente para asociaciones en el resumen)"
+  },
+  {
+    "pregunta": "En el ordenamiento jurídico:",
+    "opciones": [
+      "Hay lagunas del Derecho, pero no lagunas de la ley",
+      "Hay lagunas de la ley, pero no lagunas del Derecho.",
+      "No hay lagunas del Derecho ni lagunas de la ley."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 4 – La aplicación de las normas jurídicas (lagunas de la ley vs. lagunas del Derecho)"
+  },
+  {
+    "pregunta": "La aplicación analdgica de las normas se produce cuando las normas no contemplen un supuesto especifico:",
+    "opciones": [
+      "Y se pueda aplicar cualquier otra norma dictada por el mismo organo para cualquier asunto.",
+      "Pero regulen otro que, aunque no sea semejante, le parezca al juez que puede aplicarse.",
+      "Pero regulen otro semejante entre los que se aprecie identidad de razon."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 4 – La aplicación de las normas jurídicas (art. 4.1 CC, analogía e identidad de razón)"
+  },
+  {
+    "pregunta": "La jurisprudencia:",
+    "opciones": [
+      "Es fuente formal del ordenamiento jurídico, junto con la ley, la costumbre y los principios generales del Derecho.",
+      "Tiene cómo funciédn complementar el ordenamiento jurídico.",
+      "No tiene ningun valor ni formal ni material en nuestro ordenamiento jurídico."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 4 – La aplicación de las normas jurídicas (art. 1.6 CC: la jurisprudencia complementa el ordenamiento, sin ser fuente formal)"
+  },
+  {
+    "pregunta": "En la interpretación teleologica de las normas se atiende a:",
+    "opciones": [
+      "La busqueda del espiritu y finalidad de las normas.",
+      "La realidad social del momento en el que hay que aplicar la norma.",
+      "Los antecedentes historicos y legislativos de la norma."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 4 – La aplicación de las normas jurídicas (art. 3.1 CC, interpretación teleológica)"
+  },
+  {
+    "pregunta": "Las situaciones tipicas que pueden configurar el contenido comun y esencial del Derecho Civil son:",
+    "opciones": [
+      "La persona y el patrimonio.",
+      "La persona y la familia.",
+      "La persona, el patrimonio y la familia."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 1 – El Derecho civil español (persona, familia y patrimonio como contenido del Derecho civil)"
+  },
+  {
+    "pregunta": "El Derecho Civil es:",
+    "opciones": [
+      "El Derecho privado general.",
+      "Una categoria mixta entre Derecho privado y Derecho público.",
+      "El Derecho privado de las personas mas vulnerables."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 1 – El Derecho civil español (el Derecho civil como Derecho privado general)"
+  },
+  {
+    "pregunta": "Las Comunidades Autónomas con un Derecho civil propio son:",
+    "opciones": [
+      "Aragon, Navarra, Islas Baleares, Pais Vasco, Extremadura y Andalucia.",
+      "Aragon, Navarra, Islas Baleares, Galicia y Asturias.",
+      "Aragon, Navarra, Islas Baleares, Pais Vasco, Catalufa y Galicia."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 2 – La codificación y los derechos forales (Comunidades Autónomas con Derecho civil foral propio)"
+  },
+  {
+    "pregunta": "En la regulación de la aplicación y eficacia de las normas jurídicas, la competencia:",
+    "opciones": [
+      "Es exclusiva del Estado.",
+      "Es tanto del Estado cómo de aquellas Comunidades Aut6nomas donde exista Derecho Foral.",
+      "Es solamente de las Comunidades Aut6nomas."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 2 – La codificación y los derechos forales (art. 149.1.8ª CE, aplicación y eficacia de las normas)"
+  },
+  {
+    "pregunta": "En la Inscripción del nacimiento en el Registro Civil debe constar:",
+    "opciones": [
+      "La fecha y la hora exacta del nacimiento.",
+      "La fecha de nacimiento, pero no la hora en que tuvo lugar.",
+      "La fecha y hora del nacimiento, asi cómo el santoral del día correspondiente."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 9 – La persona (art. 170 RRC, hora del nacimiento en la inscripción)"
+  },
+  {
+    "pregunta": "Los derechos de la personalidad:",
+    "opciones": [
+      "Pueden prescribir en determinados supuestos excepcionales previstos por la ley y con justa causa.",
+      "Estan sometidos a un plazo de prescripción de 30 años.",
+      "Son imprescriptibles."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 10 – Los derechos de la personalidad (imprescriptibilidad de los derechos de la personalidad)"
+  },
+  {
+    "pregunta": "Luis esta emancipado por concesidn judicial y quiere casarse con su novia Elena, de 18 años. Para contraer matrimonio, Luis:",
+    "opciones": [
+      "Necesita el consentimiento de sus padres para poder casarse.",
+      "Debe pedir autorización judicial.",
+      "Cómo es un menor emancipado,           puede contraer matrimonio sin tener que recabar consentimiento alguno."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 11 – El ejercicio de la capacidad jurídica (efectos de la emancipación, matrimonio)"
+  },
+  {
+    "pregunta": "En la regulación general de los contratos:",
+    "opciones": [
+      "Rige la libertad de forma, siempre que concurran los requisitos esenciales.",
+      "Es imprescindible escritura pública para toda validez.",
+      "Es obligatoria la intervención notarial para que surta efectos entre partes."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 24 – Otros elementos del negocio jurídico (art. 1278 CC, libertad de forma)"
+  },
+  {
+    "pregunta": "La causa objetiva en los contratos gratuitos es:",
+    "opciones": [
+      "La prestación prometida por la otra parte.",
+      "La mera liberalidad del bienhechor.",
+      "El intercambio de prestaciones tipico del contrato."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 24 – Otros elementos del negocio jurídico (art. 1274 CC, causa objetiva en contratos gratuitos)"
+  },
+  {
+    "pregunta": "Luis interpone recurso de apelación contra la sentencia del juzgado a los 25 días de recibirla, cuando el plazo legal para recurrir es de 20 días. Ante ello, la otra parte:",
+    "opciones": [
+      "Necesariamente debera alegar el transcurso del plazo, porque la prescripción ha de alegarse siempre.",
+      "No es necesario que alegue el transcurso del plazo, porque la caducidad es apreciable de oficio por el Juez.",
+      "Necesariamente debera alegar el transcurso del plazo, porque la caducidad ha de alegarse siempre."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 8 – La prescripción y la caducidad (caducidad apreciable de oficio)"
+  },
+  {
+    "pregunta": "Los contratos celebrados en fraude de acreedores, cuando estos no pueden cobrar de otro modo lo que se les deba, son:",
+    "opciones": [
+      "Anulables.",
+      "Rescindibles.",
+      "Nulos de pleno derecho."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 25 – La ineficacia del negocio jurídico (art. 1291.3 CC, contratos en fraude de acreedores)"
+  },
+  {
+    "pregunta": "Ruth y Félix acaban de tener un bebé, pero no se deciden por el nombre que le van a poner. Segun la Ley del Registro Civil de 2011, el Encargado, tras haberles apercibido y pasados tres días, impondra al bebé:",
+    "opciones": [
+      "El nombre que considere oportuno.",
+      "Un nombre de uso corriente.",
+      "Un nombre de uso poco comun."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 16 – El Registro Civil (art. 51 LRC-2011, nombre de uso corriente)"
+  },
+  {
+    "pregunta": "La condición resolutoria implica que:",
+    "opciones": [
+      "El negocio no produce efectos hasta que ocurra el evento contemplado en ella.",
+      "Hay ineficacia sobrevenida si se cumple el evento previsto en ella.",
+      "Nunca puede afectar a derechos ya inscritos."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 24 – Otros elementos del negocio jurídico (art. 1123 CC, condición resolutoria)"
+  },
+  {
+    "pregunta": "Son requisitos basicos de la representaci6n directa:",
+    "opciones": [
+      "Actuaci6n en nombre propio, por cuenta ajena y sin poder.",
+      "Actuaci6n en nombre ajeno, por cuenta ajena y existencia de apoderamiento.",
+      "Actuación en nombre ajeno y siempre con mandato escrito."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 26 – La representación (requisitos de la representación directa)"
+  },
+  {
+    "pregunta": "El acto del fa/sus procurator.",
+    "opciones": [
+      "Vincula al representado en todo caso.",
+      "Da lugar a ineficacia frente al representado, salvo ratificación de este.",
+      "Obliga al tercero a cumplir, sin excepción."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 26 – La representación (art. 1259.2 CC, falsus procurator)"
+  },
+  {
+    "pregunta": "En el sistema de apoyos a las personas con discapacidad, la curatela aparece configurada cómo una medida:",
+    "opciones": [
+      "Preferente respecto de las medidas voluntarias adoptadas por la persona afectada.",
+      "Subsidiaria respecto de las medidas voluntarias adoptadas por la persona afectada.",
+      "En la misma posición que las medidas voluntarias adoptadas por la persona afectada."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 12 – Capacidad, discapacidad y cargos tuitivos (carácter subsidiario de la curatela frente a medidas voluntarias)"
+  },
+  {
+    "pregunta": "El guardador de hecho de una persona con discapacidad podra llegar a desempenar actuaciones representativas:",
+    "opciones": [
+      "Nunca, solo podra realizar actuaciones de apoyo.",
+      "En todo caso.",
+      "Solo con autorización judicial."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 12 – Capacidad, discapacidad y cargos tuitivos (art. 264 CC, guardador de hecho, actuaciones representativas)"
+  },
+  {
+    "pregunta": "Para la declaración de fallecimiento es preciso que una persona:",
+    "opciones": [
+      "Aparezca muerta.",
+      "Desaparezca sin haberse tenido mas noticias de ella, durante un determinado tiempo.",
+      "Haya desaparecido en una situación de riesgo."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 13 – La ausencia y la declaración de fallecimiento (requisitos de la declaración de fallecimiento)"
+  },
+  {
+    "pregunta": "Una patera llega a las playas de Cadiz con ocupantes mauritanos, entre los que esta una embarazada. Al llegar a la playa, da a luz un bebé y tan pronto se ha podido recuperar sale huyendo dejando al bebé abandonado y sin que se la haya podido identificar. La nacionalidad del bebé será:",
+    "opciones": [
+      "Mauritana, porque es la nacionalidad de los ocupantes de la patera y por tanto es la que cabe entender que tenia la madre.",
+      "Espanola, porque su filiación no esta determinada.",
+      "Ninguna. Es apatrida al no poder determinarse quiénes son sus padres."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 14 – La nacionalidad (art. 17.1 CC, ius soli, nacido en España de filiación no determinada)"
+  },
+  {
+    "pregunta": "Constituye un supuesto de patrimonio de carácter interino:",
+    "opciones": [
+      "Los bienes perteneciente al declarado fallecido.",
+      "Los bienes y derechos atribuidos al concebido pero no nacido.",
+      "Los bienes atribuidos al concepturus."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 21 – El patrimonio (patrimonio de carácter interino, concebido no nacido)"
+  },
+  {
+    "pregunta": "Se califica cómo negocios jurídicos bilaterales 0 sinalagmaticos aquellos:",
+    "opciones": [
+      "Que generan obligaciones para una sola de las partes.",
+      "En los que hay dos partes contratantes.",
+      "Que generan obligaciones para ambas partes contratantes."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 22 – El negocio jurídico (negocios bilaterales o sinalagmáticos)"
+  },
+  {
+    "pregunta": "El dolo, cómo vicio del consentimiento en un negocio jurídico, consiste:",
+    "opciones": [
+      "En utilizar palabras    0 maquinaciones insidiosas que induzcan a la parte que los sufra a contratar.",
+      "En una falsa representación de la realidad que induzca a contratar a quien la sufre.",
+      "En inspirar a uno de los contratantes el temor racional y fundado de sufrir un mal inminente y grave en su persona y bienes, 0 los de su cónyuge, descendientes o ascendientes."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 23 – La voluntad negocial (art. 1269 CC, el dolo como vicio del consentimiento)"
+  },
+  {
+    "pregunta": "En materia de vigencia y eficacia de las normas: la Constituci6n garantiza:",
+    "opciones": [
+      "La irretroactividad de las disposiciones sancionadoras no favorables o       restrictivas de derechos individuales.",
+      "La retroactividad de las disposiciones sancionadoras no favorables o         restrictivas de derechos individuales.",
+      "La retroactividad de todas las disposiciones."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 5 – La vigencia y eficacia de las normas (art. 9.3 CE, irretroactividad de disposiciones sancionadoras)"
+  },
+  {
+    "pregunta": "Cuando una nueva ley se aplica, a los efectos producidos con posterioridad a su entrada en vigor,    a causa de un hecho o acto anterior a la misma: ¢de qué tipo de retroactividad estamos hablando?",
+    "opciones": [
+      "Retroactividad en grado minimo o débil.",
+      "Retroactividad en grado maximo o fuerte.",
+      "No hay retroactividad."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 5 – La vigencia y eficacia de las normas (grados de retroactividad)"
+  },
+  {
+    "pregunta": "Las potestades atribuyen un poder a una persona:",
+    "opciones": [
+      "Para que lo ejercite en beneficio de los intereses de otra u otras personas.",
+      "Para que lo ejercite y atienda a sus propios intereses.",
+      "De manera ilimitada y general frente a todos."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 6 – Los derechos subjetivos (concepto de potestad)"
+  },
+  {
+    "pregunta": "La renuncia de los derechos:",
+    "opciones": [
+      "Siempre será válida por parte del titular del derecho.",
+      "No será válida después de transcurrido un año del nacimiento del derecho.",
+      "Solo será válida cuando no contrarie el interés o el orden público ni perjudique a terceros."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 6 – Los derechos subjetivos (art. 6.2 CC, renuncia de derechos)"
+  },
+  {
+    "pregunta": "En función del contenido del derecho subjetivo:",
+    "opciones": [
+      "Podemos distinguir entre derechos patrimoniales y derechos extrapatrimoniales.",
+      "Solo existen los derechos patrimoniales.",
+      "Solo existen los derechos extrapatrimoniales."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 6 – Los derechos subjetivos (clasificación de los derechos subjetivos: patrimoniales/extrapatrimoniales)"
+  },
+  {
+    "pregunta": "La competencia en la regulación de las formas de matrimonio es de:",
+    "opciones": [
+      "Los municipios donde residan los futuros cényuges.",
+      "Las Comunidades Aut6nomas",
+      "El Estado."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 2 – La codificación y los derechos forales (art. 149.1.8ª CE, formas de matrimonio)"
+  },
+  {
+    "pregunta": "La ratio decidendi es:",
+    "opciones": [
+      "El fundamento del fallo del Tribunal.",
+      "La razd6n que lleva al legislador a elaborar una ley.",
+      "El principio inspirador de la norma jurídica."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 3 – Ordenamiento jurídico y fuentes del Derecho (ratio decidendi y obiter dicta)"
+  },
+  {
+    "pregunta": "Roberto adolescente problematico vive con su madre, Paula, viuda desde hace dos años. Roberto acaba de heredar una fortuna de su abuelo materno y Paula le ha dicho a su hijo que cómo tiene dieciséis ahos lo mejor es que independice y se vaya de casa. Roberto no quiere irse de la casa materna de ninguna manera. ; Qué puede hacer Paula?",
+    "opciones": [
+      "Renunciar notarialmente a la patria potestad de Roberto.",
+      "Acudir al juez y pedir que se declare emancipado a su hijo.",
+      "Seguir ejerciendo la patria potestad hasta que Roberto sea mayor de edad."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 11 – El ejercicio de la capacidad jurídica (emancipación, arts. 241-244 CC)"
+  },
+  {
+    "pregunta": "Elija la respuesta verdadera:",
+    "opciones": [
+      "El nacimiento determina la personalidad.",
+      "La mayoria de edad determina la personalidad.",
+      "La concepción determina la personalidad."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 9 – La persona (art. 29 CC, el nacimiento determina la personalidad)"
+  },
+  {
+    "pregunta": "Elija la respuesta FALSA. El derecho al nombre:",
+    "opciones": [
+      "Es un derecho de la personalidad, pero no tiene rango de derecho fundamental.",
+      "Esta reconocido expresamente por la Constitucié6n espanola.",
+      "Se contempla en la Ley del Registro Civil."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 10 – Los derechos de la personalidad (el derecho al nombre no está reconocido expresamente en la CE)"
+  },
+  {
+    "pregunta": "Con la legislaci6n actual:",
+    "opciones": [
+      "Los mayores de edad podran ser sometidos a tutela en determinadas circunstancias previstas en la ley.",
+      "Los menores de edad podran ser sometidos a tutela en determinadas circunstancias previstas en la ley.",
+      "La tutela ya no es posible ni para mayores de edad ni para menores de edad."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 12 – Capacidad, discapacidad y cargos tuitivos (art. 199 CC, restricción de la tutela a menores no emancipados)"
+  },
+  {
+    "pregunta": "El patrimonio de una fundaci6n en periodo de constituci6n, constituye un caso de:",
+    "opciones": [
+      "Patrimonio personal, porque la fundaci6n tiene personalidad jurídica.",
+      "Patrimonio de destino, puesto que la fundación todavia no tiene personalidad jurídica.",
+      "Patrimonio de carácter interino, puesto que aún no se sabe quién va a ser su titular."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 21 – El patrimonio (patrimonio de destino, dotación fundacional)"
+  },
+  {
+    "pregunta": "La interpretaci6n supone:",
+    "opciones": [
+      "La aplicaci6n de una norma a un supuesto carente de regulación.",
+      "Averiguar el sentido de las palabras de la norma para poder aplicarla al caso planteado.",
+      "Averiguar qué lugar ocupa la norma en el sistema de fuentes."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 4 – La aplicación de las normas jurídicas (art. 3.1 CC, interpretación de las normas)"
   }
 ]

@@ -7,7 +7,8 @@
  * {
  *   "pregunta": "Texto de la pregunta",
  *   "opciones": ["Opción A", "Opción B", "Opción C", "Opción D"],
- *   "correcta": 0   // índice (0-3) de la opción correcta
+ *   "correcta": 0,          // índice (0-3) de la opción correcta
+ *   "cita": "Texto opcional que explica/justifica la respuesta correcta"
  * }
  *
  * Toda la "memoria" de qué preguntas ya han salido vive únicamente
@@ -105,7 +106,8 @@ function handleRevealAll() {
     const title = card.querySelector(".question-title");
     const list = card.querySelector(".options-list");
     const revealBtn = card.querySelector(".btn-reveal");
-    revealAnswer(q, title, list, revealBtn);
+    const explanation = card.querySelector(".answer-explanation");
+    revealAnswer(q, title, list, revealBtn, explanation);
   });
 }
 
@@ -143,6 +145,7 @@ function buildExam(n) {
     pregunta: state.pool[originalIndex].pregunta,
     opciones: state.pool[originalIndex].opciones,
     correcta: state.pool[originalIndex].correcta,
+    cita: state.pool[originalIndex].cita,
     answered: false,
     selected: null,
   }));
@@ -220,31 +223,36 @@ function renderQuestionCard(q, qIndex) {
 
   card.appendChild(list);
 
+  // --- Explicación de la respuesta correcta (se muestra al revelar) ---
+  const explanation = document.createElement("p");
+  explanation.className = "answer-explanation hidden";
+  card.appendChild(explanation);
+
   revealBtn.addEventListener("click", () => {
-    revealAnswer(q, title, list, revealBtn);
+    revealAnswer(q, title, list, revealBtn, explanation);
   });
 
   // Si esta pregunta ya se había respondido (p. ej. al re-renderizar),
   // restauramos el estado visual.
   if (q.answered) {
-    applyRevealedStyles(q, title, list, revealBtn);
+    applyRevealedStyles(q, title, list, revealBtn, explanation);
   }
 
   return card;
 }
 
-function revealAnswer(q, title, list, revealBtn) {
+function revealAnswer(q, title, list, revealBtn, explanation) {
   if (q.answered) return;
 
   const checked = list.querySelector('input[type="radio"]:checked');
   q.selected = checked ? parseInt(checked.value, 10) : null;
   q.answered = true;
 
-  applyRevealedStyles(q, title, list, revealBtn);
+  applyRevealedStyles(q, title, list, revealBtn, explanation);
   updateScoreSummary();
 }
 
-function applyRevealedStyles(q, title, list, revealBtn) {
+function applyRevealedStyles(q, title, list, revealBtn, explanation) {
   const isCorrect = q.selected === q.correcta;
 
   title.classList.remove("title-correct", "title-incorrect");
@@ -265,6 +273,11 @@ function applyRevealedStyles(q, title, list, revealBtn) {
   list.classList.add("answered");
   revealBtn.disabled = true;
   revealBtn.textContent = isCorrect ? "✔ Correcta" : "✘ Incorrecta";
+
+  if (q.cita) {
+    explanation.textContent = `📖 ${q.cita}`;
+    explanation.classList.remove("hidden");
+  }
 }
 
 function updateScoreSummary() {

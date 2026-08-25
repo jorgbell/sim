@@ -307,6 +307,17 @@ main {
   cursor: default;
 }
 
+.answer-explanation {
+  margin: 0.9rem 0 0;
+  padding: 0.7rem 0.9rem;
+  border-left: 3px solid var(--accent);
+  background: var(--bg-soft);
+  border-radius: 0 8px 8px 0;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
 .app-footer {
   text-align: center;
   color: var(--text-muted);
