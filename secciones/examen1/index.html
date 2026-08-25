@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Derecho Civil I.1: Parte general y Persona (no disponible) — Simulador de Examen</title>
+<link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+
+  <header class="app-header">
+    <p class="back-link"><a href="../../index.html">← Volver al menú</a></p>
+    <h1>Derecho Civil I.1: Parte general y Persona (no disponible)</h1>
+  </header>
+
+  <main>
+
+    <!-- PANTALLA DE CONFIGURACIÓN -->
+    <section id="setup-screen" class="screen">
+      <div class="card">
+        <p id="pool-info" class="pool-info">Cargando banco de preguntas…</p>
+
+        <label for="num-questions">Número de preguntas del examen</label>
+        <input type="number" id="num-questions" min="1" value="10">
+
+        <button id="start-btn" class="btn btn-primary">Comenzar examen</button>
+        <p id="setup-error" class="error-msg"></p>
+      </div>
+    </section>
+
+    <!-- PANTALLA DE EXAMEN -->
+    <section id="exam-screen" class="screen hidden">
+      <div class="exam-header">
+        <div class="exam-header-info">
+          <h2>Examen — <span id="question-count">0</span> preguntas</h2>
+          <p id="score-summary" class="score-summary">Aciertos: 0 / 0 corregidas</p>
+        </div>
+        <div class="exam-header-actions">
+          <button id="reveal-all-btn" class="btn btn-secondary">👁️ Revelar todas</button>
+          <label for="new-exam-count" class="inline-label">Nº preguntas</label>
+          <input type="number" id="new-exam-count" min="1" value="10">
+          <button id="new-exam-btn" class="btn btn-secondary">🔄 Nuevo examen</button>
+        </div>
+      </div>
+
+      <div id="questions-container"></div>
+    </section>
+
+  </main>
+
+  <footer class="app-footer">
+    <p>Los datos se cargan desde <code>questions.json</code>.</p>
+  </footer>
+
+  <script src="../../script.js"></script>
+</body>
+</html>

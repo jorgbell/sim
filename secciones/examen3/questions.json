@@ -1,0 +1,52 @@
+[
+  {
+    "pregunta": "¿Cuál es la unidad básica de la materia?",
+    "opciones": ["Molécula", "Átomo", "Célula", "Electrón"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la velocidad de la luz en el vacío?",
+    "opciones": ["300.000 km/s", "150.000 km/s", "3.000 km/s", "1.080.000 km/s"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué proceso permite a las plantas fabricar su propio alimento?",
+    "opciones": ["Respiración", "Fotosíntesis", "Fermentación", "Ósmosis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el hueso más largo del cuerpo humano?",
+    "opciones": ["Húmero", "Tibia", "Fémur", "Radio"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué partícula subatómica tiene carga negativa?",
+    "opciones": ["Protón", "Neutrón", "Electrón", "Positrón"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el elemento químico más abundante en el universo?",
+    "opciones": ["Oxígeno", "Carbono", "Helio", "Hidrógeno"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué científico formuló la teoría de la relatividad?",
+    "opciones": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Galileo Galilei"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué gas producen las plantas durante la fotosíntesis?",
+    "opciones": ["Dióxido de carbono", "Nitrógeno", "Oxígeno", "Hidrógeno"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuántos cromosomas tiene una célula humana normal?",
+    "opciones": ["23", "44", "46", "48"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué instrumento se utiliza para medir la temperatura?",
+    "opciones": ["Barómetro", "Termómetro", "Higrómetro", "Anemómetro"],
+    "correcta": 1
+  }
+]

@@ -32,6 +32,7 @@ const els = {
   scoreSummary: document.getElementById("score-summary"),
   newExamBtn: document.getElementById("new-exam-btn"),
   newExamCount: document.getElementById("new-exam-count"),
+  revealAllBtn: document.getElementById("reveal-all-btn"),
   questionsContainer: document.getElementById("questions-container"),
 };
 
@@ -60,6 +61,7 @@ async function init() {
 
   els.startBtn.addEventListener("click", handleStartExam);
   els.newExamBtn.addEventListener("click", handleNewExam);
+  els.revealAllBtn.addEventListener("click", handleRevealAll);
 }
 
 function handleStartExam() {
@@ -88,6 +90,23 @@ function handleNewExam() {
   buildExam(n);
   renderExam();
   window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+/**
+ * Revela de golpe la respuesta de todas las preguntas del examen actual
+ * que todavía no se hayan corregido individualmente.
+ */
+function handleRevealAll() {
+  const cards = els.questionsContainer.querySelectorAll(".question-card");
+  cards.forEach((card, qIndex) => {
+    const q = state.currentQuestions[qIndex];
+    if (!q || q.answered) return;
+
+    const title = card.querySelector(".question-title");
+    const list = card.querySelector(".options-list");
+    const revealBtn = card.querySelector(".btn-reveal");
+    revealAnswer(q, title, list, revealBtn);
+  });
 }
 
 function validateCount(n) {

@@ -36,6 +36,24 @@ body {
   font-size: 1.8rem;
 }
 
+.back-link {
+  margin: 0 0 0.6rem;
+  text-align: left;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.back-link a {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.back-link a:hover {
+  color: var(--accent-hover);
+}
+
 main {
   flex: 1;
   width: 100%;
@@ -62,6 +80,23 @@ main {
 .pool-info {
   color: var(--text-muted);
   margin-top: 0;
+}
+
+/* --- Menú principal --- */
+.menu-card {
+  max-width: 460px;
+}
+
+.menu-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.menu-buttons .btn {
+  width: 100%;
+  padding: 0.9rem 1.1rem;
+  font-size: 1.05rem;
 }
 
 .card label {
@@ -94,12 +129,15 @@ main {
 
 /* --- Botones --- */
 .btn {
+  display: inline-block;
   border: none;
   border-radius: 8px;
   padding: 0.65rem 1.1rem;
   font-size: 0.95rem;
   font-weight: 600;
   cursor: pointer;
+  text-decoration: none;
+  text-align: center;
   transition: background 0.15s ease, transform 0.05s ease;
 }
 

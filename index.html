@@ -15,42 +15,23 @@
 
   <main>
 
-    <!-- PANTALLA DE CONFIGURACIÓN -->
-    <section id="setup-screen" class="screen">
-      <div class="card">
-        <p id="pool-info" class="pool-info">Cargando banco de preguntas…</p>
-
-        <label for="num-questions">Número de preguntas del examen</label>
-        <input type="number" id="num-questions" min="1" value="10">
-
-        <button id="start-btn" class="btn btn-primary">Comenzar examen</button>
-        <p id="setup-error" class="error-msg"></p>
+    <!-- PANTALLA DE INICIO: elección de sección -->
+    <section class="screen">
+      <div class="card menu-card">
+        <p class="pool-info">Elige el examen que quieres practicar:</p>
+        <nav class="menu-buttons">
+          <a class="btn btn-primary" href="secciones/examen1/index.html">Derecho Civil I.1: Parte general y Persona (no disponible)</a>
+          <a class="btn btn-primary" href="secciones/examen2/index.html">Derecho Civil I.2: Familia (no disponible)</a>
+          <a class="btn btn-primary" href="secciones/examen3/index.html">Teoría del Derecho (no disponible)</a>
+        </nav>
       </div>
-    </section>
-
-    <!-- PANTALLA DE EXAMEN -->
-    <section id="exam-screen" class="screen hidden">
-      <div class="exam-header">
-        <div class="exam-header-info">
-          <h2>Examen — <span id="question-count">0</span> preguntas</h2>
-          <p id="score-summary" class="score-summary">Aciertos: 0 / 0 corregidas</p>
-        </div>
-        <div class="exam-header-actions">
-          <label for="new-exam-count" class="inline-label">Nº preguntas</label>
-          <input type="number" id="new-exam-count" min="1" value="10">
-          <button id="new-exam-btn" class="btn btn-secondary">🔄 Nuevo examen</button>
-        </div>
-      </div>
-
-      <div id="questions-container"></div>
     </section>
 
   </main>
 
   <footer class="app-footer">
-    <p>Los datos se cargan desde <code>questions.json</code>.</p>
+    <p>Cada sección carga sus preguntas desde su propio <code>questions.json</code>.</p>
   </footer>
 
-  <script src="script.js"></script>
 </body>
 </html>
