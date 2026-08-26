@@ -1,1202 +1,1612 @@
 [
   {
-    "pregunta": "Las relaciones jurídicas están reguladas por:",
+    "pregunta": "Diga cual es la afirmación correcta:",
     "opciones": [
-      "Los derechos subjetivos",
-      "Las facultades y poderes de los sujetos",
-      "Las normas jurídicas"
+      "El matrimonio es un acto solemne, salvo pacto en contrario.",
+      "El matrimonio es un acto solemne de modo que si no se respeta la forma establecida por el Código civil o la forma religiosa legalmente prevista tiene como consecuencia la nulidad del matrimonio.",
+      "Solo el matrimonio religioso es un acto solemne. Respecto al matrimonio civil el Código civil establece la libertad de forma."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 3 – p. 73 (art. 73.3ª CC, nulidad por defecto de forma)"
+  },
+  {
+    "pregunta": "Las capitulaciones matrimoniales deberan constar:",
+    "opciones": [
+      "En cualquier documento, público o privado.",
+      "En cualquier documento público.",
+      "En escritura pública."
     ],
     "correcta": 2,
-    "cita": "Tema 3, p. 63 (relación jurídica regulada por normas jurídicas)"
+    "cita": "Cap. 10 – p. 159 (art. 1327 CC, escritura pública)"
   },
   {
-    "pregunta": "¿Quién definió el concepto de relación jurídica en el siglo XIX?",
+    "pregunta": "¿Cómo se constituye la adopción nacional?",
     "opciones": [
-      "Savigny",
-      "Rousseau",
-      "Bobbio"
-    ],
-    "correcta": 0,
-    "cita": "Tema 3, p. 68 (Savigny perfiló el concepto de relación jurídica en el s.XIX)"
-  },
-  {
-    "pregunta": "Dentro de los elementos que constituyen la relación jurídica ¿cuál es el elemento central?",
-    "opciones": [
-      "Los sujetos",
-      "El objeto",
-      "El vínculo de atribución"
+      "Mediante acta otorgada ante Notario.",
+      "Mediante resolución del Registro Civil.",
+      "Mediante resolución judicial."
     ],
     "correcta": 2,
-    "cita": "Tema 3, p. 69 (vínculo de atribución, elemento central de la relación jurídica)"
+    "cita": "Cap. 22 – p. 323 (art. 176.1 CC, naturaleza constitutiva de la resolución judicial)"
   },
   {
-    "pregunta": "El núcleo de la dimensión moral radica en:",
+    "pregunta": "El plazo para pedir el resarcimiento de los gastos realizados en atención al matrimonio prometido:",
     "opciones": [
-      "La conciencia individual",
-      "La voluntad individual",
-      "La conciencia colectiva"
+      "Caduca al año,      contado desde la negativa a la celebración del matrimonio.",
+      "Caduca a los dos años, contados desde la negativa a la celebración del matrimonio.",
+      "Caduca a los seis meses, contados desde la ruptura de la promesa."
     ],
     "correcta": 0,
-    "cita": "Tema 1, p. 36 (centro de gravedad de la dimensión moral: la conciencia individual)"
+    "cita": "Cap. 2 – p. 32 (art. 43 CC, caducidad al año)"
   },
   {
-    "pregunta": "La moral puede tener distintos significados:",
+    "pregunta": "Ante Notario podrá realizarse:",
     "opciones": [
-      "como fuerza, apropiación y justificación",
-      "como el conjunto de hábitos, actos y carácter del ser humano",
-      "Las dos respuestas son correctas."
+      "La celebración del matrimonio, y la separación legal y el divorcio.",
+      "La celebración del matrimonio, pero no la separación legal y el divorcio.",
+      "La separación legal y el divorcio, pero no la celebraci6n del matrimonio."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 6/3 – p. 86/46-47 (notario competente para autorizar matrimonio y separación)"
+  },
+  {
+    "pregunta": "Pedro, de 17 años, quiere contraer matrimonio con su novia Pepa, de 16. 4 Podran hacerlo?",
+    "opciones": [
+      "Si, con dispensa del juez.",
+      "Solo si previamente son emancipados.",
+      "Nunca."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 3 – p. 38 (edad núbil; dispensa de edad abolida por la LJV)"
+  },
+  {
+    "pregunta": "La separación de hecho",
+    "opciones": [
+      "tiene efectos en cuanto a la herencia, pues al cónyuge separado de hecho le priva de la legítima correspondiente al cónyuge viudo.",
+      "tiene efectos en cuanto a la herencia, pues si hay hijos menores priva al cónyuge separado de hecho de la legítima correspondiente al cónyuge viudo.",
+      "no priva al cónyuge separado de la legítima correspondiente al cónyuge viudo."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 6 – p. 93 (la separación de hecho priva de la cuota legitimaria del viudo)"
+  },
+  {
+    "pregunta": "Maria Dolores casada en régimen de gananciales con Felipe, tiene un accidente de trafico. Cómo consecuencia del mismo recibe una indemnizacidén por las lesiones sufridas. El dinero percibido por Maria Dolores es de caracter:",
+    "opciones": [
+      "Privativo de ella.",
+      "Ganancial.",
+      "Es de caracter privativo, pero la sociedad de gananciales tendrá un crédito frente a ella."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 12 – p. 184 (art. 1346.6º CC, indemnizaciones por daños a la persona)"
+  },
+  {
+    "pregunta": "En caso de discrepancia entre los cónyuges sobre la fijación del domicilio conyugal:",
+    "opciones": [
+      "Se fijara por resolución judicial,   en función    de   las   necesidades laborales de los cónyuges.",
+      "Lo resolvera el juez, teniendo en cuenta el interés de la familia.",
+      "Se resolvera en sede judicial, sólo en caso de separación o divorcio."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 4 – p. 66 (art. 70 CC, en caso de discrepancia resuelve el juez)"
+  },
+  {
+    "pregunta": "¿Cual de las siguientes proposiciones es falsa?",
+    "opciones": [
+      "Los cónyuges están obligados a vivir juntos.",
+      "Se presume, salvo prueba en contrario, que los cónyuges viven juntos.",
+      "El deber de fidelidad conyugal ha sido derogado recientemente."
     ],
     "correcta": 2,
-    "cita": "Tema 1, p. 35 (Moral: fuerza/apropiación/justificación y conjunto de hábitos, actos y carácter)"
+    "cita": "Cap. 4 – p. 62 (art. 68 CC, deber de fidelidad)"
   },
   {
-    "pregunta": "Dentro de los derechos de la libertad podemos distinguir dos grupos:",
+    "pregunta": "El matrimonio putativo:",
     "opciones": [
-      "Derechos civiles y derechos políticos",
-      "Derechos individuales y derechos sociales",
-      "Derechos privados y derechos personales"
-    ],
-    "correcta": 0,
-    "cita": "Tema 12, p. 202 (derechos de libertad: dos grandes grupos, civiles y políticos)"
-  },
-  {
-    "pregunta": "Los derechos de los pueblos pertenecen a los derechos humanos:",
-    "opciones": [
-      "De la primera generación",
-      "De la segunda generación",
-      "De la tercera generación"
+      "Es el que no produce efectos civiles por haber sido declarado nulo.",
+      "Es el matrimonio contraido de mala fe por al menos uno de los contrayentes.",
+      "Es el matrimonio que produce efectos civiles por haber sido contraido de buena fe por al menos uno de los contrayentes."
     ],
     "correcta": 2,
-    "cita": "Tema 12, p. 201 (derechos de tercera generación: primero, los derechos de los pueblos)"
+    "cita": "Cap. 5 – p. 77 (matrimonio putativo, buena fe)"
   },
   {
-    "pregunta": "Los derechos fundamentales son:",
+    "pregunta": "La acción de separación",
     "opciones": [
-      "Aquellos derechos que poseen todos los hombres por ser consustanciales a la naturaleza humana",
-      "Aquellos derechos que garantizan una vida auténticamente digna como vida humana",
-      "Aquellos derechos humanos ya reconocidos por la legislación estatal o internacional"
+      "se extingue por la muerte de cualquiera de los dos cónyuges.",
+      "tiene caracter de personalisima, pero los herederos del cónyuge que haya fallecido o haya sido declarado muerto durante el procedimiento pueden continuar   el   procedimiento     si   se   está   discutiendo   una _ pensión compensatoria que se incluya en la herencia.",
+      "no tiene caracter de personalisima."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 6 – p. 89 (la acción de separación se extingue por la muerte de cualquiera de los cónyuges)"
+  },
+  {
+    "pregunta": "Para que un cónyuge puede solicitar unilateralmente la separación judicial",
+    "opciones": [
+      "han de haber transcurrido al menos seis meses desde que se celebro el matrimonio, salvo que exista riesgo para la vida, la integridad física, la integridad moral o libertad e indemnidad sexual del cónyuge demandante. Oo de los hijos de ambos o de cualquiera de los miembros del matrimonio",
+      "ha de haber transcurrido al menos un afo desde que se celebro el matrimonio.",
+      "ninguna de las dos respuestas anteriores es correcta."
     ],
     "correcta": 2,
-    "cita": "Tema 12, p. 210 (derechos fundamentales = derechos humanos ya positivizados)"
+    "cita": "Cap. 6 – p. 88 (el plazo real es de tres meses, no seis ni un año (art. 81-82 CC))"
   },
   {
-    "pregunta": "La Ética Profesional:",
+    "pregunta": "Dos primos son, entre si...",
     "opciones": [
-      "Es considerada como una parte de la Ética Aplicada",
-      "Es considerada como parte de la Deontologia Profesional",
-      "Es considerada como parte de la Moral"
-    ],
-    "correcta": 0,
-    "cita": "Tema 13, p. 224 (Ética Profesional incluida dentro de la Ética Aplicada)"
-  },
-  {
-    "pregunta": "El aforismo jurídico ubi societas, ibi ius hace referencia a:",
-    "opciones": [
-      "A la capacidad de la sociedad de cumplir los objetivos del Derecho",
-      "La dimensión factica del Derecho",
-      "A los retos que el Derecho debe cumplir en la sociedad"
+      "parientes por afinidad.",
+      "parientes colaterales en cuarto grado.",
+      "parientes colaterales en tercer grado."
     ],
     "correcta": 1,
-    "cita": "Tema 9, p. 157 (ubi societas, ibi ius y la dimensión fáctica del Derecho)"
+    "cita": "Cap. 18 – p. 261 (art. 918 CC, primos hermanos = 4º grado colateral)"
   },
   {
-    "pregunta": "Como se denomina el método de integración jurídica que aplica, por identidad de razón, una norma jurídica a un supuesto no regulado:",
+    "pregunta": "Una vez declarado fallecido un cónyuge...",
     "opciones": [
-      "equidad",
-      "heterointegración",
-      "analogía"
+      "el otro podrá volver a contraer matrimonio.",
+      "el otro podrá volver a contraer matrimonio, pero tras los seis meses desde la declaraci6n de fallecimiento.",
+      "ninguna de las respuestas anteriores es correcta."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 7 – p. 97 (art. 85 CC, disolución del matrimonio por declaración de fallecimiento)"
+  },
+  {
+    "pregunta": "El matrimonio se disuelve por ...",
+    "opciones": [
+      "sólo por el divorcio.",
+      "por el divorcio, por la muerte y por la declaración de fallecimiento de un cónyuge.",
+      "por el divorcio, por la muerte, por la declaración de fallecimiento y por la declaración de ausencia legal de un cónyuge."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 7 – p. 97 (art. 85 CC (pregunta reconstruida por falta de una opción en el PDF original))"
+  },
+  {
+    "pregunta": "Cuándo se solicite la separación o el divorcio ante Notario o ante el Letrado de la Administración de Justicia, la formulaci6n del convenio regulador por parte de los cónyuges:",
+    "opciones": [
+      "Sera voluntaria.",
+      "Sera obligatoria.",
+      "Dependera de las partes, si así lo estiman conveniente."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 7/6 – p. 101/86 (el convenio regulador es obligatorio salvo mutuo acuerdo ante LAJ/notario)"
+  },
+  {
+    "pregunta": "Los acuerdos y el convenio regulador que le presenten al Juez los cónyuges, en los que regulan las consecuencias en caso de nulidad, separación o divorcio:",
+    "opciones": [
+      "Vinculan al Juez siempre y debera aprobarlos.",
+      "El Juez discrecionalmente puede aprobarlos 0 no según le parezca.",
+      "Seran aprobados por el Juez, salvo si son dafhosos para los hijos o gravemente perjudiciales para uno de los cónyuges."
     ],
     "correcta": 2,
-    "cita": "Tema 6, p. 120 (analogía: mismo tratamiento a un supuesto no regulado por identidad de razón)"
+    "cita": "Cap. 8 – p. 118 (art. 90.2 CC, convenio dañoso o gravemente perjudicial)"
   },
   {
-    "pregunta": "La acepción del Derecho que lo entiende como facultad o poder se denomina:",
+    "pregunta": "Con la Ley 8/2021, de 2 de junio, por la que se reforma la legislaci6n civil y procesal para el apoyo a las personas con discapacidad en el ejercicio de su capacidad jurídica,",
     "opciones": [
-      "Derecho objetivo",
-      "Derecho valorativo",
-      "Derecho subjetivo"
+      "hay dos tipos de curatela:   la asistencial y la representativa.",
+      "hay tres tipos de curatela: la asistencial, la representativa y la tutela.",
+      "hay tres tipos de curatela: la asistencial, la representativa y la guarda de hecho."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 25 – p. 372 (Ley 8/2021, curatela asistencial y representativa)"
+  },
+  {
+    "pregunta": "En caso de que una persona reclame alimentos ;quién será el primer obligado según nuestro Código Civil?",
+    "opciones": [
+      "Su padre que carece de medios.",
+      "Su hermana",
+      "Su cónyuge del que está separado de hecho. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulaci6n de alguna de las 20 preguntas ordinarias que integran el examen."
     ],
     "correcta": 2,
-    "cita": "Tema 4, p. 85 (derecho subjetivo = facultad o poder)"
+    "cita": "Cap. 6 – p. 93 (la separación de hecho no extingue la obligación alimenticia entre cónyuges)"
   },
   {
-    "pregunta": "El positivismo legalista significa:",
+    "pregunta": "El interesado en cambiar el orden de sus apellidos podrá hacerlo...",
     "opciones": [
-      "Separación total entre creación y aplicación jurídica",
-      "Plena confianza en la actividad judicial",
-      "El juez resolvia los casos acudiendo a la costumbre y la jurisprudencia, interpretando la ley."
-    ],
-    "correcta": 0,
-    "cita": "Tema 7, p. 129 (positivismo legalista: tajante separación entre creación y aplicación jurídica)"
-  },
-  {
-    "pregunta": "El acto jurídico:",
-    "opciones": [
-      "Es lo mismo que el hecho natural",
-      "Es una acción humana con consecuencias jurídicas",
-      "Es un acontecimiento natural, independiente de la acción humana, con consecuencias jurídicas."
-    ],
-    "correcta": 1,
-    "cita": "Tema 3, p. 67 (acto jurídico: acción o comportamiento humano con consecuencias jurídicas)"
-  },
-  {
-    "pregunta": "Son métodos de autointegración jurídica:",
-    "opciones": [
-      "la jerarquía y cronologia normativa",
-      "la analogía y los principios generales del Derecho",
-      "la aplicación de la doctrina jurídica"
-    ],
-    "correcta": 1,
-    "cita": "Tema 6, p. 120 (autointegración: analogía y Principios Generales del Derecho)"
-  },
-  {
-    "pregunta": "- El método de interpretación jurídica que analiza el sentido y alcance de las normas a partir de las circunstancias políticas, jurídicas y sociales existentes en el momento de su promulgación se denomina:",
-    "opciones": [
-      "Método teleológico.",
-      "Método histórico.",
-      "Método sistematico."
-    ],
-    "correcta": 1,
-    "cita": "Tema 7, p. 135 (método histórico: origen de la norma en su momento de promulgación)"
-  },
-  {
-    "pregunta": "- ¿Ante una laguna jurídica un juez español puede resolver aplicando lo establecido en una norma del Derecho de la Unión Europea?:",
-    "opciones": [
-      "Si, es un método de heterointegración",
-      "Si, es un método de Autointegración",
-      "No, siempre tiene que resolver aplicando únicamente normas del Derecho español"
-    ],
-    "correcta": 0,
-    "cita": "Tema 6, p. 120 (heterointegración: vacío normativo cubierto con Derecho de la UE)"
-  },
-  {
-    "pregunta": "- El iuspositivismo es una corriente doctrinal que afirma que:",
-    "opciones": [
-      "El Derecho sólo cabe estudiarlo como un fenómeno histórico y social",
-      "El Derecho se compone de reglas y de derechos naturales.",
-      "El Derecho positivo es el fundamento del Derecho Natural."
-    ],
-    "correcta": 0,
-    "cita": "Tema 2, p. 55 (ciencia positiva: el Derecho solo cabe estudiarlo como fenómeno histórico y social)"
-  },
-  {
-    "pregunta": "- Cémo se denomina al conjunto de normas y relaciones jurídicas ordenadas en torno a una idea común:",
-    "opciones": [
-      "Institución jurídica",
-      "Situación jurídica",
-      "Relación jurídica"
-    ],
-    "correcta": 0,
-    "cita": "Tema 3, p. 75 (institución jurídica: normas y relaciones jurídicas en torno a una idea común)"
-  },
-  {
-    "pregunta": "- El paradigma positivista:",
-    "opciones": [
-      "Encarna el modelo del Estado legislativo de Derecho y el imperio de la ley.",
-      "Encarna el modelo del Estado Constitucional de Derecho y el imperio de la Constitución.",
-      "Ambas respuestas son correctas pues el imperio de la Constitución no puede entenderse sin el imperio de la ley. 4"
-    ],
-    "correcta": 0,
-    "cita": "Tema 7, p. 138 (paradigma positivista = Estado legislativo de Derecho, imperio de la ley)"
-  },
-  {
-    "pregunta": "¿Cuáles de los siguientes NO pueden ser sujetos creadores de Derecho del sistema jurídico estatal?",
-    "opciones": [
-      "Las organizaciones internacionales y supranacionales.",
-      "Los    tribunales   que,   mediante   la práctica   del Derecho,   van   estableciendo costumbres jurídicas.",
-      "Las empresas privadas."
+      "cuando cumpla 12 años.",
+      "siempre que quiera, pero con el consentimiento de sus padres.",
+      "ninguna de las respuestas anteriores es correcta."
     ],
     "correcta": 2,
-    "cita": "Tema 4, p. 80 (empresas privadas no figuran entre los sujetos creadores de Derecho estatal)"
+    "cita": "Cap. 18 – p. 267 (art. 109 CC, cambio de orden de apellidos al alcanzar la mayoría de edad)"
   },
   {
-    "pregunta": "Las Reglas de Trato Social se caracterizan por:",
+    "pregunta": "Diga cual es la afirmacion_correcta:",
     "opciones": [
-      "Sociabilidad, alteridad y heteronomia",
-      "Individualidad, Autonomia y coercibilidad",
-      "Sanciones indeterminadas, autonomia y heteronomia"
-    ],
-    "correcta": 0,
-    "cita": "Tema 1, p. 33 (Reglas de Trato Social: alteridad/bilateralidad, exterioridad y heteronomía)"
-  },
-  {
-    "pregunta": "Es un elemento básico del Estado de Derecho:",
-    "opciones": [
-      "La afirmacion de la personalidad jurídica de la sociedad.",
-      "La legalidad de las actuaciones de los medios informativos.",
-      "La separacion de los poderes legislativo, ejecutivo y judicial"
+      "Las Comunidades AutOnomas pueden establecer sus propias normas respecto de los requisitos del matrimonio.",
+      "Las Comunidades aut6nomas pueden establecer sus propias normas respecto a la forma del matrimonio.",
+      "Las Comunidades aut6nomas pueden establecer reglas propias por lo que se refiere al régimen económico matrimonial, siempre que tengan competencia para ello."
     ],
     "correcta": 2,
-    "cita": "Tema 8, p. 151 (separación de poderes legislativo, ejecutivo y judicial, rasgo del Estado de Derecho)"
+    "cita": "Cap. 2 – p. 30 (art. 149.1.8ª CE, las CCAA sí pueden legislar sobre el régimen económico)"
   },
   {
-    "pregunta": "El aforismo jurídico ubi societas, ibi ius hace referencia a:",
+    "pregunta": "Es necesaria la dispensa para contraer matrimonio entre:",
     "opciones": [
-      "La dimensión factica del Derecho",
-      "A la capacidad de la sociedad de cumplir los objetivos del Derecho",
-      "A los retos que el Derecho debe cumplir en la sociedad."
+      "Tios y sobrinos.",
+      "Primos.",
+      "Padres e hijos adoptivos."
     ],
     "correcta": 0,
-    "cita": "Tema 9, p. 157 (ubi societas, ibi ius y la dimensión fáctica del Derecho)"
+    "cita": "Cap. 3 – p. 41 (art. 47.2ª CC, colaterales hasta el 3er grado (tíos y sobrinos) necesitan dispensa)"
   },
   {
-    "pregunta": "El iusnaturalismo consiste en que:",
+    "pregunta": "Diga cual es la afirmación CORRECTA:",
     "opciones": [
-      "El Derecho positivo es superior al Derecho Natural",
-      "El Derecho Natural vincula al Derecho positivo.",
-      "El Derecho Natural responde a las exigencias de la naturaleza."
-    ],
-    "correcta": 1,
-    "cita": "Tema 2, p. 55 (las leyes naturales determinan el contenido de la justicia (iusnaturalismo))"
-  },
-  {
-    "pregunta": "Podemos definir, sucintamente, la ética como:",
-    "opciones": [
-      "Una reflexión filosófica sobre la moral.",
-      "Una reflexión filosófica sobre la libertad, la igualdad y la justicia.",
-      "El conjunto de reglas que se aplican en la vida cotidiana y todos los ciudadanos emplean continuamente."
-    ],
-    "correcta": 0,
-    "cita": "Tema 13, p. 221 (la Ética es una reflexión filosófica sobre la moral)"
-  },
-  {
-    "pregunta": "El iuspositivismo es una corriente doctrinal que afirma que:",
-    "opciones": [
-      "El Derecho sólo cabe estudiarlo como un fenómeno histórico y social",
-      "El Derecho se compone de reglas y de derechos naturales.",
-      "El Derecho positivo es el fundamento del Derecho Natural."
-    ],
-    "correcta": 0,
-    "cita": "Tema 2, p. 55 (ciencia positiva: el Derecho solo cabe estudiarlo como fenómeno histórico y social)"
-  },
-  {
-    "pregunta": "La alteridad del Derecho es una característica que significa que:",
-    "opciones": [
-      "pone en referencia los actos de una persona con los de otra.",
-      "implica una alteracion de las relaciones sociales.",
-      "afirma la posibilidad de que la relación jurídica se modifique."
-    ],
-    "correcta": 0,
-    "cita": "Tema 14, p. 261 (alteridad: cualidad de ser relativo a otro (alter=otro))"
-  },
-  {
-    "pregunta": "Algunos de los elementos básicos constitutivos de la Seguridad jurídica son:",
-    "opciones": [
-      "La retroactividad, la especificidad y la certeza.",
-      "La generalidad, la publicidad y la plenitud.",
-      "La especificidad, la confianza y la certeza."
-    ],
-    "correcta": 1,
-    "cita": "Tema 10, p. 171 (elementos de la seguridad jurídica: generalidad, publicidad, claridad, estabilidad, irretroactividad y plenitud)"
-  },
-  {
-    "pregunta": "El Derecho reconoce:",
-    "opciones": [
-      "Dos clases de personas jurídicas: las físicas y las personales.",
-      "Dos clases de personas jurídicas: las físicas y las colectivas o jurídicas propiamente dichas.",
-      "Tres clases de personas jurídicas: las físicas, las unipersonales y las colectivas."
-    ],
-    "correcta": 1,
-    "cita": "Tema 3, p. 64 (el Derecho reconoce dos clases de personas jurídicas: físicas y colectivas)"
-  },
-  {
-    "pregunta": "Las normas de Derecho Publico son, por lo general:",
-    "opciones": [
-      "Preceptivas y excluyen los pactos en contrario",
-      "Preceptivas y no excluyen los pactos en contrario",
-      "Dispositivas y excluyen los pactos en contrario"
-    ],
-    "correcta": 0,
-    "cita": "Tema 4, p. 100 (normas de Derecho Público, por lo general, preceptivas)"
-  },
-  {
-    "pregunta": "En qué fecha se proclamó la Declaración Universal de los Derechos Humanos?",
-    "opciones": [
-      "El 10 de noviembre de 1928",
-      "El 6 de diciembre de 1939",
-      "El 10 de diciembre de 1948"
+      "La promesa de matrimonio debe ser cumplida siempre que no exista justa causa para su ruptura.",
+      "El incumplimiento de la promesa de matrimonio puede dar lugar al resarcimiento del daho moral producido.",
+      "El incumplimiento de la promesa de matrimonio únicamente puede dar lugar al resarcimiento de determinados gastos."
     ],
     "correcta": 2,
-    "cita": "Tema 1, p. 37 (aprobación en 1948 de la Declaración Universal de Derechos Humanos)"
+    "cita": "Cap. 2 – p. 32 (art. 43 CC, incumplimiento sin causa solo genera resarcimiento de gastos, nunca daño moral)"
   },
   {
-    "pregunta": "Los derechos fundamentales son derechos públicos subjetivos porque:",
+    "pregunta": "En uniones de hecho, la compensación económica entre convivientes que no ha sido pactada previamente por los convivientes:",
     "opciones": [
-      "porque se ejercen siempre frente a los particulares.",
-      "porque algunos de ellos son erga omnes.",
-      "porque se ejercitan frente al Estado."
+      "se concede de oficio por los tribunales si hay hiios comunes.",
+      "se ha concedido en ocasiones por los tribunales en aplicación de la doctrina del enriquecimiento injusto.",
+      "en ocasiones se ha concedido por los tribunales por haber habido hijos menores del otro conviviente que hayan convivido en la vivienda familiar, conforme al principio del interés superior del menor."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 1 – p. 22 (jurisprudencia sobre compensación económica no pactada en parejas de hecho)"
+  },
+  {
+    "pregunta": "El Alcalde o Concejal en quién delegue tiene competencia para instruir el expediente matrimonial:",
+    "opciones": [
+      "Si.",
+      "Si, pero sólo si el matrimonio se va a celebrar en su municipio.",
+      "No, nunca."
     ],
     "correcta": 2,
-    "cita": "Tema 4, p. 88 (derechos subjetivos públicos: los que se ejercitan frente al Estado)"
+    "cita": "Cap. 3 – p. 46 (art. 51 CC, instrucción del expediente corresponde a LAJ, notario o Encargado del RC, no al alcalde)"
   },
   {
-    "pregunta": "Austin considera que las normas jurídicas son:",
+    "pregunta": "El matrimonio por apoderado:",
     "opciones": [
-      "mandatos o imperativos",
-      "juicios de valor",
-      "juicios hipotéticos"
-    ],
-    "correcta": 0,
-    "cita": "Tema 5, p. 95 (Austin: las normas jurídicas son mandato, orden impuesta por el soberano)"
-  },
-  {
-    "pregunta": "La acepción del Derecho que lo entiende como facultad o poder se denomina:",
-    "opciones": [
-      "Derecho objetivo",
-      "Derecho valorativo",
-      "Derecho subjetivo"
+      "No es posible, porque la celebración del matrimonio es un acto personal.",
+      "Es posible, otorgando un poder general.",
+      "Es posible, otorgando un poder especial."
     ],
     "correcta": 2,
-    "cita": "Tema 4, p. 85 (derecho subjetivo = facultad o poder)"
+    "cita": "Cap. 3 – p. 50 (art. 55 CC, matrimonio por poder especial)"
   },
   {
-    "pregunta": "z¢Cuales son las principales teorías acerca de la naturaleza de las normas jurídicas?",
+    "pregunta": "Antonio, en estado de soltero, adquiere un coche a plazos. Posteriormente, contrae matrimonio con Luisa, en régimen de gananciales. La mayoria de las cuotas aplazadas del vehiculo se pagan estando casados. ; Qué naturaleza tiene el coche?",
     "opciones": [
-      "Las imperativistas y las antiimperativistas.",
-      "Las objetivas y las subjetivas.",
-      "Las imperativistas y las mixtas."
-    ],
-    "correcta": 0,
-    "cita": "Tema 5, p. 95 (dos grandes grupos de teorías sobre la norma jurídica: imperativistas y antiimperativistas)"
-  },
-  {
-    "pregunta": "El carácter de vinculatoriedad de las normas jurídicas significa que:",
-    "opciones": [
-      "Las normas jurídicas establecen actuaciones que los sujetos sólo deben realizar si van acompafiadas de una sanción.",
-      "Las normas jurídicas establecen actuaciones que los sujetos sólo deben realizar si desean alcanzar un determinado objetivo.",
-      "Las normas jurídicas establecen actuaciones que los sujetos deben realizar de forma incondicionada."
+      "Es un bien de naturaleza mixta, parte es privativo de Antonio y parte es ganancial.",
+      "Es ganancial, ya que la mayoria de las cuotas se satisfacen constante matrimonio.",
+      "Es privativo de Antonio. No obstante, la sociedad de gananciales tendrá un crédito frente a Antonio por las cuotas pagadas constante matrimonio."
     ],
     "correcta": 2,
-    "cita": "Tema 5, p. 95 (vinculatoriedad: las normas prescriben actuaciones que deben ser realizadas de forma incondicionada)"
+    "cita": "Cap. 12 – p. 188 (art. 1357 CC, bienes comprados a plazos antes del matrimonio son siempre privativos)"
   },
   {
-    "pregunta": "El derecho a la verificación y control de los impuestos:",
+    "pregunta": "En el ordenamiento jurídico espanol, si una persona mayor de 80 años quiere contraer matrimonio:",
     "opciones": [
-      "Es un derecho civil",
-      "Es un derecho político",
-      "Es un derecho estatal."
-    ],
-    "correcta": 1,
-    "cita": "Tema 12, p. 205 (verificación y control de los impuestos, entre los derechos políticos)"
-  },
-  {
-    "pregunta": "Son Actos Juridicos obligados:",
-    "opciones": [
-      "Los realizados potestativamente por los sujetos.",
-      "Los realizados como consecuencia del deber jurídico que la norma impone.",
-      "los que producen efectos jurídicos tras producirse un acontecimiento natural."
-    ],
-    "correcta": 1,
-    "cita": "Tema 5, p. 102 (acto jurídico obligado: prestaciones exigidas por el deber jurídico impuesto por la norma)"
-  },
-  {
-    "pregunta": "El derecho a la vida es:",
-    "opciones": [
-      "Un derecho de integrad física y de libertad.",
-      "Un derecho de carácter colectivo.",
-      "Un derecho de carácter prestacional."
-    ],
-    "correcta": 0,
-    "cita": "Tema 12, p. 203 (derecho a la vida: derecho de autonomía/libertad e integridad física)"
-  },
-  {
-    "pregunta": "Las conductas humanas están regidas por:",
-    "opciones": [
-      "Las Normas morales y los Usos sociales en su dimensión individual y por el Derecho en su dimensión social.",
-      "Normas morales, Usos sociales y Normas jurídicas",
-      "Únicamente por las normas jurídicas dado que son coactivas"
-    ],
-    "correcta": 1,
-    "cita": "Tema 1, p. 14 (las conductas humanas están regidas por normas jurídicas, morales y usos sociales)"
-  },
-  {
-    "pregunta": "Desde el punto de vista objetivo el término Derecho hace referencia a:",
-    "opciones": [
-      "El conjunto de normas vigentes       en un pais en un momento histórico determinado",
-      "El conjunto de facultades amparadas por las leyes",
-      "Al Derecho como ciencia"
-    ],
-    "correcta": 0,
-    "cita": "Tema 2, p. 53 (sentido objetivo: conjunto de normas vigentes en un país en un momento histórico)"
-  },
-  {
-    "pregunta": "De acuerdo con la teoría tridimensional del Derecho, la dimensión valorativa:",
-    "opciones": [
-      "Se refiere al hecho de que el Derecho está formado por normas",
-      "Hace alusién a la presencia del Derecho en todo grupo social.",
-      "Se refiere a que el Derecho debe orientarse hacia la realizacion de unos valores de convivencia social"
+      "el Código Civil dispone que debera aportar un informe médico en el expediente matrimonial si la diferencia de edad con el otro contrayente es de mas de 20 años o de nacionalidad extranjera, salvo que el notario considere que es innecesario.",
+      "el Código Civil dispone que debera aportar un informe médico en el expediente matrimonial en el que se haga constar que esa persona es consciente de que el matrimonio afectara al futuro reparto de su herencia, salvo que el notario considere que es innecesario.",
+      "ninguna de las dos respuestas anteriores es correcta."
     ],
     "correcta": 2,
-    "cita": "Tema 2, p. 59 (dimensión valorativa: el Derecho debe orientarse a la realización de valores)"
+    "cita": "Cap. 3 – p. 52-53 (no se ha localizado la regla de informe médico por edad/diferencia de edad; se aplica la regla general condicionada a la salud (art. 56.2 CC))"
   },
   {
-    "pregunta": "De acuerdo con la reforma de la Ley 8/2021, de 2 de junio, por la que se reforma la legislación civil y procesal para el apoyo a las personas con discapacidad en el ejercicio de su capacidad jurídica:",
+    "pregunta": "El matrimonio fn artículo mortis:",
     "opciones": [
-      "La capacidad jurídica y la capacidad         de   obrar   son   manifestaciones diferenciadas de la personalidad jurídica.",
-      "Se elimina el concepto de capacidad de obrar que se subsume en la capacidad jurídica",
-      "Se introducen graduaciones en la capacidad de obrar"
+      "lo puede celebrar el notario.",
+      "exige        previo   expediente   matrimonial   judicial   urgente   en   el   que intervengan dos testigos.",
+      "exige en la celebración del matrimonio la presencia de dos testigos, uno de los cuales, cómo mínimo, debe ser de nacionalidad espafola o de un pais de la Unión Europea."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 3 – p. 52-53 (art. 52 CC, matrimonio en peligro de muerte)"
+  },
+  {
+    "pregunta": "En        Espana se reconoce legalmente el derecho a celebrar matrimonio religioso con efectos civiles, además de a la Iglesia Catolica:",
+    "opciones": [
+      "a cualquier religidn que figure inscrita en el Registro de Entidades Religiosas del Ministerio de Justicia.",
+      "a cualquier confesión religiosa reconocida con la declaración de notorio arraigo.",
+      "ninguna de las dos respuestas anteriores es correcta."
     ],
     "correcta": 1,
-    "cita": "Tema 3, p. 66 (Ley 8/2021: la capacidad de obrar se subsume en la capacidad jurídica)"
+    "cita": "Cap. 3 – p. 55 (art. 60 CC y 58 bis LRC, notorio arraigo)"
   },
   {
-    "pregunta": "Cuando afirmamos que los derechos subjetivos pueden ser absolutos o relativos, estamos haciendo referencia a:",
+    "pregunta": "En caso de discrepancia entre los cónyuges sobre la fijación del domicilio conyugal:",
     "opciones": [
-      "Tipos de derecho subjetivo en relación con las facultades que otorgan a sus titulares",
-      "Tipos de derecho subjetivo en relación con el sujeto pasivo",
-      "Tipos de derecho subjetivo en relación con su ámbito de ejercicio"
-    ],
-    "correcta": 1,
-    "cita": "Tema 4, p. 87 (derechos subjetivos absolutos/relativos, clasificación según el sujeto pasivo)"
-  },
-  {
-    "pregunta": "Algunos de los siguientes caracteres NO son propios del deber jurídico:",
-    "opciones": [
-      "La norma y la sanción",
-      "La sanción y la posibilidad de su imposición coactiva",
-      "El ejercicio del derecho y su pretensién y defensa"
+      "ello constituye causa legal de divorcio.",
+      "ello constituye causa legal de divorcio si hay hijos comunes.",
+      "ninguna de las dos respuestas anteriores es correcta."
     ],
     "correcta": 2,
-    "cita": "Tema 4, p. 91 (presupuestos del deber jurídico: norma, imposición coactiva y sanción)"
+    "cita": "Cap. 4 – p. 66 (art. 70 CC, resuelve el juez, no es causa de divorcio)"
   },
   {
-    "pregunta": "Algunos de los medios a través de los que ejerce el Derecho la función de integración y control son:",
+    "pregunta": "gQué parentesco me une a mi con el hijo de mi primo hermano?:",
     "opciones": [
-      "Técnicas protectoras y represivas",
-      "Técnicas de información para su conocimiento",
-      "Técnicas de divulgación"
-    ],
-    "correcta": 0,
-    "cita": "Tema 9, p. 161 (técnicas protectoras y represivas, medios de la función de control social)"
-  },
-  {
-    "pregunta": "Dentro de los caracteres de las normas jurídicas, la generalidad:",
-    "opciones": [
-      "Pone de manifiesto que las normas jurídicas se dirigen y vinculan a toda una categoría o clase de sujetos",
-      "Pone de manifiesto que las normas jurídicas regulan determinadas categorías o clase de conductas o acciones",
-      "Que las normas       jurídicas   pretenden   establecer   pautas   vinculantes   de comportamiento."
-    ],
-    "correcta": 0,
-    "cita": "Tema 5, p. 100 (generalidad: las normas vinculan a toda una categoría o clase de sujetos)"
-  },
-  {
-    "pregunta": "La concepcioén de AUSTIN sobre la naturaleza de las normas jurídicas supone que las normas:",
-    "opciones": [
-      "Son un mandato, una orden impuesta por el soberano.",
-      "Tienen una validez objetiva.",
-      ". Ambas respuestas son incorrectas."
-    ],
-    "correcta": 0,
-    "cita": "Tema 5, p. 95 (Austin: las normas jurídicas son mandato, orden impuesta por el soberano)"
-  },
-  {
-    "pregunta": "En la doctrina de Hart las normas que establecen los criterios de validez jurídica son:",
-    "opciones": [
-      "las reglas primarias",
-      "las reglas de organización",
-      "las reglas de reconocimiento"
+      "Sexto grado en la linea colateral por consanguinidad.",
+      "Cuarto grado en la linea recta por consanguinidad.",
+      "Quinto grado en la linea colateral por consanguinidad."
     ],
     "correcta": 2,
-    "cita": "Tema 5, p. 98 (Hart: reglas de reconocimiento, adjudicación y cambio)"
+    "cita": "Cap. 18 – p. 261 (art. 918 CC, hijo del primo hermano = 5º grado colateral)"
   },
   {
-    "pregunta": "Si dos normas de un mismo ordenamiento jurídico son contradictorias, pero no coincide totalmente su ámbito de aplicación:",
+    "pregunta": "El juez puede denegar la separaciéon judicial de mutuo acuerdo:",
     "opciones": [
-      "No existira antinomia jurídica.",
-      "Habra una antinomia jurídica.",
-      "No podran ser aplicadas."
-    ],
-    "correcta": 1,
-    "cita": "Tema 6, p. 121 (antinomia: basta con la coincidencia total o parcial del ámbito de validez)"
-  },
-  {
-    "pregunta": "El criterio de jerarquía normativa se puede utilizar para:",
-    "opciones": [
-      "Dotar de coherencia al ordenamiento jurídico.",
-      "Dotar de plenitud al ordenamiento jurídico.",
-      "Dotar de eficacia al ordenamiento jurídico."
-    ],
-    "correcta": 0,
-    "cita": "Tema 6, p. 123 (criterio de jerarquía normativa para dotar de coherencia al ordenamiento)"
-  },
-  {
-    "pregunta": "En la relación entre Derecho y Economia actualmente:",
-    "opciones": [
-      "El Derecho es el elemento determinante, es el que configura y orienta la actividad económica",
-      "La Economia es el elemento determinante que condiciona la evolución del Derecho",
-      "El Derecho y la economía se condicionan y se complementan de manera constante, es una relación dinamica"
+      "si así lo exige el interés superior del menor de los hijos comunes menores de edad, por el tiempo máximo de tres meses.",
+      "si así lo exige el interés superior de los hijos comunes menores de edad y de cualquier hijo mayor de edad con discapacidad sometido a curatela que conviva en el domicilio familiar, por el tiempo máximo de seis meses.",
+      "ninguna de las dos respuestas anteriores es correcta."
     ],
     "correcta": 2,
-    "cita": "Tema 8, p. 153 (relaciones Derecho-Economía dinámicas, se condicionan y complementan)"
+    "cita": "Cap. 8 – p. 113 (la presentación de la demanda no disuelve el régimen de gananciales; no cabe generalizar el plazo)"
   },
   {
-    "pregunta": "En las relaciones entre Derecho y Poder, la doctrina de Calicles:",
+    "pregunta": "La reconciliación de los divorciados posterior al divorcio:",
     "opciones": [
-      "Identifica el Derecho con el Poder, postulando la ley del más fuerte",
-      "Postula la mutua exclusión entre Poder y Derecho",
-      "Postula la interdependencia entre Poder y Derecho"
-    ],
-    "correcta": 0,
-    "cita": "Tema 8, p. 149 (Calicles: identifica el Derecho con el Poder, ley del más fuerte)"
-  },
-  {
-    "pregunta": "La interpretación llevada a cabo por los abogados en su labor profesional se puede integrar en la clase denominada:",
-    "opciones": [
-      "Interpretación privada.",
-      "Interpretacion pública.",
-      "Interpretacion auténtica."
-    ],
-    "correcta": 0,
-    "cita": "Tema 7, p. 136 (interpretación privada: la llevada a cabo por particulares, juristas y abogados)"
-  },
-  {
-    "pregunta": "Respecto de la relación entre Justicia       y Derecho la doctrina iusnaturalista sostiene que:",
-    "opciones": [
-      "La idea de la justicia no es intrínseca al Derecho, está vinculada a los juicios de la moral.",
-      "Justicia y Derecho están esencialmente unidos: sin Justicia no hay Derecho.",
-      "La justicia no es un elemento esencial del Derecho, sino un valor o principio ideal que se debe intentar realizar."
-    ],
-    "correcta": 1,
-    "cita": "Tema 10, p. 174 (iusnaturalismo: Justicia y Derecho unidos esencialmente, sin Justicia no hay Derecho)"
-  },
-  {
-    "pregunta": "La universalidad como característica de los derechos humanos implica que:",
-    "opciones": [
-      "Que éstos pertenecen a todos los seres humanos en todos los lugares y en todo momento histórico.",
-      "Que éstos pertenecen a todos los ciudadanos de un Estado concreto, que es quien garantiza su aplicación.",
-      "Que éstos pertenecen a todos los ciudadanos de un Estado concreto, siempre que se encuentren recogidos en la Constitución."
-    ],
-    "correcta": 0,
-    "cita": "Tema 11, p. 191 (universalidad: derechos poseídos por todos los seres humanos, en todo tiempo y lugar)"
-  },
-  {
-    "pregunta": "La fundamentación positivista de los derechos humanos:",
-    "opciones": [
-      "entiende que éstos tienen una naturaleza         prepositiva:   existen   con anterioridad e independientemente de las normas.",
-      "entiende que sólo son derechos humanos aquellos que se encuentren positivizados en la legislación vigente.",
-      "que estos son derechos prevalentes no positivos que deben ser incorporados a los ordenamientos jurídicos."
-    ],
-    "correcta": 1,
-    "cita": "Tema 11, p. 195 (fundamentación positivista: solo son derechos humanos los positivizados en la legislación)"
-  },
-  {
-    "pregunta": "Deontologia y Ética Profesional:",
-    "opciones": [
-      "La Deontologia es Ética aplicada",
-      "La Ética Profesional tiene por objeto de estudio las normas y comportamientos establecidos en los Cédigos Deontolégicos",
-      "Ambas respuestas son correctas"
+      "surte los mismos efectos jurídicos que la reconciliación de los separados judicialmente, excepto los patrimoniales.",
+      "surte los mismos efectos jurídicos que la reconciliación de los separados judicialmente, si hay hijos menores.",
+      "no surte los mismos efectos jurídicos que la reconciliación de los separados judicialmente."
     ],
     "correcta": 2,
-    "cita": "Tema 13, p. 221 (Deontología Profesional como Ética Aplicada / Ética Profesional y Códigos Deontológicos)"
+    "cita": "Cap. 7 – p. 106 (art. 88.2 CC, la reconciliación tras el divorcio no produce efectos legales)"
   },
   {
-    "pregunta": "La Dogmatica Juridica:",
+    "pregunta": "En las sentencias de nulidad, separación o divorcio el Juez adoptara diversas medidas. En relaci6n con las medidas relativas al uso de la vivienda familiar:",
     "opciones": [
-      "Designa la actividad propia de los jueces en su labor de interpretación y aplicación del Derecho.",
-      "Se centra en el andlisis y sistematización del contenido material de las normas positivas.",
-      "Analiza el Derecho como un fenómeno social entre otros, desde un punto de vista externo."
-    ],
-    "correcta": 1,
-    "cita": "Tema 14, p. 250 (Dogmática Jurídica: análisis sistemático del contenido material de las normas positivas)"
-  },
-  {
-    "pregunta": "Los Usos sociales y el Derecho son dos sistemas normativos que regulan comportamientos   humanos   externos, por  ello  comparten  las _ siguientes características:",
-    "opciones": [
-      "Socialidad, exterioridad, heteronomia e impositividad inexorable",
-      "Socialidad, exterioridad, heteronomia y bilateralidad desde el punto de vista de la estructura de la norma",
-      "Socialidad, exterioridad y heteronomia"
+      "Si no hay hijos, será el cónyuge no titular el que decida si quiere continuar 0 no usando y disfrutando la vivienda familiar.",
+      "Sino hay hijos, nunca podrá acordarse el uso de la vivienda familiar al cónyuge no titular.",
+      "Si no hay hijos,      podrá acordarse que el uso durante un tiempo prudencial corresponda al cónyuge no titular, si su interés fuera el mas necesitado de protección."
     ],
     "correcta": 2,
-    "cita": "Tema 1, p. 33 (coincidencias entre usos sociales y Derecho: alteridad, exterioridad y heteronomía)"
+    "cita": "Cap. 8 – p. 125 (art. 96 CC, uso de la vivienda sin hijos si el interés es el más necesitado de protección)"
   },
   {
-    "pregunta": "Desde el punto de vista subjetivo el término “derecho” hace referencia a:",
+    "pregunta": "La compensación o pensi6n compensatoria en los casos de separación o divorcio:",
     "opciones": [
-      "El conjunto de normas vigentes en un pais en un momento histórico determinado",
-      "El conjunto de facultades amparadas por las leyes",
-      "Al Derecho como ciencia"
+      "Sera siempre obligatoria con independencia de si la solicitan o no las partes.",
+      "Podra pedirla el cónyuge al que la separación o el divorcio le produzca un desequilibrio económico en relación con la posicidén del otro, que implique un empeoramiento en su situacidén anterior en el matrimonio.",
+      "Podra pedirla el cónyuge al que la separación o el divorcio le produzca un desequilibrio económico en relación con la posicidén del otro, que implique un empeoramiento en su situacidén anterior en el matrimonio, siempre y cuando lleven por lo menos dos años casados."
     ],
     "correcta": 1,
-    "cita": "Tema 2, p. 53 (sentido subjetivo: conjunto de facultades amparadas por las leyes)"
+    "cita": "Cap. 8 – p. 127 (art. 97 CC, pensión compensatoria por desequilibrio económico)"
   },
   {
-    "pregunta": "De acuerdo con la teoría tridimensional del Derecho, la dimensión normativa:",
+    "pregunta": "Puede un menor ser adoptado por mas de una persona.",
     "opciones": [
-      "Se refiere al hecho de que el Derecho es un conjunto de normas.",
-      "Hace alusién a la presencia del Derecho en todo grupo social.",
-      "Se refiere a que el Derecho debe orientarse hacia la realizacion de unos valores de convivencia social."
-    ],
-    "correcta": 0,
-    "cita": "Tema 2, p. 57 (dimensión normativa: el Derecho está compuesto por normas)"
-  },
-  {
-    "pregunta": "El acto jurídico es:",
-    "opciones": [
-      "cualquier hecho al que el ordenamiento jurídico atribuya consecuencias jurídicas independientemente de que intervenga un ser humano",
-      "es una acción o comportamiento humano al que se anudan consecuencias jurídicas",
-      "es cualquier hecho natural o cotidiano que puede generar consecuencias jurídicas"
-    ],
-    "correcta": 1,
-    "cita": "Tema 3, p. 67 (acto jurídico: acción o comportamiento humano con consecuencias jurídicas)"
-  },
-  {
-    "pregunta": "El principio de legitimidad del Derecho:",
-    "opciones": [
-      "Implica la necesidad de que las normas jurídicas cumplan una serie de requisitos formales y procedimentales",
-      "Implica el respeto a los derechos fundamentales y a la dignidad de la persona",
-      "Implica la supremacia de la ley, en tanto que emana del poder legislativo"
-    ],
-    "correcta": 1,
-    "cita": "Tema 2, p. 63 (principio de legitimidad: respeto a los derechos fundamentales y la dignidad de la persona)"
-  },
-  {
-    "pregunta": "Dentro de los caracteres de las normas jurídicas, el rasgo de la “abstracción”:",
-    "opciones": [
-      "Pone de manifiesto que las normas jurídicas se dirigen y vinculan a toda una categoría o clase de sujetos",
-      "Pone de manifiesto que las normas jurídicas regulan determinadas categorías o clase de conductas o acciones a cuya realización se atribuyen consecuencias jurídicas",
-      "Que las normas     jurídicas   pretenden   establecer   pautas   vinculantes   de comportamiento."
-    ],
-    "correcta": 1,
-    "cita": "Tema 5, p. 100 (abstracción: las normas regulan categorías de conductas con consecuencias jurídicas)"
-  },
-  {
-    "pregunta": "Para resolver situaciones de antinomia, el criterio de la jerarquía normativa:",
-    "opciones": [
-      "Supone que ante la existencia de normas incompatibles habrá de aplicarse lo establecido en la norma promulgada con posterioridad.",
-      "Supone que la ante la existencia de normas incompatibles habrá de aplicarse lo establecido en la norma de mayor rango dentro del ordenamiento jurídico.",
-      "Supone la prevalencia de la regulación más concreta y específica frente a la contenga una regulación más general."
-    ],
-    "correcta": 1,
-    "cita": "Tema 6, p. 123 (criterio de jerarquía: aplicar la norma de mayor rango)"
-  },
-  {
-    "pregunta": "En relación con la “eficacia de la interpretación jurídica”, está puede ser:",
-    "opciones": [
-      "Declarativa o correctora",
-      "Auténtica o judicial",
-      "Publica o privada"
+      "No, en ningún caso.",
+      "Si.",
+      "No, salvo que se haga conjunta o sucesivamente por los cónyuges 0 por personas unidas por una relación analoga de afectividad a la conyugal."
     ],
     "correcta": 2,
-    "cita": "Tema 7, p. 136 (eficacia de la interpretación: pública o privada)"
+    "cita": "Cap. 22 – p. 317 (art. 175.4 CC, adopción conjunta o sucesiva por cónyuges o pareja de hecho)"
   },
   {
-    "pregunta": "En las relaciones entre Derecho y Poder en la actualidad:",
+    "pregunta": "Los cónyuges deben contribuir a las cargas del matrimonio:",
     "opciones": [
-      "Derecho y Poder se identifican, son lo mismo: el Poder decide lo que es Derecho",
-      "El Derecho está estrechamente unido al Poder, pero no puede identificarse con éste. El Derecho ha de limitar y controlar al Poder.",
-      "Dado que el Derecho tiene que limitar y legitimar al Poder social ambos se contraponen, se excluyen mutuamente."
-    ],
-    "correcta": 1,
-    "cita": "Tema 8, p. 150 (el Derecho está unido al Poder pero no se identifica con él; debe limitarlo y controlarlo)"
-  },
-  {
-    "pregunta": "En sentido subjetivo la Paz social:",
-    "opciones": [
-      "Implica que un sistema social y jurídico es eficaz en realizar los valores para cuyo logro fue instituido",
-      "Se entiende como la ausencia de fuerza.",
-      "Implica que los miembros de la sociedad tengan la convicción de que las normas además de eficaces son justas."
+      "Solo en el régimen de gananciales.",
+      "Solo en los regímenes de gananciales y participaci6n, pero no en el de separación de bienes.",
+      "Con independencia de cual sea el régimen económico que rija el matrimonio."
     ],
     "correcta": 2,
-    "cita": "Tema 10, p. 173 (Paz social en sentido subjetivo: convicción de que las normas, además de eficaces, son justas)"
+    "cita": "Cap. 9 – p. 148 (art. 1318 CC, cargas del matrimonio con independencia del régimen)"
   },
   {
-    "pregunta": "Respecto de la relación entre Justicia y Derecho la doctrina iuspositivista sostiene que:",
+    "pregunta": "Los actos de disposición a titulo oneroso que requieran el consentimiento de ambos cónyuges, si han sido realizados por un cónyuge sin el consentimiento del otro:",
     "opciones": [
-      "La idea de la justicia no es un elemento esencial del Derecho.",
-      "Justicia y Derecho están esencialmente unidos: sin Justicia no hay Derecho.",
-      "La justicia es un valor anterior al Derecho que éste debe reconocer."
+      "Son nulos de pleno derecho.",
+      "Son anulables.",
+      "Son susceptibles de rescisión por lesión del interés familiar."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 9 – p. 151 (art. 1322 CC, anulabilidad de actos onerosos sin consentimiento)"
+  },
+  {
+    "pregunta": "Rodrigo e Irene otorgan capitulaciones matrimoniales pero no las han inscrito en el Registro Civil, por lo que las mismas:",
+    "opciones": [
+      "No serán validas.",
+      "No serán oponibles frente a los terceros de buena fe interesados.",
+      "Tendran plena eficacia frente a todos, tanto los cónyuges cómo los terceros de buena fe."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 10 – p. 162 (art. 1333 CC, no oponibilidad frente a terceros de las capitulaciones no inscritas)"
+  },
+  {
+    "pregunta": "La Ley 8/2021, de 2 de junio, por la que se reforma la legislación civil y procesal para el apoyo a las personas con discapacidad en el ejercicio de su capacidad jurídica:",
+    "opciones": [
+      "fomenta la guarda de hecho de la persona con discapacidad.",
+      "prohibe la guarda de hecho de la persona con discapacidad.",
+      "considera la guarda de hecho de persona con discapacidad cómo equivalente a la patria potestad."
     ],
     "correcta": 0,
-    "cita": "Tema 10, p. 174 (iuspositivismo: la Justicia no es elemento esencial del Derecho)"
+    "cita": "Cap. 25 – p. 382 (Ley 8/2021 fomenta la figura del guardador de hecho)"
   },
   {
-    "pregunta": "- Los derechos humanos al estar ligados a la condición de ser humano:",
+    "pregunta": "Las donaciones por razón de matrimonio:",
     "opciones": [
-      "Son absolutos, porque ni el Estado ni el ordenamiento jurídico pueden contravenirlos.",
-      "Estan limitados por las exigencias del bien común y la coexistencia con otros derechos.",
-      "Estan limitados por la Moral y los Usos sociales."
-    ],
-    "correcta": 1,
-    "cita": "Tema 11, p. 195 (limitabilidad de los derechos humanos: exigencias del bien general y coexistencia con otros derechos)"
-  },
-  {
-    "pregunta": "- La fundamentación iusnaturalista de los derechos humanos:",
-    "opciones": [
-      "entiende que éstos tienen una naturaleza prepositiva: existen con anterioridad e independientemente de las normas jurídicas positivas.",
-      "entiende que sólo son derechos humanos             aquellos   que   se   encuentren positivizados en la legislación estatal.",
-      "entiende que estos son valores morales que deben ser incorporados a los ordenamientos jurídicos."
+      "Son aquellas que cualquier persona hace antes de celebrarse el matrimonio, en consideración al mismo, en favor de uno o de los dos esposos.",
+      "Son aquellas que efectuan los parientes a cualquier esposo antes o después de celebrado el matrimonio.",
+      "Son aquellas que efectua el esposo a la esposa después de celebrado el matrimonio. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulaci6n de alguna de las 20 preguntas ordinarias que integran el examen."
     ],
     "correcta": 0,
-    "cita": "Tema 11, p. 195 (fundamentación iusnaturalista: naturaleza prepositiva, anterior e independiente de las normas)"
+    "cita": "Cap. 11 – p. 169 (art. 1336 CC, concepto de donación por razón de matrimonio)"
   },
   {
-    "pregunta": "- Dentro de los derechos de libertad, los derechos civiles:",
+    "pregunta": "La donación de inmuebles entre los cónyuges:",
     "opciones": [
-      "Tienen un marcado carácter prestacional",
-      "En general consisten en un deber de abstención, aunque en ocasiones comportan un deber de prestación o actuación positiva",
-      "Posibilitan el desarrollo del ser humano como ciudadano"
-    ],
-    "correcta": 1,
-    "cita": "Tema 12, p. 203 (derechos civiles: deber de abstención, salvo excepciones con deber de prestación)"
-  },
-  {
-    "pregunta": "- La Ética Profesional:",
-    "opciones": [
-      "Se conoce como Deontologia",
-      "La Ética Profesional tiene por objeto de estudio las normas y comportamientos establecidos en los Cédigos Deontolégicos",
-      "Ambas respuestas son correctas"
-    ],
-    "correcta": 1,
-    "cita": "Tema 13, p. 224 (Ética Profesional incluida dentro de la Ética Aplicada / objeto: Códigos Deontológicos)"
-  },
-  {
-    "pregunta": "- La axiología jurídica:",
-    "opciones": [
-      "Tiene por objeto el estudio del Derecho positivo en su aspecto formal",
-      "Tiene por objeto el estudio del Derecho positivo en su aspecto material",
-      "Tiene por objeto el estudio del deber ser del Derecho"
+      "es fraudulenta si hay hijos menores.",
+      "es admisible si no hay hijos menores.",
+      "es admisible."
     ],
     "correcta": 2,
-    "cita": "Tema 14, p. 258 (Axiología Jurídica: cómo debería ser el Derecho (deber ser))"
+    "cita": "Cap. 11 – p. 174 (art. 1323 CC, donaciones entre cónyuges plenamente lícitas)"
   },
   {
-    "pregunta": "La alteridad del Derecho es una característica que significa que:",
+    "pregunta": "Roberto y Adriana, ambos de vecindad civil comun, contraen matrimonio sin celebrar      capitulaciones   matrimoniales.   ~Qué   régimen   económico   rige   su matrimonio?:",
     "opciones": [
-      "pone en referencia los actos de una persona con los de otra.",
-      "implica una alteracion de las relaciones sociales.",
-      "afirma la posibilidad de que la relación jurídica se modifique."
+      "Gananciales.",
+      "Separación de bienes.",
+      "No tiene régimen económico, hasta que no celebren capitulaciones."
     ],
     "correcta": 0,
-    "cita": "Tema 14, p. 261 (alteridad: cualidad de ser relativo a otro (alter=otro))"
+    "cita": "Cap. 9 – p. 178 (art. 1316 CC, régimen legal supletorio de primer grado: gananciales)"
   },
   {
-    "pregunta": "El Derecho reconoce:",
+    "pregunta": "La presunción de ganancialidad de un bien significa:",
     "opciones": [
-      "Dos clases de personas jurídicas: las físicas y las personales.",
-      "Dos clases de personas jurídicas: las físicas y las colectivas o jurídicas propiamente dichas.",
-      "Tres clases de personas jurídicas: las físicas, las unipersonales y las colectivas."
+      "Que en caso de duda de la naturaleza de un bien, se presumen privativos.",
+      "Que se presumen gananciales, mientras no se pruebe que pertenecen privativamente a uno de los cónyuges.",
+      "Las respuestas a y b son incorrectas."
     ],
     "correcta": 1,
-    "cita": "Tema 3, p. 64 (el Derecho reconoce dos clases de personas jurídicas: físicas y colectivas)"
+    "cita": "Cap. 12 – p. 181 (art. 1361 CC, presunción de ganancialidad)"
   },
   {
-    "pregunta": "Las normas de Derecho Publico son, por lo general:",
+    "pregunta": "Se podrá contraer matrimonio:",
     "opciones": [
-      "Preceptivas y excluyen los pactos en contrario",
-      "Preceptivas y no excluyen los pactos en contrario",
-      "Dispositivas y excluyen los pactos en contrario"
-    ],
-    "correcta": 0,
-    "cita": "Tema 4, p. 100 (normas de Derecho Público, por lo general, preceptivas)"
-  },
-  {
-    "pregunta": "¿En qué fecha se proclamó la Declaración Universal de los Derechos Humanos?",
-    "opciones": [
-      "El 10 de noviembre de 1928",
-      "El 6 de diciembre de 1939",
-      "El 10 de diciembre de 1948"
+      "Desde los 14 años.",
+      "Desde los 16 años.",
+      "Desde la mayoria de edad, o la emancipación."
     ],
     "correcta": 2,
-    "cita": "Tema 1, p. 37 (aprobación en 1948 de la Declaración Universal de Derechos Humanos)"
+    "cita": "Cap. 3 – p. 38 (edad núbil: mayoría de edad o emancipación)"
   },
   {
-    "pregunta": "Las conductas humanas están regidas por:",
+    "pregunta": "La promesa del matrimonio:",
     "opciones": [
-      "Las Normas morales y los Usos sociales en su dimensión individual y por el Derecho en su dimensión social.",
-      "Normas morales, Usos sociales y Normas jurídicas",
-      "Únicamente por las normas jurídicas dado que son coactivas"
+      "Produce obligaci6n de contraerlo.",
+      "No produce obligación de contraerlo, pero el incumplimiento sin causa, sólo produciria la obligación de resarcir a la otra parte de los gastos hechos por razón de la promesa.",
+      "Yano se encuentra regulada en el Código Civil, tras la promulgación de la Ley de Jurisdicci6n Voluntaria."
     ],
     "correcta": 1,
-    "cita": "Tema 1, p. 14 (las conductas humanas están regidas por normas jurídicas, morales y usos sociales)"
+    "cita": "Cap. 2 – p. 32 (art. 43 CC, solo resarcimiento de gastos)"
   },
   {
-    "pregunta": "Desde el punto de vista objetivo el término Derecho hace referencia a:",
+    "pregunta": "Es valido el matrimonio celebrado por el capitan de un barco:",
     "opciones": [
-      "El conjunto de normas vigentes       en un pais en un momento histórico determinado",
-      "El conjunto de facultades amparadas por las leyes",
-      "Al Derecho como ciencia"
-    ],
-    "correcta": 0,
-    "cita": "Tema 2, p. 53 (sentido objetivo: conjunto de normas vigentes en un país en un momento histórico)"
-  },
-  {
-    "pregunta": "De acuerdo con la teoría tridimensional del Derecho, la dimensión valorativa:",
-    "opciones": [
-      "Se refiere al hecho de que el Derecho está formado por normas",
-      "Hace alusién a la presencia del Derecho en todo grupo social.",
-      "Se refiere a que el Derecho debe orientarse hacia la realizacion de unos valores de convivencia social"
+      "Si, en todo caso.",
+      "No, nunca.",
+      "Solo en los matrimonios en peligro de muerte."
     ],
     "correcta": 2,
-    "cita": "Tema 2, p. 59 (dimensión valorativa: el Derecho debe orientarse a la realización de valores)"
+    "cita": "Cap. 3 – p. 52 (art. 52 CC, matrimonio en peligro de muerte a bordo de nave o aeronave)"
   },
   {
-    "pregunta": "De acuerdo con la reforma de la Ley 8/2021, de 2 de junio, por la que se reforma la legislación civil y procesal para el apoyo a las personas con discapacidad en el ejercicio de su capacidad jurídica:",
+    "pregunta": "El domicilio conyugal es",
     "opciones": [
-      "La capacidad jurídica y la capacidad         de   obrar   son   manifestaciones diferenciadas de la personalidad jurídica.",
-      "Se elimina el concepto de capacidad de obrar que se subsume en la capacidad jurídica",
-      "Se introducen graduaciones en la capacidad de obrar"
+      "El que determinen los cónyuges y en caso de desavenencia, resolvera el Juez, teniendo en cuenta el interés de la familia.",
+      "El que determinen los cónyuges y en caso de desavenencia, resolvera el arbitro teniendo en cuenta el interés de la familia.",
+      "Es el que determine la autoridad marital ya que la mujer debe seguir al marido donde quiere que fije su residencia."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 4 – p. 66 (art. 70 CC, resuelve el juez en caso de discrepancia)"
+  },
+  {
+    "pregunta": "Juan y Maria están casados y preguntan a su abogado si pueden celebrar contratos entre si. Señale la respuesta correcta:",
+    "opciones": [
+      "El Código Civil prohibe las donaciones entre conyugesy la realización de algunos contratos onerosos entre ellos.",
+      "Los   cónyuges    pueden      transmitirse    por cualquier titulo       bienes   y derechos, y pueden celebrar entre si toda clase de contratos.",
+      "Existen prohibiciones de contratación sólo en los contratos onerosos entre los cónyuges. Por lo tanto, los cónyuges sólo realizar donaciones entre si."
     ],
     "correcta": 1,
-    "cita": "Tema 3, p. 66 (Ley 8/2021: la capacidad de obrar se subsume en la capacidad jurídica)"
+    "cita": "Cap. 11 – p. 174 (art. 1323 CC, los cónyuges pueden celebrar entre sí toda clase de contratos)"
   },
   {
-    "pregunta": "Cuando afirmamos que los derechos subjetivos pueden ser absolutos o relativos, estamos haciendo referencia a:",
+    "pregunta": "En el caso de un matrimonio celebrado con coacción o miedo grave en uno de los cónyuges, si cesa la fuerza 0 miedo grave:",
     "opciones": [
-      "Tipos de derecho subjetivo en relación con las facultades que otorgan a sus titulares",
-      "Tipos de derecho subjetivo en relación con el sujeto pasivo",
-      "Tipos de derecho subjetivo en relación con su ámbito de ejercicio"
+      "caduca la acción de nulidad y se convalida el matrimonio si los cónyuges hubieran vivido juntos durante dos años después de haber cesado la fuerza o causa del miedo.",
+      "el matrimonio es nulo y no se convalidara nunca en ningún caso.",
+      "caduca la acción de nulidad y se convalida el matrimonio si los cónyuges hubieran vivido juntos durante un año después de haber cesado la fuerza o causa del miedo."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 5 – p. 75 (art. 76.1 CC, caducidad de un año tras cesar el vicio del consentimiento)"
+  },
+  {
+    "pregunta": "Tios y sobrinos podran contraer matrimonio entre si:",
+    "opciones": [
+      "Libremente.",
+      "Con dispensa judicial.",
+      "En ningún caso."
     ],
     "correcta": 1,
-    "cita": "Tema 4, p. 87 (derechos subjetivos absolutos/relativos, clasificación según el sujeto pasivo)"
+    "cita": "Cap. 3 – p. 41 (art. 47.2ª CC, colaterales hasta el 3er grado (tíos-sobrinos) requieren dispensa)"
   },
   {
-    "pregunta": "Algunos de los siguientes caracteres NO son propios del deber jurídico:",
+    "pregunta": "En     el    régimen    de   gananciales,     en   cuanto    a     las   propias   actividades econdomicas cada cónyuge debera respecto del otro:",
     "opciones": [
-      "La norma y la sanción",
-      "La sanción y la posibilidad de su imposición coactiva",
-      "El ejercicio del derecho y su pretensión y defensa"
+      "Informarle de ellas.",
+      "Requerir su consentimiento.",
+      "Ambas respuestas anteriores son incorrectas, porque en la gestidn de las       propias    actividades      econdémicas   cada       cónyuge    goza    de    plena independencia."
     ],
     "correcta": 2,
-    "cita": "Tema 4, p. 91 (presupuestos del deber jurídico: norma, imposición coactiva y sanción)"
+    "cita": "Cap. 13 – p. 194 (art. 1383 CC, deber de información recíproca, no de consentimiento)"
   },
   {
-    "pregunta": "Algunos de los medios a través de los que ejerce el Derecho la función de integración y control son:",
+    "pregunta": "Para        realizar   un   acto   de   disposición   a   titulo    oneroso    sobre     bienes gananciales, el cónyuge:",
     "opciones": [
-      "Técnicas protectoras y represivas",
-      "Técnicas de información para su conocimiento",
-      "Técnicas de divulgación"
-    ],
-    "correcta": 0,
-    "cita": "Tema 9, p. 161 (técnicas protectoras y represivas, medios de la función de control social)"
-  },
-  {
-    "pregunta": "Dentro de los caracteres de las normas jurídicas, la generalidad:",
-    "opciones": [
-      "Pone de manifiesto que las normas jurídicas se dirigen y vinculan a toda una categoría o clase de sujetos",
-      "Pone de manifiesto que las normas jurídicas regulan determinadas categorías o clase de conductas o acciones",
-      "Que las normas       jurídicas   pretenden   establecer   pautas   vinculantes   de comportamiento."
-    ],
-    "correcta": 0,
-    "cita": "Tema 5, p. 100 (generalidad: las normas vinculan a toda una categoría o clase de sujetos)"
-  },
-  {
-    "pregunta": "La concepcioén de AUSTIN sobre la naturaleza de las normas jurídicas supone que las normas:",
-    "opciones": [
-      "Son un mandato, una orden impuesta por el soberano.",
-      "Tienen una validez objetiva.",
-      ". Ambas respuestas son incorrectas."
-    ],
-    "correcta": 0,
-    "cita": "Tema 5, p. 95 (Austin: las normas jurídicas son mandato, orden impuesta por el soberano)"
-  },
-  {
-    "pregunta": "En la doctrina de Hart las normas que establecen los criterios de validez jurídica son:",
-    "opciones": [
-      "las reglas primarias",
-      "las reglas de organización",
-      "las reglas de reconocimiento"
-    ],
-    "correcta": 2,
-    "cita": "Tema 5, p. 98 (Hart: reglas de reconocimiento, adjudicación y cambio)"
-  },
-  {
-    "pregunta": "Si dos normas de un mismo ordenamiento jurídico son contradictorias, pero no coincide totalmente su ámbito de aplicación:",
-    "opciones": [
-      "No existira antinomia jurídica.",
-      "Habra una antinomia jurídica.",
-      "No podran ser aplicadas."
+      "Necesitara en todo caso el consentimiento del otro cónyuge.",
+      "Necesitara el consentimiento del otro cónyuge, o si éste no puede o se niega, autorización judicial.",
+      "Podra realizarlo sólo con su propio consentimiento."
     ],
     "correcta": 1,
-    "cita": "Tema 6, p. 121 (antinomia: basta con la coincidencia total o parcial del ámbito de validez)"
+    "cita": "Cap. 13 – p. 195 (art. 1377 CC, consentimiento de ambos o autorización judicial supletoria)"
   },
   {
-    "pregunta": "El criterio de jerarquía normativa se puede utilizar para:",
+    "pregunta": "Si una persona es declarada fallecida y luego reaparece:",
     "opciones": [
-      "Dotar de coherencia al ordenamiento jurídico.",
-      "Dotar de plenitud al ordenamiento jurídico.",
-      "Dotar de eficacia al ordenamiento jurídico."
-    ],
-    "correcta": 0,
-    "cita": "Tema 6, p. 123 (criterio de jerarquía normativa para dotar de coherencia al ordenamiento)"
-  },
-  {
-    "pregunta": "En la relación entre Derecho y Economia actualmente:",
-    "opciones": [
-      "El Derecho es el elemento determinante, es el que configura y orienta la actividad económica",
-      "La Economia es el elemento determinante que condiciona la evolución del Derecho",
-      "El Derecho y la economía se condicionan y se complementan de manera constante, es una relación dinamica"
+      "Se considera que sigue casado si el cónyuge del reaparecido habia manifestado con anterioridad su voluntad de seguir casado a pesar de la declaración de fallecimiento.",
+      "Se considera que sigue casado si el cónyuge del reaparecido no ha contraido nuevo matrimonio.",
+      "La reaparición no cambia nada: el matrimonio del declarado fallecido debe considerarse disuelto conforme al artículo 85 del Código civil."
     ],
     "correcta": 2,
-    "cita": "Tema 8, p. 153 (relaciones Derecho-Economía dinámicas, se condicionan y complementan)"
+    "cita": "Cap. 7 – p. 98 (el matrimonio del reaparecido quedó disuelto por la declaración de fallecimiento)"
   },
   {
-    "pregunta": "En las relaciones entre Derecho y Poder, la doctrina de Calicles:",
+    "pregunta": "No pueden divorciar en ningún caso:",
     "opciones": [
-      "Identifica el Derecho con el Poder, postulando la ley del más fuerte",
-      "Postula la mutua exclusión entre Poder y Derecho",
-      "Postula la interdependencia entre Poder y Derecho"
+      "Los alcaldes.",
+      "Los notarios.",
+      "Los Letrados de la Administración de Justicia (secretarios judiciales)."
     ],
     "correcta": 0,
-    "cita": "Tema 8, p. 149 (Calicles: identifica el Derecho con el Poder, ley del más fuerte)"
+    "cita": "Cap. 6 – p. 89 (la acción de separación se extingue por la muerte de cualquiera de los cónyuges)"
   },
   {
-    "pregunta": "La interpretación llevada a cabo por los abogados en su labor profesional se puede integrar en la clase denominada:",
+    "pregunta": "Señale la respuesta FALSA. Admitida la demanda de nulidad, separación o divorcio:",
     "opciones": [
-      "Interpretación privada.",
-      "Interpretacion pública.",
-      "Interpretacion auténtica."
-    ],
-    "correcta": 0,
-    "cita": "Tema 7, p. 136 (interpretación privada: la llevada a cabo por particulares, juristas y abogados)"
-  },
-  {
-    "pregunta": "Respecto de la relación entre Justicia        y Derecho la doctrina iusnaturalista sostiene que:",
-    "opciones": [
-      "La idea de la justicia no es intrínseca al Derecho, está vinculada a los juicios de la moral.",
-      "Justicia y Derecho están esencialmente unidos: sin Justicia no hay Derecho.",
-      "La justicia no es un elemento esencial del Derecho, sino un valor o principio ideal que se debe intentar realizar."
+      "Debera determinarse la contribución de cada cónyuge a las cargas del matrimonio.",
+      "Debera procederse a la liquidación de los bienes gananciales.",
+      "Debera fijarse el régimen de administración de los bienes privativos especialmente afectados a las cargas del matrimonio por escritura pública 0 capitulaciones matrimoniales."
     ],
     "correcta": 1,
-    "cita": "Tema 10, p. 174 (iusnaturalismo: Justicia y Derecho unidos esencialmente, sin Justicia no hay Derecho)"
+    "cita": "Cap. 8 – p. 113 (art. 103.4ª CC, la demanda no determina la disolución de gananciales, no liquidación inmediata)"
   },
   {
-    "pregunta": "La universalidad como característica de los derechos humanos implica que:",
+    "pregunta": "Marque la respuesta correcta. El Código Civil dispone que, en caso de muerte de un cónyuge, el ajuar doméstico,",
     "opciones": [
-      "Que éstos pertenecen a todos los seres humanos en todos los lugares y en todo momento histórico.",
-      "Que éstos pertenecen a todos los ciudadanos de un Estado concreto, que es quien garantiza su aplicación.",
-      "Que éstos pertenecen a todos los ciudadanos de un Estado concreto, siempre que se encuentren recogidos en la Constitución."
+      "sea entregado al cónyuge viudo sin computarselo en su haber, sin estar comprendidos dentro de ese ajuar los objetos de extraordinario valor",
+      "se reparta entre los herederos, salvo los bienes comprados con dinero privativo del cónyuge viudo, que serán entregados al cónyuge viudo.",
+      "se   reparta   entre   los   herederos,   salvo   en   el   régimen   económico matrimonial de gananciales."
     ],
     "correcta": 0,
-    "cita": "Tema 11, p. 191 (universalidad: derechos poseídos por todos los seres humanos, en todo tiempo y lugar)"
+    "cita": "Cap. 9 – p. 150 (art. 1321 CC, ajuar conyugal entregado al viudo sin cómputo en su haber)"
   },
   {
-    "pregunta": "La fundamentación positivista de los derechos humanos:",
+    "pregunta": "En la separaci6n matrimonial:",
     "opciones": [
-      "entiende que éstos tienen una naturaleza         prepositiva:   existen   con anterioridad e independientemente de las normas.",
-      "entiende que sólo son derechos humanos aquellos que se encuentren positivizados en la legislación vigente.",
-      "que estos son derechos prevalentes no positivos que deben ser incorporados a los ordenamientos jurídicos."
+      "Desaparece el vínculo matrimonial.",
+      "No desaparece el vínculo matrimonial.",
+      "Solo desaparece el vínculo matrimonial en el supuesto de una separación legal."
     ],
     "correcta": 1,
-    "cita": "Tema 11, p. 195 (fundamentación positivista: solo son derechos humanos los positivizados en la legislación)"
+    "cita": "Cap. 6 – p. 92 (la separación no disuelve el vínculo matrimonial)"
   },
   {
-    "pregunta": "Deontologia y Ética Profesional:",
+    "pregunta": "Las capitulaciones matrimoniales:",
     "opciones": [
-      "La Deontologia es Ética aplicada",
-      "La Ética Profesional tiene por objeto de estudio las normas y comportamientos establecidos en los Cédigos Deontolégicos",
-      "Ambas respuestas son correctas"
+      "sólo podran otorgarse antes de celebrar el matrimonio.",
+      "podran otorgarse antes o después de celebrar el matrimonio.",
+      "podran otorgarse antes o después de la celebración del matrimonio pero sólo durante el primer año."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 10 – p. 157 (art. 1326 CC, capitulaciones antes o después del matrimonio)"
+  },
+  {
+    "pregunta": "Las donaciones por raz6n de matrimonio se realizan...",
+    "opciones": [
+      "Antes y en consideración del matrimonio futuro.",
+      "Antes, durante o después del matrimonio, siempre que se realicen antes del divorcio.",
+      "Solo las realizan los parientes colaterales en linea recta."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 11 – p. 169 (art. 1336 CC, donaciones antes de celebrarse el matrimonio)"
+  },
+  {
+    "pregunta": "Constante la sociedad de gananciales, de las deudas comunes contraidas por uno sólo de los cónyuges responden:",
+    "opciones": [
+      "El cónyuge deudor y subsidiariamente la sociedad de gananciales.",
+      "Solidariamente los bienes de la sociedad de gananciales.",
+      "Nunca hay deudas comunes contraidas por un sólo cónyuge de las que respondan los bienes de la sociedad de gananciales."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 14 – p. 212 (art. 1369 CC, responsabilidad solidaria de los bienes gananciales)"
+  },
+  {
+    "pregunta": "Marque la respuesta correcta. Si A y B imponen a su primer hijo comun, cuando nace, un orden de apellidos",
+    "opciones": [
+      "tendrán que imponer a los demás hijos comunes ese mismo orden de apellidos cuando nazcan",
+      "podran imponer el orden inverso de apellidos a los demás hijos comunes cuando nazcan, siempre que así lo decidan ambos de comun acuerdo",
+      "podran imponer el orden que deseen a cada uno de los sucesivos hijos comunes cuando nazcan, siempre que así lo decidan ambos de comun acuerdo para cada uno de los hijos."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 18 – p. 268 (art. 49 LRC-2011, mismo orden de apellidos para todos los hijos comunes)"
+  },
+  {
+    "pregunta": "En la legislación vigente, la tutela se contempla:",
+    "opciones": [
+      "Tanto para los menores cómo para las personas con discapacidad.",
+      "Solo para los menores.",
+      "Solo para las personas con discapacidad."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 25 – p. 375 (art. 199 CC, tutela restringida a los menores tras la Ley 8/2021)"
+  },
+  {
+    "pregunta": "¿Existe la obligación legal de alimentos entre hermanos?",
+    "opciones": [
+      "Si, en todo caso, por ser colaterales en segundo grado.",
+      "Solo se deben los gastos necesarios para la educación.",
+      "Solo se deben los auxilios necesarios para la vida cuando los necesiten por cualquier causa que no sea imputable al alimentista. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulaci6n de alguna de las 20 preguntas ordinarias que integran el examen."
     ],
     "correcta": 2,
-    "cita": "Tema 13, p. 221 (Deontología Profesional como Ética Aplicada / Ética Profesional y Códigos Deontológicos)"
+    "cita": "Cap. 24 – p. 355 (art. 143 CC, alimentos entre hermanos: solo auxilios necesarios para la vida)"
   },
   {
-    "pregunta": "La Dogmatica Juridica:",
+    "pregunta": "La guarda de hecho de las personas con discapacidad es:",
     "opciones": [
-      "Designa la actividad propia de los jueces en su labor de interpretación y aplicación del Derecho.",
-      "Se centra en el andlisis y sistematización del contenido material de las normas positivas.",
-      "Analiza el Derecho como un fenómeno social entre otros, desde un punto de vista externo."
+      "Una medida formal, constituida por decisión judicial.",
+      "Una medida informal.",
+      "Una figura inexistente actualmente, puesto que la Ley 8/2021 la ha suprimido."
     ],
     "correcta": 1,
-    "cita": "Tema 14, p. 250 (Dogmática Jurídica: análisis sistemático del contenido material de las normas positivas)"
+    "cita": "Cap. 25 – p. 382 (la guarda de hecho es una medida informal de apoyo)"
   },
   {
-    "pregunta": "Las normas jurídicas se caracterizan por:",
+    "pregunta": "La situación de separación:",
     "opciones": [
-      "Alteridad, Sociabilidad e interioridad.",
-      "Interioridad, no coercibilidad y sanción objetiva.",
-      "Coercibilidad, sanción objetiva y exterioridad"
-    ],
-    "correcta": 2,
-    "cita": "Tema 1, p. 33 (normas jurídicas: alteridad/bilateralidad, exterioridad, heteronomía y coercibilidad objetiva)"
-  },
-  {
-    "pregunta": "EI núcleo de la dimensión moral radica en:",
-    "opciones": [
-      "La conciencia individual",
-      "La libertad de pensamiento",
-      "La conciencia colectiva"
+      "No extingue la obligaci6n alimenticia.",
+      "Si extingue la obligación alimenticia.",
+      "Solo se extingue, si es una separación de hecho."
     ],
     "correcta": 0,
-    "cita": "Tema 1, p. 36 (centro de gravedad de la dimensión moral: la conciencia individual)"
+    "cita": "Cap. 6 – p. 93 (la separación de hecho no extingue la obligación alimenticia entre cónyuges)"
   },
   {
-    "pregunta": "Las relaciones jurídicas están reguladas por:",
+    "pregunta": "Antonio, casado en régimen de gananciales con Juana, tiene un piso privativo. Cómo consecuencia de una avería en la instalación eléctrica de dicho piso, Antonio decide efectuar la correspondiente reparación. Del coste de la avería responde:",
     "opciones": [
-      "Los derechos subjetivos",
-      "Las facultades y poderes de los sujetos",
-      "Las normas jurídicas"
-    ],
-    "correcta": 2,
-    "cita": "Tema 3, p. 63 (relación jurídica regulada por normas jurídicas)"
-  },
-  {
-    "pregunta": "Las normas de Derecho Publico son, por lo general:",
-    "opciones": [
-      "Preceptivas y excluyen los pactos en contrario",
-      "Preceptivas y no excluyen los pactos en contrario 1",
-      "Dispositivas y excluyen los pactos en contrario"
-    ],
-    "correcta": 0,
-    "cita": "Tema 4, p. 100 (normas de Derecho Público, por lo general, preceptivas)"
-  },
-  {
-    "pregunta": "El principio de legitimidad del Derecho:",
-    "opciones": [
-      "Implica la necesidad de que las normas jurídicas cumplan una serie de requisitos formales y procedimentales",
-      "Implica el respeto a los derechos fundamentales y a la dignidad de la persona",
-      "Implica la supremacia de la ley, en tanto que emana del poder legislativo"
+      "Directamente la sociedad de gananciales frente al acreedor.",
+      "Solamente Antonio, al ser un bien privativo.",
+      "La   sociedad   de   gananciales    no   puede   responder   de   deudas devengadas por la administración de los bienes propios de un cónyuge."
     ],
     "correcta": 1,
-    "cita": "Tema 2, p. 63 (principio de legitimidad: respeto a los derechos fundamentales y la dignidad de la persona)"
+    "cita": "Cap. 14 – p. 215 (art. 1373 CC, cada cónyuge responde con su patrimonio de sus deudas propias)"
   },
   {
-    "pregunta": "Dentro de los caracteres de las normas jurídicas, el rasgo de la “abstracción”:",
+    "pregunta": "Las personas con discapacidad psiquica podran contraer matrimonio:",
     "opciones": [
-      "Pone de manifiesto que las normas jurídicas se dirigen y vinculan a toda una categoría o clase de sujetos",
-      "Pone de manifiesto que las normas jurídicas regulan determinadas categorías o clase de conductas o acciones a cuya realización se atribuyen consecuencias jurídicas",
-      "Que las normas      jurídicas   pretenden   establecer   pautas   vinculantes    de comportamiento."
+      "Previo dictamen médico, en todo caso.",
+      "Previo   dictamen     médico    excepcionalmente,      sólo       cuando   la discapacidad psiquica pueda impedir la prestación del consentimiento matrimonial pese a las medias de apoyo.",
+      "En ningún caso, por falta de capacidad matrimonial."
     ],
     "correcta": 1,
-    "cita": "Tema 5, p. 100 (abstracción: las normas regulan categorías de conductas con consecuencias jurídicas)"
+    "cita": "Cap. 3 – p. 52-53 (art. 56.2 CC, dictamen médico excepcional si impide prestar el consentimiento)"
   },
   {
-    "pregunta": "El sujeto social llamado a poseer el pleno control de la actividad creadora           de Derecho es:",
+    "pregunta": "Pedro, de veinte años, se casa con Paula, de dieciséis.           A los cuatro años Paula quiere solicitar la nulidad de su matrimonio. ¿ Sera posible?",
     "opciones": [
-      "Las Camaras Legislativas",
-      "El Poder Judicial",
-      "El Estado"
+      "No, ya que se caso con dieciséis años, y podia contraer matrimonio desde los quince.",
+      "No, ya que después de alcanzar la mayoria de edad ha vivido un año con Pedro, por lo que se ha convalidado su matrimonio.",
+      "Si, ese matrimonio es nulo y Paula podrá solicitar la nulidad en cualquier momento."
     ],
     "correcta": 2,
-    "cita": "Tema 4, p. 80 (ni gobiernos ni parlamentos estatales tienen en exclusiva la potestad de crear Derecho)"
+    "cita": "Cap. 5 – p. 75 (art. 75.2 CC, convalidación tras un año de convivencia alcanzada la mayoría de edad)"
   },
   {
-    "pregunta": "~Qué tipo de derecho es el derecho a la propiedad?",
+    "pregunta": "Pedro y Juana son amantes, y conciertan llevar a cabo el asesinato de Lucas, esposo de Juana. Finalmente, así lo realizan,       y son condenados por asesinato. Con posterioridad, deciden contraer matrimonio entre ellos. ¿Podran hacerlo?",
     "opciones": [
-      "Derecho político.",
-      "Derecho simple.",
-      "Derecho complejo."
-    ],
-    "correcta": 2,
-    "cita": "Tema 4, p. 88 (el derecho de propiedad, ejemplo típico de derecho complejo)"
-  },
-  {
-    "pregunta": "En las relaciones entre Derecho y Poder en la actualidad:",
-    "opciones": [
-      "Derecho y Poder se identifican, son lo mismo: el Poder decide lo que es Derecho",
-      "El Derecho está estrechamente unido al Poder, pero no puede identificarse con éste. El Derecho ha de limitar y controlar al Poder.",
-      "Dado que el Derecho tiene que limitar y legitimar al Poder social ambos se contraponen, se excluyen mutuamente."
+      "Si, libremente.",
+      "Si, si obtuvieran dispensa.",
+      "No, nunca."
     ],
     "correcta": 1,
-    "cita": "Tema 8, p. 150 (el Derecho está unido al Poder pero no se identifica con él; debe limitarlo y controlarlo)"
+    "cita": "Cap. 3 – p. 41 (art. 47.3ª y 48 CC, muerte dolosa del cónyuge, impedimento dispensable)"
   },
   {
-    "pregunta": "Algunos de los medios a través de los que ejerce el Derecho la función de integración y control son:",
+    "pregunta": "El deber conyugal que se refiere a la atención a las necesidades del otro cónyuge, comprendiendo de forma particular la obligación alimenticia entre los cónyuges, es conocido cómo:",
     "opciones": [
-      "Técnicas protectoras y represivas",
-      "Técnicas de información para su conocimiento",
-      "Técnicas de divulgación"
-    ],
-    "correcta": 0,
-    "cita": "Tema 9, p. 161 (técnicas protectoras y represivas, medios de la función de control social)"
-  },
-  {
-    "pregunta": "La Ética Profesional:",
-    "opciones": [
-      "Impone conductas coactivas",
-      "Implica el cumplimiento de las conductas establecidas en los Cédigos Deontológicos de la actividad concreta de que se trate",
-      "Implica el andlisis y la reflexión sobre los principios que constituyen los pilares de la moralidad en el ejercicio de la actividad profesién."
+      "El deber de respeto debido al otro cónyuge.",
+      "El deber de convivencia.",
+      "El deber de ayuda y socorro mutuos."
     ],
     "correcta": 2,
-    "cita": "Tema 13, p. 225 (la Ética Profesional implica reflexión sobre los principios de la moralidad profesional)"
+    "cita": "Cap. 4 – p. 62 (art. 68 CC, deber de ayuda y socorro mutuos)"
   },
   {
-    "pregunta": "Seguin la doctrina kelseniana, la norma que establece “El que matare a otro será castigado, como reo de homicidio, con la pena de prision de 10 a 15 años”, es:",
+    "pregunta": "La declaraci6én de nulidad del matrimonio no invalidará los efectos ya producidos:",
     "opciones": [
-      "una norma completa.",
-      "una norma incompleta.",
-      "una norma de reconocimiento."
-    ],
-    "correcta": 0,
-    "cita": "Tema 5, p. 101 (Kelsen: normas completas (incluyen la sanción) frente a normas incompletas)"
-  },
-  {
-    "pregunta": "La Declaración Universal de los Derechos Humanos de Naciones Unidas se aprobé:",
-    "opciones": [
-      "El 10 de diciembre de 1948",
-      "El 28 de septiembre de 1950",
-      "El 15 de febrero de 1975"
-    ],
-    "correcta": 0,
-    "cita": "Tema 1, p. 37 (aprobación en 1948 de la Declaración Universal de Derechos Humanos)"
-  },
-  {
-    "pregunta": "Cémo se denomina el método de integración jurídica que aplica, por identidad de razón, una norma jurídica a un supuesto no regulado:",
-    "opciones": [
-      "equidad",
-      "heterointegración",
-      "analogía"
+      "respecto de los hijos y de ambos contrayentes.",
+      "sólo respecto de los hijos; respecto de los contrayentes nunca se mantienen los efectos ya producidos.",
+      "respecto de los hijos y del contrayente o contrayentes de buena fe, lo que se conoce cómo matrimonio putativo."
     ],
     "correcta": 2,
-    "cita": "Tema 6, p. 120 (analogía: mismo tratamiento a un supuesto no regulado por identidad de razón)"
+    "cita": "Cap. 5 – p. 77 (matrimonio putativo: efectos a favor del contrayente de buena fe)"
   },
   {
-    "pregunta": "Los principales criterios de solución de las contradicciones entre normas son:",
+    "pregunta": "Las resoluciones dictadas por los Tribunales eclesiásticos sobre nulidad de matrimonio candnico:",
     "opciones": [
-      "Los de cronologia normativa, jerarquía normativa y prelación temporal.",
-      "Los de cronologia normativa, jerarquía normativa y especialidad.",
-      "Los de cronologia normativa, prelación temporal y especialidad."
-    ],
-    "correcta": 1,
-    "cita": "Tema 6, p. 121 (criterios de solución de antinomias: cronología, jerarquía y especialidad normativa)"
-  },
-  {
-    "pregunta": "El método de interpretación jurídica que analiza el sentido y alcance de las normas a partir de las circunstancias políticas, jurídicas y sociales existentes en el momento de su promulgación se denomina:",
-    "opciones": [
-      "Método teleológico.",
-      "Método histórico.",
-      "Método sistematico."
-    ],
-    "correcta": 1,
-    "cita": "Tema 7, p. 135 (método histórico: origen de la norma en su momento de promulgación)"
-  },
-  {
-    "pregunta": "El positivismo legalista es una visión del Derecho que, típicamente:",
-    "opciones": [
-      "Considera la actividad judicial como una labor meramente declarativa y donde los operadores jurídicos, por consiguiente, apenas tienen ningtin espacio para la interpretación.",
-      "Considera la actividad judicial como una labor meramente declarativa y donde los operadores jurídicos tienen amplio espacio para la interpretación.",
-      "Considera la actividad judicial como una labor meramente creativa y donde los operadores jurídicos, por consiguiente, apenas tienen ningtin espacio para la interpretación."
-    ],
-    "correcta": 0,
-    "cita": "Tema 7, p. 132 (positivismo legalista: actividad judicial como labor meramente declarativa)"
-  },
-  {
-    "pregunta": "El acto jurídico:",
-    "opciones": [
-      "Es lo mismo que el hecho natural",
-      "Es una acción humana con consecuencias jurídicas",
-      "Es un acontecimiento natural, independiente de la acción humana, con consecuencias jurídicas."
-    ],
-    "correcta": 1,
-    "cita": "Tema 3, p. 67 (acto jurídico: acción o comportamiento humano con consecuencias jurídicas)"
-  },
-  {
-    "pregunta": "La alteridad del Derecho es una característica que significa que:",
-    "opciones": [
-      "pone en referencia los actos de una persona con los de otra.",
-      "se debe cumplir inexorablemente.",
-      "una relación jurídica se extinga"
-    ],
-    "correcta": 0,
-    "cita": "Tema 14, p. 261 (alteridad: cualidad de ser relativo a otro (alter=otro))"
-  },
-  {
-    "pregunta": "La Sociologia del Derecho:",
-    "opciones": [
-      "Designa la actividad propia de los jueces en su labor de interpretación y aplicación del Derecho.",
-      "Se centra en el andlisis y sistematización del contenido material de las normas positivas.",
-      "Analiza el Derecho como un fenómeno social entre otros, desde un punto de vista externo."
+      "sólo tendrán eficacia en el Ambito candnico, pero no en el ámbito civil.",
+      "tendrán eficacia en el ámbito civil automaticamente.",
+      "tendrán eficacia en el ámbito civil si se declaran ajustadas a Derecho del Estado en resolución dictada por el juez civil."
     ],
     "correcta": 2,
-    "cita": "Tema 14, p. 253 (Sociología del Derecho: analiza el Derecho como fenómeno social, desde un punto de vista externo)"
+    "cita": "Cap. 5 – p. 80-81 (las resoluciones eclesiásticas requieren homologación civil ajustada a Derecho estatal)"
+  },
+  {
+    "pregunta": ". La acción de divorcio.",
+    "opciones": [
+      "Es personalisima, pues se extingue por la muerte de cualquiera de los cónyuges.",
+      "No es personalisima y puede ser ejercitada por los herederos de ambos cónyuges si alguno de ellos muere.",
+      "Es personalisima y nunca puede ser ejercitada por el representante legal del cónyuge a cuyo favor estuvieran establecidas medidas de apoyo en caso de discapacidad."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 6 – p. 89 (la acción de divorcio es personalísima, se extingue por la muerte de un cónyuge)"
+  },
+  {
+    "pregunta": "El divorcio requiere sentencia judicial:",
+    "opciones": [
+      "Siempre.",
+      "Solo si hay hijos menores de edad o hijos mayores de edad con la capacidad jurídica modificada y respecto de los que se hayan establecido judicialmente medidas de apoyo correspondientes a sus progenitores.",
+      "Nunca."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 6 – p. 87 (art. 82 CC, divorcio/separación con hijos menores requiere competencia judicial)"
+  },
+  {
+    "pregunta": "Sefnale la respuesta FALSA:",
+    "opciones": [
+      "Las medias provisionales se convierten en definitivas si son mantenidas por la sentencia firme de nulidad, separación o divorcio.",
+      "Las medias definitivas sustituyen a las medidas provisionales una vez que haya sentencia firme de nulidad, separación o divorcio.",
+      "El plazo de duración de las medidas provisionalisimas no podrá exceder de sesenta días,        a tenor de las   reglas establecidas en   la   Ley de Enjuiciamiento Civil para el computo de los plazos procesales."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 8 – p. 115 (art. 771 LEC, las medidas provisionalísimas no exceden de treinta días, no sesenta)"
+  },
+  {
+    "pregunta": "El contenido mínimo del convenio regulador:",
+    "opciones": [
+      "Sera el que libremente determinen los cónyuges de mutuo acuerdo.",
+      "Vendra fijado por el juez competente para conocer del procedimiento de nulidad, separación o divorcio.",
+      "Esta recogido en el Código civil."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 8 – p. 117 (el contenido mínimo del convenio regulador está recogido en el art. 90 CC)"
+  },
+  {
+    "pregunta": "Marque la respuesta correcta.   La libertad de configuraci6n del régimen económico matrimonial:",
+    "opciones": [
+      "es plena sin otras limitaciones que las establecidas en el Código Civil.",
+      "depende de la existencia 0 no de bienes privativos previos al matrimonio.",
+      "es inexistente en caso de hijos menores comunes o de hijos de uno cualquiera de cónyuges que convivan en el domicilio familiar."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 9 – p. 147 (art. 1315 CC, libertad de configuración plena sin más límites que el propio Código)"
+  },
+  {
+    "pregunta": "Marque la respuesta correcta. El cónyuge que sea propietario exclusivo del piso que constituya la vivienda familiar: puede donar el piso a quién considere oportuno sin consentimiento del otro cónyuge puede donar el piso a un hijo comun mayor de edad que conviva en la vivienda, sin consentimiento del otro cónyuge ninguna de las dos respuestas anteriores es correcta.",
+    "opciones": [
+      "puede donar el piso a quién considere oportuno sin consentimiento del otro cónyuge",
+      "puede donar el piso a un hijo común mayor de edad que conviva en la vivienda, sin consentimiento del otro cónyuge",
+      "ninguna de las dos respuestas anteriores es correcta."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 9 – p. 149 (art. 1320.1 CC, se requiere siempre el consentimiento de ambos para disponer de la vivienda habitual)"
+  },
+  {
+    "pregunta": "¿Pueden otorgarse capitulaciones matrimoniales antes de la celebración del matrimonio?:",
+    "opciones": [
+      "no, no será posible otorgarlas antes de la celebración del matrimonio.",
+      "si, pero lo que se estipule quedara sin efecto en el caso de no contraerse el matrimonio en el plazo de seis meses.",
+      "si, pero lo que se estipule quedara sin efecto en el caso de no contraerse el matrimonio en el plazo de un año."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 10 – p. 163 (art. 1334 CC, ineficacia si no se contrae matrimonio en el plazo de un año)"
+  },
+  {
+    "pregunta": "Diga qué bienes de los siguientes son gananciales:",
+    "opciones": [
+      "la vivienda familiar, aunque se haya pagado integramente por un sólo cónyuge antes de contraer matrimonio.",
+      "los frutos, rentas e intereses de los bienes privativos y de los bienes gananciales.",
+      "los bienes adquiridos a titulo gratuito   u oneroso durante la vida del régimen de gananciales."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 12 – p. 186 (art. 1347.2º CC, frutos, rentas e intereses son gananciales)"
+  },
+  {
+    "pregunta": "La gesti6n de los bienes gananciales, cómo regla general:",
+    "opciones": [
+      "Corresponde siempre a ambos cónyuges.",
+      "Corresponde cómo regla general a ambos cónyuges, pero puede pactarse su gestion individual.",
+      "Corresponde a cada cónyuge individualmente."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 13 – p. 190 (gestión individual pactada convencionalmente, art. 1439 CC)"
+  },
+  {
+    "pregunta": "No serán de cargo de la sociedad de gananciales, los gastos que se originen:",
+    "opciones": [
+      "Por adquisici6n, tenencia y disfrute de los bienes comunes.",
+      "Por la administración ordinaria de los bienes privativos de cualquiera de los cónyuges.",
+      "Por la educaci6n de los hijos de cualquiera de los cOényuges que no convivan en el hogar familiar."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 14 – p. 215 (art. 1362.1º in fine CC, gastos de hijos no comunes que no residan en el hogar familiar excluidos)"
+  },
+  {
+    "pregunta": "Pueden adoptar:",
+    "opciones": [
+      "sólo los cónyuges -adopcidén conjunta-.",
+      "sólo es posible la adopción individual, pero no la conjunta: ni parejas casadas ni parejas de hecho.",
+      "tanto   las   personas   individuales   -adopción   individual-   cuanto   los cónyuges y las parejas de hecho -adopción conjunta-."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 22 – p. 317 (art. 175.4 CC, adopción individual y conjunta (matrimonio o pareja de hecho))"
+  },
+  {
+    "pregunta": "Forman parte del activo de la sociedad de gananciales:",
+    "opciones": [
+      "Los bienes gananciales existentes en el momento de la disolución y las deudas pendientes a cargo de la sociedad.",
+      "Única y exclusivamente las deudas pendientes.",
+      "Los bienes gananciales existentes en el momento de la disolución."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 15 – p. 225 (art. 1397.1º CC, activo: bienes gananciales existentes al disolverse)"
+  },
+  {
+    "pregunta": "Marque la respuesta correcta. En el computo del parentesco:",
+    "opciones": [
+      "un tio dista de su sobrino dos grados en linea recta descendente.",
+      "un tio dista de su sobrino en dos grados en linea recta.",
+      "un tio dista de su sobrino tres grados en linea colateral."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 18 – p. 261 (art. 918 CC, tío y sobrino distan 3 grados en línea colateral)"
+  },
+  {
+    "pregunta": "Marque la respuesta correcta. La filiación:",
+    "opciones": [
+      "puede tener lugar por naturaleza y por adopción.",
+      "puede tener lugar por naturaleza, por adopción y por consanguinidad.",
+      "ninguna de las dos respuestas anteriores es correcta. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulaci6n de alguna de las 20 preguntas ordinarias que integran el examen."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 19 – p. 316 (art. 108 CC, la filiación puede tener lugar por naturaleza y por adopción)"
+  },
+  {
+    "pregunta": "Maria y Juan están casados y han tenido un hijo. No saben cómo se determina la filiaci6n matrimonial materna y paterna. Señale la respuesta correcta:",
+    "opciones": [
+      "Únicamente por la inscripci6n del nacimiento junto con la del matrimonio de los padres.",
+      "Por la inscripci6n del nacimiento junto con la del matrimonio de los padres o por sentencia firme.",
+      "Por la inscripción del nacimiento o por la sentencia firme."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 19 – p. 273 (art. 115 CC, inscripción del nacimiento junto con la del matrimonio, o sentencia firme)"
+  },
+  {
+    "pregunta": "En la liquidación de la sociedad de gananciales, se considera parte del activo:",
+    "opciones": [
+      "El importe actualizado de las cantidades pagadas por la sociedad que fueran de cargo de un sólo cónyuge.",
+      "Las deudas pendientes a cargo de la sociedad.",
+      "El importe actualizado de las cantidades que, habiendo sido pagadas por un sólo cónyuge, fueran de cargo de la sociedad."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 15 – p. 225 (art. 1397.3º CC, cantidades pagadas por la sociedad de cargo de un solo cónyuge, parte del activo)"
+  },
+  {
+    "pregunta": "Quedan sometidos a patria potestad:",
+    "opciones": [
+      "Todos los hijos o hijas, nacidos durante el matrimonio",
+      "Todos los hijos o hijas menores de edad.",
+      "Todos los hijos e hijas menores de edad, no emancipados"
+    ],
+    "correcta": 2,
+    "cita": "Cap. 12 – p. — (art. 199 CC, tutela restringida a menores no emancipados)"
+  },
+  {
+    "pregunta": "La promesa de matrimonio",
+    "opciones": [
+      "vincula a las dos partes y ninguna de las dos partes puede contraer matrimonio con otra persona hasta que de comun acuerdo decidan dar por finalizados los efectos de la promesa o uno de ellos notifique por via notarial al otro su decisión unilateral de dar por finalizados los efectos.",
+      "puede ser incumplida por cualquiera de las partes y en ese caso se aplica la clausula penal que se haya previsto contractualmente.",
+      "ninguna de las dos respuestas anteriores es correcta."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 2 – p. 32 (art. 43 CC, incumplimiento sin causa solo genera resarcimiento de gastos)"
+  },
+  {
+    "pregunta": "El matrimonio en peligro de muerte queda eximido en todo caso del requisito de:",
+    "opciones": [
+      "La previa tramitación del acta o expediente matrimonial.",
+      "La presencia de dos testigos mayores de edad.",
+      "El dictamen médico de la capacidad para prestar el consentimiento."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 3 – p. 52-53 (art. 52 CC, exención absoluta solo del expediente matrimonial previo)"
+  },
+  {
+    "pregunta": ". La acci6n de divorcio.",
+    "opciones": [
+      "Corresponde a ambos cónyuges siempre que actuen conjuntamente.",
+      "Corresponde a ambos cónyuges sólo cuando actuen por separado.",
+      "Corresponde a ambos cónyuges, ya actuen conjuntamente o por separado."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 7 – p. 102 (art. 86 CC, la acción de divorcio corresponde a ambos cónyuges, juntos o por separado)"
+  },
+  {
+    "pregunta": "La separación de hecho:",
+    "opciones": [
+      "Priva al cónyuge separado de la cuota de legítima correspondiente al cónyuge viudo.",
+      "No tiene ninguna incidencia en la herencia de los cónyuges.",
+      "Únicamente tiene incidencia en la herencia en el supuesto de una separación legal."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 6 – p. 93 (la separación de hecho priva de la cuota legitimaria del viudo)"
+  },
+  {
+    "pregunta": "La sentencia de divorcio produce efectos:",
+    "opciones": [
+      "Ex tunc que se retrotraen al momento de celebración del matrimonio.",
+      "Ex nunc, careciendo de eficacia retroactiva alguna.",
+      "Solo tiene efectos retroactivos ex func respecto de los hijos y el cónyuge de buena fe."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 7 – p. 104 (art. 89 CC, la sentencia de divorcio produce efectos ex nunc)"
+  },
+  {
+    "pregunta": "Admitida la demanda de nulidad, separación o divorcio:",
+    "opciones": [
+      "El uso de la vivienda familiar correspondera al cónyuge titular de los derechos sobre la misma.",
+      "El uso de la vivienda familiar correspondera al coOnyuge no titular si es vulnerable econémicamente pero no tiene derecho a           la justicia gratuita.",
+      "El uso de la vivienda familiar correspondera al cónyuge no titular si así lo exige el interés familiar mas necesitado de protección."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 8 – p. 125 (art. 96 CC, uso de la vivienda familiar según el interés más necesitado de protección)"
+  },
+  {
+    "pregunta": "Marque la respuesta correcta. En el régimen económico matrimonial de separación de bienes:",
+    "opciones": [
+      "el Código Civil impone que la contribuci6n a las cargas del matrimonio sea proporcional a los respectivos recursos economicos de los cónyuges.",
+      "el Cdédigo Civil establece que, a falta de convenio, la contribuci6n a las cargas   del   matrimonio   sea   proporcional   a   los   respectivos   recursos economicos de los cónyuges.",
+      "el Código Civil exige que la contribución a las cargas del matrimonio sea igual para ambos cónyuges, por aplicación del principio de igualdad."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 14 – p. 240 (art. 1438 CC, a falta de convenio, contribución proporcional a los recursos económicos)"
+  },
+  {
+    "pregunta": "Las donaciones por razón de matrimonio...",
+    "opciones": [
+      "Son irrevocables.",
+      "Son revocables por supervivencia de hijos.",
+      "Ambas respuestas son incorrectas."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 11 – p. 172 (art. 1343 CC, revocables por causas comunes salvo supervivencia de hijos)"
+  },
+  {
+    "pregunta": "Los bienes adquiridos a costa o en sustitución de bienes privativos son ...",
+    "opciones": [
+      "bienes privativos.",
+      "bienes gananciales si se trata de la vivienda familiar.",
+      "ninguna de las respuestas anteriores es correcta."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 12 – p. 183 (art. 1346.3º CC, bienes adquiridos a costa o en sustitución de privativos son privativos)"
+  },
+  {
+    "pregunta": "En el régimen de gananciales, cada cónyuge podrá tomar un anticipo de fondos gananciales para destinarlo al ejercicio de su profesión:",
+    "opciones": [
+      "Libremente, sin consentimiento del otro cónyuge.",
+      "Para ello necesitara el consentimiento del otro cónyuge.",
+      "Debera informar al otro cónyuge, pero no necesitara su consentimiento."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 13 – p. 199 (art. 1382 CC, anticipo sin consentimiento pero siempre con conocimiento del otro cónyuge)"
+  },
+  {
+    "pregunta": "En la liquidación de la sociedad de gananciales, una vez pagadas las deudas y cargas de la sociedad:",
+    "opciones": [
+      "Se abonaran los gastos hipotecarios.",
+      "Se abonaran las indemnizaciones y reintegros debidos a cada cónyuge.",
+      "Se abonaran los pagos a los trabajadores."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 15 – p. 224-225 (art. 1403 CC, tras pagar deudas y cargas se abonan indemnizaciones y reintegros)"
+  },
+  {
+    "pregunta": "Emilio y M? Pilar, casados en régimen de gananciales, se separan de hecho por acuerdo mutuo entre ambos. Tanto Emilio cómo M? Pilar pueden solicitar al juez la disolución de la sociedad de gananciales, siempre que:",
+    "opciones": [
+      "Hayan transcurrido mas de 2 años de dicha separación.",
+      "Haya transcurrido mas de 1 año de dicha separación.",
+      "Hayan transcurrido mas de 3 años de dicha separación."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 15 – p. 223 (art. 1393.3º CC, separación de hecho de más de un año)"
+  },
+  {
+    "pregunta": "Precise en qué caso NO se aplica por ministerio de la ley el régimen de separación de bienes:",
+    "opciones": [
+      "Una vez admitida la demanda de nulidad, separación o divorcio.",
+      "Cuándo se disuelve el régimen de gananciales a consecuencia del embargo de bienes comunes por deudas propias de uno de los cónyuges.",
+      "Cuándo se decreta judicialmente la separación de los cónyuges."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 15 – p. 223 (la sociedad de gananciales subsiste hasta la firmeza de la sentencia)"
+  },
+  {
+    "pregunta": "Maria está embarazada y Juan, cómo futuro padre quiere reconocer a su hijo nasciturus (concebido y no nacido):",
+    "opciones": [
+      "Juan puede realizar el reconocimiento del nasciturus de forma aislada y por separado, sin contar con la madre.",
+      "Solo puede reconocer al nasciturus la madre y nunca el padre porque la maternidad viene determinada por el parto.",
+      "Ambos      pueden    reconocer   conjuntamente   el   reconocimiento   del nascisturus"
+    ],
+    "correcta": 2,
+    "cita": "Cap. 19 – p. 281 (art. 122 CC, el padre no puede reconocer al nasciturus aislado, sí conjuntamente)"
+  },
+  {
+    "pregunta": "La patria potestad es:",
+    "opciones": [
+      "Un derecho subjetivo.",
+      "Un derecho subjetivo atribuido al patriarca familiar.",
+      "Un conjunto de poderes y facultades que el ordenamiento otorga a los progenitores para que los ejerciten en beneficio de los hijos."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 23 – p. 340 (art. 154 CC, conjunto de poderes y facultades en beneficio de los hijos)"
+  },
+  {
+    "pregunta": "Paca, de treinta años, es tia de Alberto, de cinco años, quién recientemente se ha quedado huérfano de padre y madre. Paca quiere adoptar a Alberto ya que viven en la misma ciudad y tienen muy buena relación. ¿Podra hacerlo?",
+    "opciones": [
+      "no, los tios no pueden adoptar a sus sobrinos.",
+      "si, los tios pueden adoptar a sus sobrinos y por la diferencia de edad entre ellos, es posible.",
+      "no, no puede adoptar a su sobrino por no cumplir la diferencia de edad legal requerida."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 22 – p. 318-319 (art. 175.1 y 175.3 CC, tíos y sobrinos (3er grado colateral) no está prohibido)"
+  },
+  {
+    "pregunta": "El principio de igualdad conyugal está recogido:",
+    "opciones": [
+      "En la Constitución espafola.",
+      "En el Código civil.",
+      "Ambas respuestas son correctas."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 2 – p. 30/62 (principio de igualdad conyugal recogido en la CE y en el CC)"
+  },
+  {
+    "pregunta": "Las rentas del alquiler de un piso privativo de uno de los cónyuges casados en régimen de gananciales, constituye un bien:",
+    "opciones": [
+      "Ganancial.",
+      "Privativo del propietario del piso.",
+      "Mixto de la sociedad de gananciales y del cónyuge propietario del piso."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 12 – p. 186 (art. 1347.2º CC, los frutos de bienes privativos son gananciales)"
+  },
+  {
+    "pregunta": "El parentesco por consanguinidad",
+    "opciones": [
+      "puede ser en linea recta o en linea colateral.",
+      "es el que existe entre los parientes por afinidad.",
+      "desaparecié de nuestro ordenamiento como consecuencia del principio constitucional de laicidad."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 18 – p. 261 (art. 918 CC, parentesco por consanguinidad en línea recta o colateral)"
+  },
+  {
+    "pregunta": "¿ Puede el juez nombrar tutor a quién los progenitores hayan excluido cómo tutores?",
+    "opciones": [
+      "No.",
+      "Sdlo si así lo exige el principio del interés superior del menor.",
+      "Ninguna de las dos respuestas anteriores es correcta. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulaci6n de alguna de las 20 preguntas ordinarias que integran el examen."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 25 – p. 375 (art. 234 CC, orden de preferencia para el nombramiento de tutor)"
+  },
+  {
+    "pregunta": "Si hay doble filiación y los progenitores no están de acuerdo en el orden de los apellidos del menor:",
+    "opciones": [
+      "encaso de que los progenitores sean de distinto sexo, se aplica el sistema de sorteo notarial.",
+      "encaso de que los progenitores sean del mismo sexo, se aplica el sistema de sorteo notarial.",
+      "ninguna de las dos respuestas anteriores es correcta."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 18 – p. 268 (el sorteo notarial es una propuesta política criticada, no la regla legal (interés superior del menor))"
+  },
+  {
+    "pregunta": "Marque el enunciado correcto:",
+    "opciones": [
+      "La filiación extramatrimonial       0 no matrimonial se determina mediante presunciones   de     paternidad,    al   igual   que   sucede   con   la   filiación matrimonial.",
+      "La filiación extramatrimonial   o no matrimonial se determina, entre otros modos, fundamentalmente por el reconocimiento ante el Encargado del Registro Civil, en testamento, o también por sentencia firme.",
+      "La filiación extramatrimonial o no matrimonial se determina sólo ante Notario."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 19 – p. 277 (art. 120 CC, reconocimiento ante el Encargado del RC, en testamento o por sentencia firme)"
+  },
+  {
+    "pregunta": "Es necesaria la dispensa para contraer matrimonio entre:",
+    "opciones": [
+      "Tios y sobrinos.",
+      "Primos.",
+      "Padres e hijos adoptivos."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 3 – p. 41 (art. 47.2ª CC, colaterales hasta el 3er grado (tíos y sobrinos) requieren dispensa)"
+  },
+  {
+    "pregunta": "El Código civil espanol:",
+    "opciones": [
+      "Solo admite el matrimonio religioso",
+      "Solo admite el matrimonio civil.",
+      "Ambas respuestas son incorrectas."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 3 – p. 19/55 (art. 60 CC, matrimonio civil y religioso con efectos civiles)"
+  },
+  {
+    "pregunta": "Las capitulaciones matrimoniales otorgadas antes de contraer matrimonio:",
+    "opciones": [
+      "Quedaran sin efecto si el matrimonio no se contrae en el plazo de dos años.",
+      "Quedaran sin efecto si el matrimonio no se contrae en el plazo de tres meses.",
+      "Quedaran sin efecto si el matrimonio no se contrae en el plazo de un año."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 10 – p. 163 (art. 1334 CC, ineficacia si no se contrae matrimonio en el plazo de un año)"
+  },
+  {
+    "pregunta": "La acción de resarcimiento por incumplimiento sin causa de la promesa de matrimonio caducara:",
+    "opciones": [
+      "Al año contado desde la negativa a la celebración de matrimonio.",
+      "A los tres años contados desde la negativa a la celebraci6n de matrimonio.",
+      "Es imprescriptible."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 2 – p. 32 (art. 43 CC, caducidad al año desde la negativa a la celebración)"
+  },
+  {
+    "pregunta": "Juan está casado con Maria. Un día, Juan resulta asesinado por un mafioso, que termina siendo detenido y condenado por ello. Maria consigue un permiso para ir a ver al mafioso a la carcel para reprocharle el asesinato, pero, sin embargo, tras esa entrevista y otras posteriores, terminan enamorandose y desean contraer matrimonio. ¿Podran?",
+    "opciones": [
+      "Si, pero sólo con dispensa judicial.",
+      "Si, sin necesidad de dispensa, porque no estuvieron de acuerdo para asesinar a Juan y no hay impedimento matrimonial.",
+      "No, en ningún caso, porque hay un impedimento matrimonial."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 3 – p. 41 (art. 47.3ª CC, el impedimento exige participación en la muerte dolosa del cónyuge)"
+  },
+  {
+    "pregunta": "Calixto, de 17 años, y Melibea, de 16 años, desean contraer matrimonio. ¿Es posible?",
+    "opciones": [
+      "No, en ningún caso, porque hay un impedimento matrimonial.",
+      "Si, si ambos se emanciparan previamente.",
+      "Si, pero sólo con dispensa judicial."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 3 – p. 38 (edad mínima de emancipación, 16 años)"
+  },
+  {
+    "pregunta": "No es competente para tramitar el expediente previo a la celebración del matrimonio:",
+    "opciones": [
+      "El alcalde.",
+      "El funcionario diplomático o consular.",
+      "El encargado del Registro Civil."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 3 – p. 46 (art. 51 CC, el alcalde solo interviene en la celebración, no en el expediente)"
+  },
+  {
+    "pregunta": "Marque la única frase totalmente correcta de entre las tres siguientes:",
+    "opciones": [
+      "La presunción de convivencia permite al cónyuge exigir al otro que resida en la vivienda privativa.",
+      "Si uno de los cónyuges se muda temporalmente a otro domicilio distinto del conyugal, se pierde la presunción de convivencia y con ello el deber de ayuda y socorro.",
+      "Se presume, salvo prueba en contrario, que los coOnyuges viven juntos."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 4 – p. 63 (art. 69 CC, presunción de convivencia salvo prueba en contrario)"
+  },
+  {
+    "pregunta": "Los cónyuges pueden celebrar contratos entre si:",
+    "opciones": [
+      "En todos los casos.",
+      "En ningún caso.",
+      "Excepto celebrar donaciones remuneratorias."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 11 – p. 174 (art. 1323 CC, los cónyuges pueden celebrar entre sí toda clase de contratos)"
+  },
+  {
+    "pregunta": "El matrimonio celebrado por coacción o miedo grave es:",
+    "opciones": [
+      "Nulo.",
+      "Anulable.",
+      "Rescindible por lesidn."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 5 – p. 74-76 (art. 73.5ª CC, matrimonio nulo por coacción o miedo grave)"
+  },
+  {
+    "pregunta": "En caso de reconciliación de un matrimonio separados judicialmente:",
+    "opciones": [
+      "Es necesario que vuelvan a contraer matrimonio.",
+      "Ambos cónyuges deberan ponerlo en conocimiento del juez que entienda o haya entendido del litigio, para que surta efecto la reconciliaci6n.",
+      "La mera reconciliación es suficiente y anula la sentencia de separación."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 6 – p. 90 (art. 84 CC, la reconciliación debe ponerse en conocimiento del juez)"
+  },
+  {
+    "pregunta": "Luis y Berta están casados. Un día Luis desaparece y, cumplidos los correspondientes    requisitos,   se   le   declara   fallecido.   Berta    contrae   nuevo matrimonio con Jorge,     pero Luis vuelve a aparecer vivo.                ¿Cual de estos matrimonios es valido y efectivo actualmente?",
+    "opciones": [
+      "El de Luis y Berta.",
+      "El de Jorge y Berta.",
+      "Ninguno de ellos, porque se anulan mutuamente."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 7 – p. 98 (el matrimonio del cónyuge presente con un tercero es válido tras la declaración de fallecimiento)"
+  },
+  {
+    "pregunta": "En caso de divorcio de mutuo acuerdo, ¿será necesario aportar con la demanda un convenio regulador?",
+    "opciones": [
+      "Si, siempre.",
+      "No, porque las medidas reguladoras de los efectos del divorcio se fijan judicialmente.",
+      "No, porque el convenio regulador se puede acordar por los cónyuges una vez divorciados."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 7 – p. 101 (art. 81/86-87 CC, el divorcio de mutuo acuerdo exige convenio regulador)"
+  },
+  {
+    "pregunta": "¿Quién de estos funcionarios tiene competencia para determinar el divorcio?",
+    "opciones": [
+      "El Alcalde 0 concejal en quién delegue.",
+      "El Notario.",
+      "El funcionario diplomático o consular, en ejercicio de sus funciones notariales."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 7 – p. 101 (art. 87 CC, los funcionarios diplomáticos/consulares no pueden autorizar la escritura de divorcio)"
+  },
+  {
+    "pregunta": "En caso de matrimonio putativo, el cónyuge de buena fe:",
+    "opciones": [
+      "Podra pedir una indemnización, en todo caso.",
+      "Podra pedir una indemnización si ha habido convivencia.",
+      "No podrá pedir indemnización."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 8 – p. 133 (art. 98 CC, indemnización al cónyuge de buena fe si ha habido convivencia)"
+  },
+  {
+    "pregunta": "Las capitulaciones, para que sean validas:",
+    "opciones": [
+      "Deberan constar en escritura pública.",
+      "Pueden constar en documento privado.",
+      "Pueden constar en documento privado, pero han de convalidarse en el plazo de un año."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 10 – p. 159 (art. 1327 CC, escritura pública)"
+  },
+  {
+    "pregunta": "En las donaciones por razón de matrimonio, los futuros esposos:",
+    "opciones": [
+      "podran donarse bienes presentes e igualmente podran donarse antes del matrimonio en capitulaciones matrimoniales bienes futuros, sólo para el caso de muerte y según las normas de la sucesión testada.",
+      "sólo podran donarse bienes presentes.",
+      "no podran donarse ningún bien en consideración a su matrimonio."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 11 – p. 169 (art. 1341 CC, bienes presentes y, en capitulaciones, bienes futuros para caso de muerte)"
+  },
+  {
+    "pregunta": "En la sociedad de gananciales, si ambos cónyuges resultan beneficiados conjuntamente, ya sea por testamento o ya sea por donación:",
+    "opciones": [
+      "Los bienes donados o dejados en testamento            a ambos cónyuges conjuntamente y sin especial designación de partes,           se entenderan gananciales, si ambos aceptan la liberalidad, y el donante o testador no hubiere dispuesto lo contrario.",
+      "Los bienes donados o dejados en testamento a ambos cdonyuges conjuntamente y sin especial designación de partes,           se entenderan privativos, siendo necesario que los cónyuges echen a suertes para decidir a quién pertenecen.",
+      "No es posible dejar a ambos cónyuges conjuntamente en donaciéon o en testamento ningún tipo de bien."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 12 – p. 187 (art. 1353 CC, bienes donados o legados conjuntamente se presumen gananciales)"
+  },
+  {
+    "pregunta": "El reconocimiento de la filiaci6n extramatrimonial:",
+    "opciones": [
+      "puede efectuarse por el padre y por la madre.",
+      "puede efectuarse por el padre, pero no por la madre.",
+      "sólo puede efectuarse en testamento."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 19 – p. 277 (art. 120 CC, el reconocimiento puede efectuarlo el padre y la madre)"
+  },
+  {
+    "pregunta": "Maria, de 28 años, quiere adoptar a su hermano pequeno, de 15, ante el fallecimiento de los padres de ambos- ¿,Podria hacerlo?",
+    "opciones": [
+      "No. En ningún caso.",
+      "Si, pero con dispensa.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 22 – p. 319 (art. 175.3.2ª CC, prohibición no dispensable entre colaterales de 2º grado (hermanos))"
+  },
+  {
+    "pregunta": "Pueden ser tutores:",
+    "opciones": [
+      "Las personas físicas, pero las personas jurídicas no.",
+      "Las personas físicas y cualquier persona jurídica.",
+      "Las personas físicas y las fundaciones y demás personas jurídicas sin animo de lucro, entre cuyos fines esté la protección de menores. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulación de alguna de las 20 preguntas ordinarias que integran el examen."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 25 – p. 375 (art. 242 CC, personas físicas y personas jurídicas sin ánimo de lucro)"
+  },
+  {
+    "pregunta": "El Código civil por lo que al matrimonio se refiere dispone:",
+    "opciones": [
+      "Un sistema de matrimonio único.",
+      "Un sistema electivo material.",
+      "Un sistema electivo formal."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 3 – p. 29 (sistema electivo formal, de forma múltiple y clase única)"
+  },
+  {
+    "pregunta": "En las donaciones por razón de matrimonio otorgadas por terceros:",
+    "opciones": [
+      "no se podran revocar.",
+      "se pueden revocar si el donatario está de acuerdo, y siempre que quiera devolver lo recibido.",
+      "se reputara incumplimiento de cargas, además de cualquiera otras especificas a que pudiera haberse subordinado la donación, la anulaci6n del matrimonio por cualquier causa."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 11 – p. 173 (art. 1343.2 CC, la anulación del matrimonio se reputa incumplimiento de cargas)"
+  },
+  {
+    "pregunta": "Ante las personas que tienen un antepasado comun se habla de:",
+    "opciones": [
+      "Parentesco en linea recta.",
+      "Parentesco en linea colateral.",
+      "Parentesco adoptivo."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 18 – p. 259 (parentesco colateral: antepasado común)"
+  },
+  {
+    "pregunta": "A tenor del Código civil espanol:",
+    "opciones": [
+      "El matrimonio homosexual es valido si los contrayentes son mayores de 25 años.",
+      "El matrimonio homosexual     no es valido si se trata de menores emancipados",
+      "El matrimonio homosexual está sometido a los mismos requisitos que el matrimonio heterosexual."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 3 – p. 19 (art. 44 CC, mismos requisitos para el matrimonio homosexual y heterosexual)"
+  },
+  {
+    "pregunta": "Las relaciones jurídico-civiles relativas a las formas de matrimonio:",
+    "opciones": [
+      "Son competencia exclusiva de la Unión Europea.",
+      "Son competencia exclusiva del Estado.",
+      "Son una competencia compartida entre el Estado y las Comunidades Autonomas."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 2 – p. 30 (art. 149.1.8ª CE, competencia exclusiva del Estado)"
+  },
+  {
+    "pregunta": "La promesa cierta de matrimonio:",
+    "opciones": [
+      "Produce efectos legales y produce obligación de contraerlo, salvo justa causa.",
+      "Produce efectos legales y genera obligación de cumplir lo que se hubiera estipulado para el supuesto de su no celebración.",
+      "Solo producirá la obligación de resarcir a la otra parte de los gastos hechos y las obligaciones contraidas en consideración al matrimonio prometido."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 2 – p. 32 (art. 43 CC, solo resarcimiento de gastos)"
+  },
+  {
+    "pregunta": "Pedro desea contraer matrimonio con su sobrina Clara. ¿Podra hacerlo?",
+    "opciones": [
+      "Si, en todo caso.",
+      "No, en ningún caso, porque son parientes proximos.",
+      "Si, si obtienen dispensa judicial del impedimento."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 3 – p. 41 (art. 47.2ª y 48 CC, tíos y sobrinos, 3er grado colateral, dispensable)"
+  },
+  {
+    "pregunta": "Romeo, de 18 años, y Julieta, de 15 años, desean contraer matrimonio. ¿Es posible?",
+    "opciones": [
+      "Si, porque Romeo ya es mayor de edad.",
+      "Si, pero sólo con dispensa judicial.",
+      "No, en ningún caso, porque hay un impedimento matrimonial."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 3 – p. 38 (edad mínima 16 años para emancipación; a los 15 impedimento absoluto)"
+  },
+  {
+    "pregunta": "Las capitulaciones matrimoniales se pueden otorgar:",
+    "opciones": [
+      "Solo después de contraer matrimonio.",
+      "Solo antes de contraer matrimonio.",
+      "Antes y después de contraer matrimonio"
+    ],
+    "correcta": 2,
+    "cita": "Cap. 10 – p. 157 (art. 1326 CC, antes o después del matrimonio)"
+  },
+  {
+    "pregunta": "£El deber de ayuda y socorro entre los cónyuges comprende la obligaci6én de alimentos entre los cónyuges?",
+    "opciones": [
+      "Si.",
+      "Si, pero está condicionado a que el cónyuge beneficiario de la ayuda respete las decisiones del otro sobre el interés superior del menor.",
+      "Si, pero los cónyuges sólo tienen que prestarse ayuda y socorro cuando viven bajo el mismo techo."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 4 – p. 62 (art. 68 CC, socorrerse mutuamente incluye la obligación de alimentos)"
+  },
+  {
+    "pregunta": "Las donaciones entre cónyuges:",
+    "opciones": [
+      "Estan expresamente prohibidas en el cddigo Civil.",
+      "Estan permitidas.",
+      "Estan prohibidas las donaciones remuneratorias."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 11 – p. 174 (art. 1323 CC, donaciones entre cónyuges plenamente lícitas)"
+  },
+  {
+    "pregunta": "El matrimonio celebrado entre dos hermanos es:",
+    "opciones": [
+      "Anulable.",
+      "Nulo de pleno derecho.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 3 – p. 41-43 (art. 47.2ª y 48 CC, hermanos (2º grado colateral) es impedimento no dispensable)"
+  },
+  {
+    "pregunta": "Un matrimonio nulo contraido de buena fe al menos por un cónyuge es:",
+    "opciones": [
+      "Anulable, pero se puede confirmar.",
+      "Es un matrimonio putativo.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 5 – p. 77 (matrimonio putativo)"
+  },
+  {
+    "pregunta": "El cédigo civil exige que para poder entablar demanda de separación:",
+    "opciones": [
+      "Hayan transcurrido, al menos, un año desde la celebración del matrimonio.",
+      "Hayan     transcurrido,   al   menos,   seis   meses   desde   la   celebración   del matrimonio.",
+      "Hayan    transcurrido,    al   menos,    tres   meses   desde    la   celebración    del matrimonio, salvo las excepciones previstas en el cédigo, en cuyo caso no será necesario plazo alguno."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 6 – p. 88 (art. 81-82 CC, tres meses desde la celebración salvo excepciones)"
+  },
+  {
+    "pregunta": "Antonio y Concha están casados. Un día Antonio desaparece y, cumplidos los correspondientes requisitos, se le declara fallecido. ~Cual es su situaci6én actual?",
+    "opciones": [
+      "Siguen      casados,    porque     ambos    están   vivos,    aunque   pueden divorciarse.",
+      "Siguen casados, por lo que deben iniciar un procedimiento de divorcio para regularizar su situación.",
+      "No están casados, porque la declaración de fallecimiento disolvid el matrimonio, pero pueden volver a casarse."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 7 – p. 97 (art. 85 CC, la declaración de fallecimiento disuelve el matrimonio)"
+  },
+  {
+    "pregunta": "En    caso   de   divorcio   tramitado   por el   procedimiento     contencioso,    el funcionario competente será:",
+    "opciones": [
+      "El Juez.",
+      "El Letrado de la Administración de Justicia (Secretario Judicial).",
+      "Cualquiera de ellos."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 7 – p. 104-105 (el divorcio contencioso requiere sentencia judicial)"
+  },
+  {
+    "pregunta": "En un procedimiento de nulidad,             separaci6n o divorcio,       las llamadas medidas provisionalisimas 0 previas:",
+    "opciones": [
+      "Se derivan de la admisioOn de la demanda y con anterioridad a la sentencia.",
+      "Se pueden adoptar con anterioridad a la presentación de la demanda.",
+      "Se adoptan con la sentencia y con anterioridad a su ejecución."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 8 – p. 115 (medidas provisionalísimas previas a la demanda)"
+  },
+  {
+    "pregunta": "En unas capitulaciones matrimoniales:",
+    "opciones": [
+      "Podria reconocerse un hijo prematrimonial.",
+      "Solamente podrá modificarse en régimen económico del matrimonio.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correcta": 0,
+    "cita": "Cap. 10 – p. 160 (contenido atípico de las capitulaciones: reconocimiento de hijo extramatrimonial)"
+  },
+  {
+    "pregunta": "Las donaciones por raz6n de matrimonio, podran realizarlas:",
+    "opciones": [
+      "sólo los cónyuges entre si.",
+      "sólo los familiares de los futuros cónyuges.",
+      "cualquier persona."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 11 – p. 169 (art. 1336 CC, cualquier persona puede donar por razón de matrimonio)"
+  },
+  {
+    "pregunta": "Juan y Maria están casados en gananciales. Diga si los siguientes bienes son privativos o gananciales:",
+    "opciones": [
+      "El coche que compro Juan de soltero, el piso de la playa que hered6 Juan de sus tios y su sueldo: todos son bienes privativos.",
+      "El coche que compro Juan de soltero y el piso de la playa que hered6 Juan de sus tios son privativos; pero su sueldo es ganancial.",
+      "El coche que compro Juan de soltero es privativo; pero el piso de la playa que heredo Juan de sus tios y su sueldo son gananciales."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 12 – p. 183-184 (arts. 1346.2º y 1347.1º CC, herencia privativa y sueldo ganancial)"
+  },
+  {
+    "pregunta": "El parentesco por afinidad es un vínculo estrictamente personal entre:",
+    "opciones": [
+      "Hermanos.",
+      "Padre e hijo.",
+      "Un cónyuge y el cufado."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 18 – p. 259 (parentesco por afinidad: cónyuge y parientes consanguíneos del otro (cuñado))"
+  },
+  {
+    "pregunta": "La tutela es una figura de protecci6n que se establece en beneficio de:",
+    "opciones": [
+      "Los menores y los mayores en situación de desamparo y no sujetos a patria potestad.",
+      "Los menores no emancipados en situación de desamparo, y los menores no emancipados no sujetos a patria potestad.",
+      "Los menores no emancipados en situación de desamparo, y los mayores sujetos a patria potestad."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 25 – p. 375 (art. 199 CC, tutela restringida a menores no emancipados)"
+  },
+  {
+    "pregunta": "Los cónyuges divorciados:",
+    "opciones": [
+      "Tienen derecho de alimentos si se da una situaci6n de desequilibrio económico.",
+      "Tienen derecho de alimentos durante tres años después de haberse divorciado.",
+      "No tienen derecho de alimentos. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulación de alguna de las 20 preguntas ordinarias que integran el examen."
+    ],
+    "correcta": 2,
+    "cita": "Cap. 24 – p. 355 (los cónyuges divorciados no tienen derecho de alimentos)"
+  },
+  {
+    "pregunta": "Los actos de disposición a titulo oneroso de bienes gananciales realizados sin el consentimiento de ambos cónyuges son:",
+    "opciones": [
+      "Nulos de pleno derecho.",
+      "Anulables.",
+      "Rescindibles sólo por los acreedores perjudicados."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 13 – p. 193 (art. 1322.1 CC, anulables)"
+  },
+  {
+    "pregunta": "El conjunto normativo del Céddigo Civil que contiene reglas basicas del régimen económico matrimonial, con independencia de cual sea el régimen económico-matrimonial aplicable al matrimonio, es denominado:",
+    "opciones": [
+      "El régimen matrimonial esencial.",
+      "El régimen matrimonial primario.",
+      "El régimen matrimonial básico."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 9 – p. 146 (régimen matrimonial primario, expresión doctrinal de Lacruz Berdejo)"
+  },
+  {
+    "pregunta": "Cosme y Damaso forman una pareja de hecho registrada. Cosme conoce a Andrea y quieren contraer matrimonio. ~Es posible?",
+    "opciones": [
+      "No, en ningún caso, porque hay un impedimento matrimonial.",
+      "Si, en todo caso.",
+      "Si, pero sólo con dispensa judicial."
+    ],
+    "correcta": 1,
+    "cita": "Cap. 3 – p. — (la pareja de hecho registrada no genera impedimento matrimonial de ligamen)"
   }
 ]
