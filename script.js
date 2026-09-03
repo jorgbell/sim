@@ -3,21 +3,44 @@
 /*
  * Simulador de Examen
  * ---------------------------------------------------------
- * Formato esperado de questions.json: un array de objetos así:
+ * Formato esperado de questions.json. Se admiten dos formas:
+ *
+ * 1) Array simple de preguntas (usa la puntuación por defecto):
+ * [
+ *   {
+ *     "pregunta": "Texto de la pregunta",
+ *     "opciones": ["Opción A", "Opción B", "Opción C", "Opción D"],
+ *     "correcta": 0,        // índice (0-3) de la opción correcta
+ *     "cita": "Texto opcional que explica/justifica la respuesta correcta"
+ *   }
+ * ]
+ *
+ * 2) Objeto con puntuación propia + preguntas:
  * {
- *   "pregunta": "Texto de la pregunta",
- *   "opciones": ["Opción A", "Opción B", "Opción C", "Opción D"],
- *   "correcta": 0,          // índice (0-3) de la opción correcta
- *   "cita": "Texto opcional que explica/justifica la respuesta correcta"
+ *   "puntuacion": { "acierto": 0.5, "error": -0.1, "blanco": 0 },
+ *   "preguntas": [ ...igual que arriba... ]
  * }
+ *
+ * "puntuacion" es opcional y admite indicar solo alguno de los tres
+ * campos: lo que falte se rellena con el valor por defecto
+ * (DEFAULT_SCORING). Así cada questions.json puede tener sus propios
+ * valores de acierto/error/blanco, o no indicar nada y heredar los
+ * de por defecto.
  *
  * Toda la "memoria" de qué preguntas ya han salido vive únicamente
  * en variables de JS (en RAM). Al recargar la página se pierde y
  * se vuelve al estado inicial, tal y como se pidió.
  */
 
+const DEFAULT_SCORING = {
+  acierto: 0.5,   // puntos que suma cada respuesta correcta
+  error: -0.10,   // puntos que resta (valor negativo) cada respuesta incorrecta
+  blanco: 0,      // puntos que suma/resta cada pregunta dejada en blanco
+};
+
 const state = {
   pool: [],              // todas las preguntas cargadas del JSON
+  scoring: { ...DEFAULT_SCORING }, // valores de puntuación del questions.json actual
   usedIndices: new Set(),// índices del pool ya usados en exámenes anteriores (memoria en RAM)
   currentQuestions: [],  // preguntas del examen actual (con su índice original y estado de respuesta)
 };
@@ -31,6 +54,7 @@ const els = {
   setupError: document.getElementById("setup-error"),
   questionCount: document.getElementById("question-count"),
   scoreSummary: document.getElementById("score-summary"),
+  gradeSummary: document.getElementById("grade-summary"),
   newExamBtn: document.getElementById("new-exam-btn"),
   newExamCount: document.getElementById("new-exam-count"),
   revealAllBtn: document.getElementById("reveal-all-btn"),
@@ -45,14 +69,16 @@ async function init() {
     if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
 
-    if (!Array.isArray(data) || data.length === 0) {
+    const { pool, scoring } = parseQuestionsFile(data);
+    if (pool.length === 0) {
       throw new Error("El archivo questions.json está vacío o mal formado.");
     }
 
-    state.pool = data;
+    state.pool = pool;
+    state.scoring = scoring;
     els.poolInfo.textContent =
-      `Banco de preguntas cargado: ${data.length} preguntas disponibles.`;
-    els.numQuestions.max = String(data.length);
+      `Banco de preguntas cargado: ${pool.length} preguntas disponibles.`;
+    els.numQuestions.max = String(pool.length);
   } catch (err) {
     console.error(err);
     els.poolInfo.textContent =
@@ -63,6 +89,27 @@ async function init() {
   els.startBtn.addEventListener("click", handleStartExam);
   els.newExamBtn.addEventListener("click", handleNewExam);
   els.revealAllBtn.addEventListener("click", handleRevealAll);
+}
+
+/**
+ * Interpreta el contenido de questions.json en cualquiera de sus dos
+ * formas admitidas (ver comentario de cabecera) y devuelve el banco
+ * de preguntas junto con la puntuación aplicable (rellenando con los
+ * valores por defecto lo que el archivo no indique).
+ */
+function parseQuestionsFile(data) {
+  if (Array.isArray(data)) {
+    return { pool: data, scoring: { ...DEFAULT_SCORING } };
+  }
+
+  if (data && Array.isArray(data.preguntas)) {
+    return {
+      pool: data.preguntas,
+      scoring: { ...DEFAULT_SCORING, ...(data.puntuacion || {}) },
+    };
+  }
+
+  return { pool: [], scoring: { ...DEFAULT_SCORING } };
 }
 
 function handleStartExam() {
@@ -280,10 +327,43 @@ function applyRevealedStyles(q, title, list, revealBtn, explanation) {
   }
 }
 
+/**
+ * Calcula la nota del examen actual a partir de las preguntas ya
+ * corregidas (reveladas), usando la puntuación del questions.json
+ * cargado: acierto suma, error resta y blanco (pregunta revelada sin
+ * marcar ninguna opción) no puntúa.
+ */
+function calculateGrade() {
+  const { acierto, error, blanco } = state.scoring;
+  let correct = 0;
+  let incorrect = 0;
+  let blank = 0;
+
+  state.currentQuestions.forEach((q) => {
+    if (!q.answered) return; // aún no corregida: no cuenta para la nota
+    if (q.selected === null || q.selected === undefined) {
+      blank++;
+    } else if (q.selected === q.correcta) {
+      correct++;
+    } else {
+      incorrect++;
+    }
+  });
+
+  const score = correct * acierto + incorrect * error + blank * blanco;
+  const maxScore = state.currentQuestions.length * acierto;
+
+  return { correct, incorrect, blank, score, maxScore };
+}
+
 function updateScoreSummary() {
   const answered = state.currentQuestions.filter((q) => q.answered);
   const correct = answered.filter((q) => q.selected === q.correcta);
   els.scoreSummary.textContent =
     `Aciertos: ${correct.length} / ${answered.length} corregidas` +
     ` (de ${state.currentQuestions.length} preguntas)`;
+
+  const { score, maxScore } = calculateGrade();
+  els.gradeSummary.textContent =
+    `Nota: ${score.toFixed(2)} / ${maxScore.toFixed(2)}`;
 }

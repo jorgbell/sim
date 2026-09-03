@@ -203,6 +203,13 @@ main {
   font-size: 0.9rem;
 }
 
+.grade-summary {
+  margin: 0.2rem 0 0;
+  color: var(--accent-hover);
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
 .exam-header-actions {
   display: flex;
   align-items: center;

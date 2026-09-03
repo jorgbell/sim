@@ -1,1612 +1,1619 @@
-[
-  {
-    "pregunta": "Diga cual es la afirmación correcta:",
-    "opciones": [
-      "El matrimonio es un acto solemne, salvo pacto en contrario.",
-      "El matrimonio es un acto solemne de modo que si no se respeta la forma establecida por el Código civil o la forma religiosa legalmente prevista tiene como consecuencia la nulidad del matrimonio.",
-      "Solo el matrimonio religioso es un acto solemne. Respecto al matrimonio civil el Código civil establece la libertad de forma."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 3 – p. 73 (art. 73.3ª CC, nulidad por defecto de forma)"
-  },
-  {
-    "pregunta": "Las capitulaciones matrimoniales deberan constar:",
-    "opciones": [
-      "En cualquier documento, público o privado.",
-      "En cualquier documento público.",
-      "En escritura pública."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 10 – p. 159 (art. 1327 CC, escritura pública)"
-  },
-  {
-    "pregunta": "¿Cómo se constituye la adopción nacional?",
-    "opciones": [
-      "Mediante acta otorgada ante Notario.",
-      "Mediante resolución del Registro Civil.",
-      "Mediante resolución judicial."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 22 – p. 323 (art. 176.1 CC, naturaleza constitutiva de la resolución judicial)"
-  },
-  {
-    "pregunta": "El plazo para pedir el resarcimiento de los gastos realizados en atención al matrimonio prometido:",
-    "opciones": [
-      "Caduca al año,      contado desde la negativa a la celebración del matrimonio.",
-      "Caduca a los dos años, contados desde la negativa a la celebración del matrimonio.",
-      "Caduca a los seis meses, contados desde la ruptura de la promesa."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 2 – p. 32 (art. 43 CC, caducidad al año)"
-  },
-  {
-    "pregunta": "Ante Notario podrá realizarse:",
-    "opciones": [
-      "La celebración del matrimonio, y la separación legal y el divorcio.",
-      "La celebración del matrimonio, pero no la separación legal y el divorcio.",
-      "La separación legal y el divorcio, pero no la celebraci6n del matrimonio."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 6/3 – p. 86/46-47 (notario competente para autorizar matrimonio y separación)"
-  },
-  {
-    "pregunta": "Pedro, de 17 años, quiere contraer matrimonio con su novia Pepa, de 16. 4 Podran hacerlo?",
-    "opciones": [
-      "Si, con dispensa del juez.",
-      "Solo si previamente son emancipados.",
-      "Nunca."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 3 – p. 38 (edad núbil; dispensa de edad abolida por la LJV)"
-  },
-  {
-    "pregunta": "La separación de hecho",
-    "opciones": [
-      "tiene efectos en cuanto a la herencia, pues al cónyuge separado de hecho le priva de la legítima correspondiente al cónyuge viudo.",
-      "tiene efectos en cuanto a la herencia, pues si hay hijos menores priva al cónyuge separado de hecho de la legítima correspondiente al cónyuge viudo.",
-      "no priva al cónyuge separado de la legítima correspondiente al cónyuge viudo."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 6 – p. 93 (la separación de hecho priva de la cuota legitimaria del viudo)"
-  },
-  {
-    "pregunta": "Maria Dolores casada en régimen de gananciales con Felipe, tiene un accidente de trafico. Cómo consecuencia del mismo recibe una indemnizacidén por las lesiones sufridas. El dinero percibido por Maria Dolores es de caracter:",
-    "opciones": [
-      "Privativo de ella.",
-      "Ganancial.",
-      "Es de caracter privativo, pero la sociedad de gananciales tendrá un crédito frente a ella."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 12 – p. 184 (art. 1346.6º CC, indemnizaciones por daños a la persona)"
-  },
-  {
-    "pregunta": "En caso de discrepancia entre los cónyuges sobre la fijación del domicilio conyugal:",
-    "opciones": [
-      "Se fijara por resolución judicial,   en función    de   las   necesidades laborales de los cónyuges.",
-      "Lo resolvera el juez, teniendo en cuenta el interés de la familia.",
-      "Se resolvera en sede judicial, sólo en caso de separación o divorcio."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 4 – p. 66 (art. 70 CC, en caso de discrepancia resuelve el juez)"
-  },
-  {
-    "pregunta": "¿Cual de las siguientes proposiciones es falsa?",
-    "opciones": [
-      "Los cónyuges están obligados a vivir juntos.",
-      "Se presume, salvo prueba en contrario, que los cónyuges viven juntos.",
-      "El deber de fidelidad conyugal ha sido derogado recientemente."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 4 – p. 62 (art. 68 CC, deber de fidelidad)"
-  },
-  {
-    "pregunta": "El matrimonio putativo:",
-    "opciones": [
-      "Es el que no produce efectos civiles por haber sido declarado nulo.",
-      "Es el matrimonio contraido de mala fe por al menos uno de los contrayentes.",
-      "Es el matrimonio que produce efectos civiles por haber sido contraido de buena fe por al menos uno de los contrayentes."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 5 – p. 77 (matrimonio putativo, buena fe)"
-  },
-  {
-    "pregunta": "La acción de separación",
-    "opciones": [
-      "se extingue por la muerte de cualquiera de los dos cónyuges.",
-      "tiene caracter de personalisima, pero los herederos del cónyuge que haya fallecido o haya sido declarado muerto durante el procedimiento pueden continuar   el   procedimiento     si   se   está   discutiendo   una _ pensión compensatoria que se incluya en la herencia.",
-      "no tiene caracter de personalisima."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 6 – p. 89 (la acción de separación se extingue por la muerte de cualquiera de los cónyuges)"
-  },
-  {
-    "pregunta": "Para que un cónyuge puede solicitar unilateralmente la separación judicial",
-    "opciones": [
-      "han de haber transcurrido al menos seis meses desde que se celebro el matrimonio, salvo que exista riesgo para la vida, la integridad física, la integridad moral o libertad e indemnidad sexual del cónyuge demandante. Oo de los hijos de ambos o de cualquiera de los miembros del matrimonio",
-      "ha de haber transcurrido al menos un afo desde que se celebro el matrimonio.",
-      "ninguna de las dos respuestas anteriores es correcta."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 6 – p. 88 (el plazo real es de tres meses, no seis ni un año (art. 81-82 CC))"
-  },
-  {
-    "pregunta": "Dos primos son, entre si...",
-    "opciones": [
-      "parientes por afinidad.",
-      "parientes colaterales en cuarto grado.",
-      "parientes colaterales en tercer grado."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 18 – p. 261 (art. 918 CC, primos hermanos = 4º grado colateral)"
-  },
-  {
-    "pregunta": "Una vez declarado fallecido un cónyuge...",
-    "opciones": [
-      "el otro podrá volver a contraer matrimonio.",
-      "el otro podrá volver a contraer matrimonio, pero tras los seis meses desde la declaraci6n de fallecimiento.",
-      "ninguna de las respuestas anteriores es correcta."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 7 – p. 97 (art. 85 CC, disolución del matrimonio por declaración de fallecimiento)"
-  },
-  {
-    "pregunta": "El matrimonio se disuelve por ...",
-    "opciones": [
-      "sólo por el divorcio.",
-      "por el divorcio, por la muerte y por la declaración de fallecimiento de un cónyuge.",
-      "por el divorcio, por la muerte, por la declaración de fallecimiento y por la declaración de ausencia legal de un cónyuge."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 7 – p. 97 (art. 85 CC (pregunta reconstruida por falta de una opción en el PDF original))"
-  },
-  {
-    "pregunta": "Cuándo se solicite la separación o el divorcio ante Notario o ante el Letrado de la Administración de Justicia, la formulaci6n del convenio regulador por parte de los cónyuges:",
-    "opciones": [
-      "Sera voluntaria.",
-      "Sera obligatoria.",
-      "Dependera de las partes, si así lo estiman conveniente."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 7/6 – p. 101/86 (el convenio regulador es obligatorio salvo mutuo acuerdo ante LAJ/notario)"
-  },
-  {
-    "pregunta": "Los acuerdos y el convenio regulador que le presenten al Juez los cónyuges, en los que regulan las consecuencias en caso de nulidad, separación o divorcio:",
-    "opciones": [
-      "Vinculan al Juez siempre y debera aprobarlos.",
-      "El Juez discrecionalmente puede aprobarlos 0 no según le parezca.",
-      "Seran aprobados por el Juez, salvo si son dafhosos para los hijos o gravemente perjudiciales para uno de los cónyuges."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 8 – p. 118 (art. 90.2 CC, convenio dañoso o gravemente perjudicial)"
-  },
-  {
-    "pregunta": "Con la Ley 8/2021, de 2 de junio, por la que se reforma la legislaci6n civil y procesal para el apoyo a las personas con discapacidad en el ejercicio de su capacidad jurídica,",
-    "opciones": [
-      "hay dos tipos de curatela:   la asistencial y la representativa.",
-      "hay tres tipos de curatela: la asistencial, la representativa y la tutela.",
-      "hay tres tipos de curatela: la asistencial, la representativa y la guarda de hecho."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 25 – p. 372 (Ley 8/2021, curatela asistencial y representativa)"
-  },
-  {
-    "pregunta": "En caso de que una persona reclame alimentos ;quién será el primer obligado según nuestro Código Civil?",
-    "opciones": [
-      "Su padre que carece de medios.",
-      "Su hermana",
-      "Su cónyuge del que está separado de hecho. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulaci6n de alguna de las 20 preguntas ordinarias que integran el examen."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 6 – p. 93 (la separación de hecho no extingue la obligación alimenticia entre cónyuges)"
-  },
-  {
-    "pregunta": "El interesado en cambiar el orden de sus apellidos podrá hacerlo...",
-    "opciones": [
-      "cuando cumpla 12 años.",
-      "siempre que quiera, pero con el consentimiento de sus padres.",
-      "ninguna de las respuestas anteriores es correcta."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 18 – p. 267 (art. 109 CC, cambio de orden de apellidos al alcanzar la mayoría de edad)"
-  },
-  {
-    "pregunta": "Diga cual es la afirmacion_correcta:",
-    "opciones": [
-      "Las Comunidades AutOnomas pueden establecer sus propias normas respecto de los requisitos del matrimonio.",
-      "Las Comunidades aut6nomas pueden establecer sus propias normas respecto a la forma del matrimonio.",
-      "Las Comunidades aut6nomas pueden establecer reglas propias por lo que se refiere al régimen económico matrimonial, siempre que tengan competencia para ello."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 2 – p. 30 (art. 149.1.8ª CE, las CCAA sí pueden legislar sobre el régimen económico)"
-  },
-  {
-    "pregunta": "Es necesaria la dispensa para contraer matrimonio entre:",
-    "opciones": [
-      "Tios y sobrinos.",
-      "Primos.",
-      "Padres e hijos adoptivos."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 3 – p. 41 (art. 47.2ª CC, colaterales hasta el 3er grado (tíos y sobrinos) necesitan dispensa)"
-  },
-  {
-    "pregunta": "Diga cual es la afirmación CORRECTA:",
-    "opciones": [
-      "La promesa de matrimonio debe ser cumplida siempre que no exista justa causa para su ruptura.",
-      "El incumplimiento de la promesa de matrimonio puede dar lugar al resarcimiento del daho moral producido.",
-      "El incumplimiento de la promesa de matrimonio únicamente puede dar lugar al resarcimiento de determinados gastos."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 2 – p. 32 (art. 43 CC, incumplimiento sin causa solo genera resarcimiento de gastos, nunca daño moral)"
-  },
-  {
-    "pregunta": "En uniones de hecho, la compensación económica entre convivientes que no ha sido pactada previamente por los convivientes:",
-    "opciones": [
-      "se concede de oficio por los tribunales si hay hiios comunes.",
-      "se ha concedido en ocasiones por los tribunales en aplicación de la doctrina del enriquecimiento injusto.",
-      "en ocasiones se ha concedido por los tribunales por haber habido hijos menores del otro conviviente que hayan convivido en la vivienda familiar, conforme al principio del interés superior del menor."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 1 – p. 22 (jurisprudencia sobre compensación económica no pactada en parejas de hecho)"
-  },
-  {
-    "pregunta": "El Alcalde o Concejal en quién delegue tiene competencia para instruir el expediente matrimonial:",
-    "opciones": [
-      "Si.",
-      "Si, pero sólo si el matrimonio se va a celebrar en su municipio.",
-      "No, nunca."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 3 – p. 46 (art. 51 CC, instrucción del expediente corresponde a LAJ, notario o Encargado del RC, no al alcalde)"
-  },
-  {
-    "pregunta": "El matrimonio por apoderado:",
-    "opciones": [
-      "No es posible, porque la celebración del matrimonio es un acto personal.",
-      "Es posible, otorgando un poder general.",
-      "Es posible, otorgando un poder especial."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 3 – p. 50 (art. 55 CC, matrimonio por poder especial)"
-  },
-  {
-    "pregunta": "Antonio, en estado de soltero, adquiere un coche a plazos. Posteriormente, contrae matrimonio con Luisa, en régimen de gananciales. La mayoria de las cuotas aplazadas del vehiculo se pagan estando casados. ; Qué naturaleza tiene el coche?",
-    "opciones": [
-      "Es un bien de naturaleza mixta, parte es privativo de Antonio y parte es ganancial.",
-      "Es ganancial, ya que la mayoria de las cuotas se satisfacen constante matrimonio.",
-      "Es privativo de Antonio. No obstante, la sociedad de gananciales tendrá un crédito frente a Antonio por las cuotas pagadas constante matrimonio."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 12 – p. 188 (art. 1357 CC, bienes comprados a plazos antes del matrimonio son siempre privativos)"
-  },
-  {
-    "pregunta": "En el ordenamiento jurídico espanol, si una persona mayor de 80 años quiere contraer matrimonio:",
-    "opciones": [
-      "el Código Civil dispone que debera aportar un informe médico en el expediente matrimonial si la diferencia de edad con el otro contrayente es de mas de 20 años o de nacionalidad extranjera, salvo que el notario considere que es innecesario.",
-      "el Código Civil dispone que debera aportar un informe médico en el expediente matrimonial en el que se haga constar que esa persona es consciente de que el matrimonio afectara al futuro reparto de su herencia, salvo que el notario considere que es innecesario.",
-      "ninguna de las dos respuestas anteriores es correcta."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 3 – p. 52-53 (no se ha localizado la regla de informe médico por edad/diferencia de edad; se aplica la regla general condicionada a la salud (art. 56.2 CC))"
-  },
-  {
-    "pregunta": "El matrimonio fn artículo mortis:",
-    "opciones": [
-      "lo puede celebrar el notario.",
-      "exige        previo   expediente   matrimonial   judicial   urgente   en   el   que intervengan dos testigos.",
-      "exige en la celebración del matrimonio la presencia de dos testigos, uno de los cuales, cómo mínimo, debe ser de nacionalidad espafola o de un pais de la Unión Europea."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 3 – p. 52-53 (art. 52 CC, matrimonio en peligro de muerte)"
-  },
-  {
-    "pregunta": "En        Espana se reconoce legalmente el derecho a celebrar matrimonio religioso con efectos civiles, además de a la Iglesia Catolica:",
-    "opciones": [
-      "a cualquier religidn que figure inscrita en el Registro de Entidades Religiosas del Ministerio de Justicia.",
-      "a cualquier confesión religiosa reconocida con la declaración de notorio arraigo.",
-      "ninguna de las dos respuestas anteriores es correcta."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 3 – p. 55 (art. 60 CC y 58 bis LRC, notorio arraigo)"
-  },
-  {
-    "pregunta": "En caso de discrepancia entre los cónyuges sobre la fijación del domicilio conyugal:",
-    "opciones": [
-      "ello constituye causa legal de divorcio.",
-      "ello constituye causa legal de divorcio si hay hijos comunes.",
-      "ninguna de las dos respuestas anteriores es correcta."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 4 – p. 66 (art. 70 CC, resuelve el juez, no es causa de divorcio)"
-  },
-  {
-    "pregunta": "gQué parentesco me une a mi con el hijo de mi primo hermano?:",
-    "opciones": [
-      "Sexto grado en la linea colateral por consanguinidad.",
-      "Cuarto grado en la linea recta por consanguinidad.",
-      "Quinto grado en la linea colateral por consanguinidad."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 18 – p. 261 (art. 918 CC, hijo del primo hermano = 5º grado colateral)"
-  },
-  {
-    "pregunta": "El juez puede denegar la separaciéon judicial de mutuo acuerdo:",
-    "opciones": [
-      "si así lo exige el interés superior del menor de los hijos comunes menores de edad, por el tiempo máximo de tres meses.",
-      "si así lo exige el interés superior de los hijos comunes menores de edad y de cualquier hijo mayor de edad con discapacidad sometido a curatela que conviva en el domicilio familiar, por el tiempo máximo de seis meses.",
-      "ninguna de las dos respuestas anteriores es correcta."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 8 – p. 113 (la presentación de la demanda no disuelve el régimen de gananciales; no cabe generalizar el plazo)"
-  },
-  {
-    "pregunta": "La reconciliación de los divorciados posterior al divorcio:",
-    "opciones": [
-      "surte los mismos efectos jurídicos que la reconciliación de los separados judicialmente, excepto los patrimoniales.",
-      "surte los mismos efectos jurídicos que la reconciliación de los separados judicialmente, si hay hijos menores.",
-      "no surte los mismos efectos jurídicos que la reconciliación de los separados judicialmente."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 7 – p. 106 (art. 88.2 CC, la reconciliación tras el divorcio no produce efectos legales)"
-  },
-  {
-    "pregunta": "En las sentencias de nulidad, separación o divorcio el Juez adoptara diversas medidas. En relaci6n con las medidas relativas al uso de la vivienda familiar:",
-    "opciones": [
-      "Si no hay hijos, será el cónyuge no titular el que decida si quiere continuar 0 no usando y disfrutando la vivienda familiar.",
-      "Sino hay hijos, nunca podrá acordarse el uso de la vivienda familiar al cónyuge no titular.",
-      "Si no hay hijos,      podrá acordarse que el uso durante un tiempo prudencial corresponda al cónyuge no titular, si su interés fuera el mas necesitado de protección."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 8 – p. 125 (art. 96 CC, uso de la vivienda sin hijos si el interés es el más necesitado de protección)"
-  },
-  {
-    "pregunta": "La compensación o pensi6n compensatoria en los casos de separación o divorcio:",
-    "opciones": [
-      "Sera siempre obligatoria con independencia de si la solicitan o no las partes.",
-      "Podra pedirla el cónyuge al que la separación o el divorcio le produzca un desequilibrio económico en relación con la posicidén del otro, que implique un empeoramiento en su situacidén anterior en el matrimonio.",
-      "Podra pedirla el cónyuge al que la separación o el divorcio le produzca un desequilibrio económico en relación con la posicidén del otro, que implique un empeoramiento en su situacidén anterior en el matrimonio, siempre y cuando lleven por lo menos dos años casados."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 8 – p. 127 (art. 97 CC, pensión compensatoria por desequilibrio económico)"
-  },
-  {
-    "pregunta": "Puede un menor ser adoptado por mas de una persona.",
-    "opciones": [
-      "No, en ningún caso.",
-      "Si.",
-      "No, salvo que se haga conjunta o sucesivamente por los cónyuges 0 por personas unidas por una relación analoga de afectividad a la conyugal."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 22 – p. 317 (art. 175.4 CC, adopción conjunta o sucesiva por cónyuges o pareja de hecho)"
-  },
-  {
-    "pregunta": "Los cónyuges deben contribuir a las cargas del matrimonio:",
-    "opciones": [
-      "Solo en el régimen de gananciales.",
-      "Solo en los regímenes de gananciales y participaci6n, pero no en el de separación de bienes.",
-      "Con independencia de cual sea el régimen económico que rija el matrimonio."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 9 – p. 148 (art. 1318 CC, cargas del matrimonio con independencia del régimen)"
-  },
-  {
-    "pregunta": "Los actos de disposición a titulo oneroso que requieran el consentimiento de ambos cónyuges, si han sido realizados por un cónyuge sin el consentimiento del otro:",
-    "opciones": [
-      "Son nulos de pleno derecho.",
-      "Son anulables.",
-      "Son susceptibles de rescisión por lesión del interés familiar."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 9 – p. 151 (art. 1322 CC, anulabilidad de actos onerosos sin consentimiento)"
-  },
-  {
-    "pregunta": "Rodrigo e Irene otorgan capitulaciones matrimoniales pero no las han inscrito en el Registro Civil, por lo que las mismas:",
-    "opciones": [
-      "No serán validas.",
-      "No serán oponibles frente a los terceros de buena fe interesados.",
-      "Tendran plena eficacia frente a todos, tanto los cónyuges cómo los terceros de buena fe."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 10 – p. 162 (art. 1333 CC, no oponibilidad frente a terceros de las capitulaciones no inscritas)"
-  },
-  {
-    "pregunta": "La Ley 8/2021, de 2 de junio, por la que se reforma la legislación civil y procesal para el apoyo a las personas con discapacidad en el ejercicio de su capacidad jurídica:",
-    "opciones": [
-      "fomenta la guarda de hecho de la persona con discapacidad.",
-      "prohibe la guarda de hecho de la persona con discapacidad.",
-      "considera la guarda de hecho de persona con discapacidad cómo equivalente a la patria potestad."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 25 – p. 382 (Ley 8/2021 fomenta la figura del guardador de hecho)"
-  },
-  {
-    "pregunta": "Las donaciones por razón de matrimonio:",
-    "opciones": [
-      "Son aquellas que cualquier persona hace antes de celebrarse el matrimonio, en consideración al mismo, en favor de uno o de los dos esposos.",
-      "Son aquellas que efectuan los parientes a cualquier esposo antes o después de celebrado el matrimonio.",
-      "Son aquellas que efectua el esposo a la esposa después de celebrado el matrimonio. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulaci6n de alguna de las 20 preguntas ordinarias que integran el examen."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 11 – p. 169 (art. 1336 CC, concepto de donación por razón de matrimonio)"
-  },
-  {
-    "pregunta": "La donación de inmuebles entre los cónyuges:",
-    "opciones": [
-      "es fraudulenta si hay hijos menores.",
-      "es admisible si no hay hijos menores.",
-      "es admisible."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 11 – p. 174 (art. 1323 CC, donaciones entre cónyuges plenamente lícitas)"
-  },
-  {
-    "pregunta": "Roberto y Adriana, ambos de vecindad civil comun, contraen matrimonio sin celebrar      capitulaciones   matrimoniales.   ~Qué   régimen   económico   rige   su matrimonio?:",
-    "opciones": [
-      "Gananciales.",
-      "Separación de bienes.",
-      "No tiene régimen económico, hasta que no celebren capitulaciones."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 9 – p. 178 (art. 1316 CC, régimen legal supletorio de primer grado: gananciales)"
-  },
-  {
-    "pregunta": "La presunción de ganancialidad de un bien significa:",
-    "opciones": [
-      "Que en caso de duda de la naturaleza de un bien, se presumen privativos.",
-      "Que se presumen gananciales, mientras no se pruebe que pertenecen privativamente a uno de los cónyuges.",
-      "Las respuestas a y b son incorrectas."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 12 – p. 181 (art. 1361 CC, presunción de ganancialidad)"
-  },
-  {
-    "pregunta": "Se podrá contraer matrimonio:",
-    "opciones": [
-      "Desde los 14 años.",
-      "Desde los 16 años.",
-      "Desde la mayoria de edad, o la emancipación."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 3 – p. 38 (edad núbil: mayoría de edad o emancipación)"
-  },
-  {
-    "pregunta": "La promesa del matrimonio:",
-    "opciones": [
-      "Produce obligaci6n de contraerlo.",
-      "No produce obligación de contraerlo, pero el incumplimiento sin causa, sólo produciria la obligación de resarcir a la otra parte de los gastos hechos por razón de la promesa.",
-      "Yano se encuentra regulada en el Código Civil, tras la promulgación de la Ley de Jurisdicci6n Voluntaria."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 2 – p. 32 (art. 43 CC, solo resarcimiento de gastos)"
-  },
-  {
-    "pregunta": "Es valido el matrimonio celebrado por el capitan de un barco:",
-    "opciones": [
-      "Si, en todo caso.",
-      "No, nunca.",
-      "Solo en los matrimonios en peligro de muerte."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 3 – p. 52 (art. 52 CC, matrimonio en peligro de muerte a bordo de nave o aeronave)"
-  },
-  {
-    "pregunta": "El domicilio conyugal es",
-    "opciones": [
-      "El que determinen los cónyuges y en caso de desavenencia, resolvera el Juez, teniendo en cuenta el interés de la familia.",
-      "El que determinen los cónyuges y en caso de desavenencia, resolvera el arbitro teniendo en cuenta el interés de la familia.",
-      "Es el que determine la autoridad marital ya que la mujer debe seguir al marido donde quiere que fije su residencia."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 4 – p. 66 (art. 70 CC, resuelve el juez en caso de discrepancia)"
-  },
-  {
-    "pregunta": "Juan y Maria están casados y preguntan a su abogado si pueden celebrar contratos entre si. Señale la respuesta correcta:",
-    "opciones": [
-      "El Código Civil prohibe las donaciones entre conyugesy la realización de algunos contratos onerosos entre ellos.",
-      "Los   cónyuges    pueden      transmitirse    por cualquier titulo       bienes   y derechos, y pueden celebrar entre si toda clase de contratos.",
-      "Existen prohibiciones de contratación sólo en los contratos onerosos entre los cónyuges. Por lo tanto, los cónyuges sólo realizar donaciones entre si."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 11 – p. 174 (art. 1323 CC, los cónyuges pueden celebrar entre sí toda clase de contratos)"
-  },
-  {
-    "pregunta": "En el caso de un matrimonio celebrado con coacción o miedo grave en uno de los cónyuges, si cesa la fuerza 0 miedo grave:",
-    "opciones": [
-      "caduca la acción de nulidad y se convalida el matrimonio si los cónyuges hubieran vivido juntos durante dos años después de haber cesado la fuerza o causa del miedo.",
-      "el matrimonio es nulo y no se convalidara nunca en ningún caso.",
-      "caduca la acción de nulidad y se convalida el matrimonio si los cónyuges hubieran vivido juntos durante un año después de haber cesado la fuerza o causa del miedo."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 5 – p. 75 (art. 76.1 CC, caducidad de un año tras cesar el vicio del consentimiento)"
-  },
-  {
-    "pregunta": "Tios y sobrinos podran contraer matrimonio entre si:",
-    "opciones": [
-      "Libremente.",
-      "Con dispensa judicial.",
-      "En ningún caso."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 3 – p. 41 (art. 47.2ª CC, colaterales hasta el 3er grado (tíos-sobrinos) requieren dispensa)"
-  },
-  {
-    "pregunta": "En     el    régimen    de   gananciales,     en   cuanto    a     las   propias   actividades econdomicas cada cónyuge debera respecto del otro:",
-    "opciones": [
-      "Informarle de ellas.",
-      "Requerir su consentimiento.",
-      "Ambas respuestas anteriores son incorrectas, porque en la gestidn de las       propias    actividades      econdémicas   cada       cónyuge    goza    de    plena independencia."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 13 – p. 194 (art. 1383 CC, deber de información recíproca, no de consentimiento)"
-  },
-  {
-    "pregunta": "Para        realizar   un   acto   de   disposición   a   titulo    oneroso    sobre     bienes gananciales, el cónyuge:",
-    "opciones": [
-      "Necesitara en todo caso el consentimiento del otro cónyuge.",
-      "Necesitara el consentimiento del otro cónyuge, o si éste no puede o se niega, autorización judicial.",
-      "Podra realizarlo sólo con su propio consentimiento."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 13 – p. 195 (art. 1377 CC, consentimiento de ambos o autorización judicial supletoria)"
-  },
-  {
-    "pregunta": "Si una persona es declarada fallecida y luego reaparece:",
-    "opciones": [
-      "Se considera que sigue casado si el cónyuge del reaparecido habia manifestado con anterioridad su voluntad de seguir casado a pesar de la declaración de fallecimiento.",
-      "Se considera que sigue casado si el cónyuge del reaparecido no ha contraido nuevo matrimonio.",
-      "La reaparición no cambia nada: el matrimonio del declarado fallecido debe considerarse disuelto conforme al artículo 85 del Código civil."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 7 – p. 98 (el matrimonio del reaparecido quedó disuelto por la declaración de fallecimiento)"
-  },
-  {
-    "pregunta": "No pueden divorciar en ningún caso:",
-    "opciones": [
-      "Los alcaldes.",
-      "Los notarios.",
-      "Los Letrados de la Administración de Justicia (secretarios judiciales)."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 6 – p. 89 (la acción de separación se extingue por la muerte de cualquiera de los cónyuges)"
-  },
-  {
-    "pregunta": "Señale la respuesta FALSA. Admitida la demanda de nulidad, separación o divorcio:",
-    "opciones": [
-      "Debera determinarse la contribución de cada cónyuge a las cargas del matrimonio.",
-      "Debera procederse a la liquidación de los bienes gananciales.",
-      "Debera fijarse el régimen de administración de los bienes privativos especialmente afectados a las cargas del matrimonio por escritura pública 0 capitulaciones matrimoniales."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 8 – p. 113 (art. 103.4ª CC, la demanda no determina la disolución de gananciales, no liquidación inmediata)"
-  },
-  {
-    "pregunta": "Marque la respuesta correcta. El Código Civil dispone que, en caso de muerte de un cónyuge, el ajuar doméstico,",
-    "opciones": [
-      "sea entregado al cónyuge viudo sin computarselo en su haber, sin estar comprendidos dentro de ese ajuar los objetos de extraordinario valor",
-      "se reparta entre los herederos, salvo los bienes comprados con dinero privativo del cónyuge viudo, que serán entregados al cónyuge viudo.",
-      "se   reparta   entre   los   herederos,   salvo   en   el   régimen   económico matrimonial de gananciales."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 9 – p. 150 (art. 1321 CC, ajuar conyugal entregado al viudo sin cómputo en su haber)"
-  },
-  {
-    "pregunta": "En la separaci6n matrimonial:",
-    "opciones": [
-      "Desaparece el vínculo matrimonial.",
-      "No desaparece el vínculo matrimonial.",
-      "Solo desaparece el vínculo matrimonial en el supuesto de una separación legal."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 6 – p. 92 (la separación no disuelve el vínculo matrimonial)"
-  },
-  {
-    "pregunta": "Las capitulaciones matrimoniales:",
-    "opciones": [
-      "sólo podran otorgarse antes de celebrar el matrimonio.",
-      "podran otorgarse antes o después de celebrar el matrimonio.",
-      "podran otorgarse antes o después de la celebración del matrimonio pero sólo durante el primer año."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 10 – p. 157 (art. 1326 CC, capitulaciones antes o después del matrimonio)"
-  },
-  {
-    "pregunta": "Las donaciones por raz6n de matrimonio se realizan...",
-    "opciones": [
-      "Antes y en consideración del matrimonio futuro.",
-      "Antes, durante o después del matrimonio, siempre que se realicen antes del divorcio.",
-      "Solo las realizan los parientes colaterales en linea recta."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 11 – p. 169 (art. 1336 CC, donaciones antes de celebrarse el matrimonio)"
-  },
-  {
-    "pregunta": "Constante la sociedad de gananciales, de las deudas comunes contraidas por uno sólo de los cónyuges responden:",
-    "opciones": [
-      "El cónyuge deudor y subsidiariamente la sociedad de gananciales.",
-      "Solidariamente los bienes de la sociedad de gananciales.",
-      "Nunca hay deudas comunes contraidas por un sólo cónyuge de las que respondan los bienes de la sociedad de gananciales."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 14 – p. 212 (art. 1369 CC, responsabilidad solidaria de los bienes gananciales)"
-  },
-  {
-    "pregunta": "Marque la respuesta correcta. Si A y B imponen a su primer hijo comun, cuando nace, un orden de apellidos",
-    "opciones": [
-      "tendrán que imponer a los demás hijos comunes ese mismo orden de apellidos cuando nazcan",
-      "podran imponer el orden inverso de apellidos a los demás hijos comunes cuando nazcan, siempre que así lo decidan ambos de comun acuerdo",
-      "podran imponer el orden que deseen a cada uno de los sucesivos hijos comunes cuando nazcan, siempre que así lo decidan ambos de comun acuerdo para cada uno de los hijos."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 18 – p. 268 (art. 49 LRC-2011, mismo orden de apellidos para todos los hijos comunes)"
-  },
-  {
-    "pregunta": "En la legislación vigente, la tutela se contempla:",
-    "opciones": [
-      "Tanto para los menores cómo para las personas con discapacidad.",
-      "Solo para los menores.",
-      "Solo para las personas con discapacidad."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 25 – p. 375 (art. 199 CC, tutela restringida a los menores tras la Ley 8/2021)"
-  },
-  {
-    "pregunta": "¿Existe la obligación legal de alimentos entre hermanos?",
-    "opciones": [
-      "Si, en todo caso, por ser colaterales en segundo grado.",
-      "Solo se deben los gastos necesarios para la educación.",
-      "Solo se deben los auxilios necesarios para la vida cuando los necesiten por cualquier causa que no sea imputable al alimentista. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulaci6n de alguna de las 20 preguntas ordinarias que integran el examen."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 24 – p. 355 (art. 143 CC, alimentos entre hermanos: solo auxilios necesarios para la vida)"
-  },
-  {
-    "pregunta": "La guarda de hecho de las personas con discapacidad es:",
-    "opciones": [
-      "Una medida formal, constituida por decisión judicial.",
-      "Una medida informal.",
-      "Una figura inexistente actualmente, puesto que la Ley 8/2021 la ha suprimido."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 25 – p. 382 (la guarda de hecho es una medida informal de apoyo)"
-  },
-  {
-    "pregunta": "La situación de separación:",
-    "opciones": [
-      "No extingue la obligaci6n alimenticia.",
-      "Si extingue la obligación alimenticia.",
-      "Solo se extingue, si es una separación de hecho."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 6 – p. 93 (la separación de hecho no extingue la obligación alimenticia entre cónyuges)"
-  },
-  {
-    "pregunta": "Antonio, casado en régimen de gananciales con Juana, tiene un piso privativo. Cómo consecuencia de una avería en la instalación eléctrica de dicho piso, Antonio decide efectuar la correspondiente reparación. Del coste de la avería responde:",
-    "opciones": [
-      "Directamente la sociedad de gananciales frente al acreedor.",
-      "Solamente Antonio, al ser un bien privativo.",
-      "La   sociedad   de   gananciales    no   puede   responder   de   deudas devengadas por la administración de los bienes propios de un cónyuge."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 14 – p. 215 (art. 1373 CC, cada cónyuge responde con su patrimonio de sus deudas propias)"
-  },
-  {
-    "pregunta": "Las personas con discapacidad psiquica podran contraer matrimonio:",
-    "opciones": [
-      "Previo dictamen médico, en todo caso.",
-      "Previo   dictamen     médico    excepcionalmente,      sólo       cuando   la discapacidad psiquica pueda impedir la prestación del consentimiento matrimonial pese a las medias de apoyo.",
-      "En ningún caso, por falta de capacidad matrimonial."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 3 – p. 52-53 (art. 56.2 CC, dictamen médico excepcional si impide prestar el consentimiento)"
-  },
-  {
-    "pregunta": "Pedro, de veinte años, se casa con Paula, de dieciséis.           A los cuatro años Paula quiere solicitar la nulidad de su matrimonio. ¿ Sera posible?",
-    "opciones": [
-      "No, ya que se caso con dieciséis años, y podia contraer matrimonio desde los quince.",
-      "No, ya que después de alcanzar la mayoria de edad ha vivido un año con Pedro, por lo que se ha convalidado su matrimonio.",
-      "Si, ese matrimonio es nulo y Paula podrá solicitar la nulidad en cualquier momento."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 5 – p. 75 (art. 75.2 CC, convalidación tras un año de convivencia alcanzada la mayoría de edad)"
-  },
-  {
-    "pregunta": "Pedro y Juana son amantes, y conciertan llevar a cabo el asesinato de Lucas, esposo de Juana. Finalmente, así lo realizan,       y son condenados por asesinato. Con posterioridad, deciden contraer matrimonio entre ellos. ¿Podran hacerlo?",
-    "opciones": [
-      "Si, libremente.",
-      "Si, si obtuvieran dispensa.",
-      "No, nunca."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 3 – p. 41 (art. 47.3ª y 48 CC, muerte dolosa del cónyuge, impedimento dispensable)"
-  },
-  {
-    "pregunta": "El deber conyugal que se refiere a la atención a las necesidades del otro cónyuge, comprendiendo de forma particular la obligación alimenticia entre los cónyuges, es conocido cómo:",
-    "opciones": [
-      "El deber de respeto debido al otro cónyuge.",
-      "El deber de convivencia.",
-      "El deber de ayuda y socorro mutuos."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 4 – p. 62 (art. 68 CC, deber de ayuda y socorro mutuos)"
-  },
-  {
-    "pregunta": "La declaraci6én de nulidad del matrimonio no invalidará los efectos ya producidos:",
-    "opciones": [
-      "respecto de los hijos y de ambos contrayentes.",
-      "sólo respecto de los hijos; respecto de los contrayentes nunca se mantienen los efectos ya producidos.",
-      "respecto de los hijos y del contrayente o contrayentes de buena fe, lo que se conoce cómo matrimonio putativo."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 5 – p. 77 (matrimonio putativo: efectos a favor del contrayente de buena fe)"
-  },
-  {
-    "pregunta": "Las resoluciones dictadas por los Tribunales eclesiásticos sobre nulidad de matrimonio candnico:",
-    "opciones": [
-      "sólo tendrán eficacia en el Ambito candnico, pero no en el ámbito civil.",
-      "tendrán eficacia en el ámbito civil automaticamente.",
-      "tendrán eficacia en el ámbito civil si se declaran ajustadas a Derecho del Estado en resolución dictada por el juez civil."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 5 – p. 80-81 (las resoluciones eclesiásticas requieren homologación civil ajustada a Derecho estatal)"
-  },
-  {
-    "pregunta": ". La acción de divorcio.",
-    "opciones": [
-      "Es personalisima, pues se extingue por la muerte de cualquiera de los cónyuges.",
-      "No es personalisima y puede ser ejercitada por los herederos de ambos cónyuges si alguno de ellos muere.",
-      "Es personalisima y nunca puede ser ejercitada por el representante legal del cónyuge a cuyo favor estuvieran establecidas medidas de apoyo en caso de discapacidad."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 6 – p. 89 (la acción de divorcio es personalísima, se extingue por la muerte de un cónyuge)"
-  },
-  {
-    "pregunta": "El divorcio requiere sentencia judicial:",
-    "opciones": [
-      "Siempre.",
-      "Solo si hay hijos menores de edad o hijos mayores de edad con la capacidad jurídica modificada y respecto de los que se hayan establecido judicialmente medidas de apoyo correspondientes a sus progenitores.",
-      "Nunca."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 6 – p. 87 (art. 82 CC, divorcio/separación con hijos menores requiere competencia judicial)"
-  },
-  {
-    "pregunta": "Sefnale la respuesta FALSA:",
-    "opciones": [
-      "Las medias provisionales se convierten en definitivas si son mantenidas por la sentencia firme de nulidad, separación o divorcio.",
-      "Las medias definitivas sustituyen a las medidas provisionales una vez que haya sentencia firme de nulidad, separación o divorcio.",
-      "El plazo de duración de las medidas provisionalisimas no podrá exceder de sesenta días,        a tenor de las   reglas establecidas en   la   Ley de Enjuiciamiento Civil para el computo de los plazos procesales."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 8 – p. 115 (art. 771 LEC, las medidas provisionalísimas no exceden de treinta días, no sesenta)"
-  },
-  {
-    "pregunta": "El contenido mínimo del convenio regulador:",
-    "opciones": [
-      "Sera el que libremente determinen los cónyuges de mutuo acuerdo.",
-      "Vendra fijado por el juez competente para conocer del procedimiento de nulidad, separación o divorcio.",
-      "Esta recogido en el Código civil."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 8 – p. 117 (el contenido mínimo del convenio regulador está recogido en el art. 90 CC)"
-  },
-  {
-    "pregunta": "Marque la respuesta correcta.   La libertad de configuraci6n del régimen económico matrimonial:",
-    "opciones": [
-      "es plena sin otras limitaciones que las establecidas en el Código Civil.",
-      "depende de la existencia 0 no de bienes privativos previos al matrimonio.",
-      "es inexistente en caso de hijos menores comunes o de hijos de uno cualquiera de cónyuges que convivan en el domicilio familiar."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 9 – p. 147 (art. 1315 CC, libertad de configuración plena sin más límites que el propio Código)"
-  },
-  {
-    "pregunta": "Marque la respuesta correcta. El cónyuge que sea propietario exclusivo del piso que constituya la vivienda familiar: puede donar el piso a quién considere oportuno sin consentimiento del otro cónyuge puede donar el piso a un hijo comun mayor de edad que conviva en la vivienda, sin consentimiento del otro cónyuge ninguna de las dos respuestas anteriores es correcta.",
-    "opciones": [
-      "puede donar el piso a quién considere oportuno sin consentimiento del otro cónyuge",
-      "puede donar el piso a un hijo común mayor de edad que conviva en la vivienda, sin consentimiento del otro cónyuge",
-      "ninguna de las dos respuestas anteriores es correcta."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 9 – p. 149 (art. 1320.1 CC, se requiere siempre el consentimiento de ambos para disponer de la vivienda habitual)"
-  },
-  {
-    "pregunta": "¿Pueden otorgarse capitulaciones matrimoniales antes de la celebración del matrimonio?:",
-    "opciones": [
-      "no, no será posible otorgarlas antes de la celebración del matrimonio.",
-      "si, pero lo que se estipule quedara sin efecto en el caso de no contraerse el matrimonio en el plazo de seis meses.",
-      "si, pero lo que se estipule quedara sin efecto en el caso de no contraerse el matrimonio en el plazo de un año."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 10 – p. 163 (art. 1334 CC, ineficacia si no se contrae matrimonio en el plazo de un año)"
-  },
-  {
-    "pregunta": "Diga qué bienes de los siguientes son gananciales:",
-    "opciones": [
-      "la vivienda familiar, aunque se haya pagado integramente por un sólo cónyuge antes de contraer matrimonio.",
-      "los frutos, rentas e intereses de los bienes privativos y de los bienes gananciales.",
-      "los bienes adquiridos a titulo gratuito   u oneroso durante la vida del régimen de gananciales."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 12 – p. 186 (art. 1347.2º CC, frutos, rentas e intereses son gananciales)"
-  },
-  {
-    "pregunta": "La gesti6n de los bienes gananciales, cómo regla general:",
-    "opciones": [
-      "Corresponde siempre a ambos cónyuges.",
-      "Corresponde cómo regla general a ambos cónyuges, pero puede pactarse su gestion individual.",
-      "Corresponde a cada cónyuge individualmente."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 13 – p. 190 (gestión individual pactada convencionalmente, art. 1439 CC)"
-  },
-  {
-    "pregunta": "No serán de cargo de la sociedad de gananciales, los gastos que se originen:",
-    "opciones": [
-      "Por adquisici6n, tenencia y disfrute de los bienes comunes.",
-      "Por la administración ordinaria de los bienes privativos de cualquiera de los cónyuges.",
-      "Por la educaci6n de los hijos de cualquiera de los cOényuges que no convivan en el hogar familiar."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 14 – p. 215 (art. 1362.1º in fine CC, gastos de hijos no comunes que no residan en el hogar familiar excluidos)"
-  },
-  {
-    "pregunta": "Pueden adoptar:",
-    "opciones": [
-      "sólo los cónyuges -adopcidén conjunta-.",
-      "sólo es posible la adopción individual, pero no la conjunta: ni parejas casadas ni parejas de hecho.",
-      "tanto   las   personas   individuales   -adopción   individual-   cuanto   los cónyuges y las parejas de hecho -adopción conjunta-."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 22 – p. 317 (art. 175.4 CC, adopción individual y conjunta (matrimonio o pareja de hecho))"
-  },
-  {
-    "pregunta": "Forman parte del activo de la sociedad de gananciales:",
-    "opciones": [
-      "Los bienes gananciales existentes en el momento de la disolución y las deudas pendientes a cargo de la sociedad.",
-      "Única y exclusivamente las deudas pendientes.",
-      "Los bienes gananciales existentes en el momento de la disolución."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 15 – p. 225 (art. 1397.1º CC, activo: bienes gananciales existentes al disolverse)"
-  },
-  {
-    "pregunta": "Marque la respuesta correcta. En el computo del parentesco:",
-    "opciones": [
-      "un tio dista de su sobrino dos grados en linea recta descendente.",
-      "un tio dista de su sobrino en dos grados en linea recta.",
-      "un tio dista de su sobrino tres grados en linea colateral."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 18 – p. 261 (art. 918 CC, tío y sobrino distan 3 grados en línea colateral)"
-  },
-  {
-    "pregunta": "Marque la respuesta correcta. La filiación:",
-    "opciones": [
-      "puede tener lugar por naturaleza y por adopción.",
-      "puede tener lugar por naturaleza, por adopción y por consanguinidad.",
-      "ninguna de las dos respuestas anteriores es correcta. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulaci6n de alguna de las 20 preguntas ordinarias que integran el examen."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 19 – p. 316 (art. 108 CC, la filiación puede tener lugar por naturaleza y por adopción)"
-  },
-  {
-    "pregunta": "Maria y Juan están casados y han tenido un hijo. No saben cómo se determina la filiaci6n matrimonial materna y paterna. Señale la respuesta correcta:",
-    "opciones": [
-      "Únicamente por la inscripci6n del nacimiento junto con la del matrimonio de los padres.",
-      "Por la inscripci6n del nacimiento junto con la del matrimonio de los padres o por sentencia firme.",
-      "Por la inscripción del nacimiento o por la sentencia firme."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 19 – p. 273 (art. 115 CC, inscripción del nacimiento junto con la del matrimonio, o sentencia firme)"
-  },
-  {
-    "pregunta": "En la liquidación de la sociedad de gananciales, se considera parte del activo:",
-    "opciones": [
-      "El importe actualizado de las cantidades pagadas por la sociedad que fueran de cargo de un sólo cónyuge.",
-      "Las deudas pendientes a cargo de la sociedad.",
-      "El importe actualizado de las cantidades que, habiendo sido pagadas por un sólo cónyuge, fueran de cargo de la sociedad."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 15 – p. 225 (art. 1397.3º CC, cantidades pagadas por la sociedad de cargo de un solo cónyuge, parte del activo)"
-  },
-  {
-    "pregunta": "Quedan sometidos a patria potestad:",
-    "opciones": [
-      "Todos los hijos o hijas, nacidos durante el matrimonio",
-      "Todos los hijos o hijas menores de edad.",
-      "Todos los hijos e hijas menores de edad, no emancipados"
-    ],
-    "correcta": 2,
-    "cita": "Cap. 12 – p. — (art. 199 CC, tutela restringida a menores no emancipados)"
-  },
-  {
-    "pregunta": "La promesa de matrimonio",
-    "opciones": [
-      "vincula a las dos partes y ninguna de las dos partes puede contraer matrimonio con otra persona hasta que de comun acuerdo decidan dar por finalizados los efectos de la promesa o uno de ellos notifique por via notarial al otro su decisión unilateral de dar por finalizados los efectos.",
-      "puede ser incumplida por cualquiera de las partes y en ese caso se aplica la clausula penal que se haya previsto contractualmente.",
-      "ninguna de las dos respuestas anteriores es correcta."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 2 – p. 32 (art. 43 CC, incumplimiento sin causa solo genera resarcimiento de gastos)"
-  },
-  {
-    "pregunta": "El matrimonio en peligro de muerte queda eximido en todo caso del requisito de:",
-    "opciones": [
-      "La previa tramitación del acta o expediente matrimonial.",
-      "La presencia de dos testigos mayores de edad.",
-      "El dictamen médico de la capacidad para prestar el consentimiento."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 3 – p. 52-53 (art. 52 CC, exención absoluta solo del expediente matrimonial previo)"
-  },
-  {
-    "pregunta": ". La acci6n de divorcio.",
-    "opciones": [
-      "Corresponde a ambos cónyuges siempre que actuen conjuntamente.",
-      "Corresponde a ambos cónyuges sólo cuando actuen por separado.",
-      "Corresponde a ambos cónyuges, ya actuen conjuntamente o por separado."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 7 – p. 102 (art. 86 CC, la acción de divorcio corresponde a ambos cónyuges, juntos o por separado)"
-  },
-  {
-    "pregunta": "La separación de hecho:",
-    "opciones": [
-      "Priva al cónyuge separado de la cuota de legítima correspondiente al cónyuge viudo.",
-      "No tiene ninguna incidencia en la herencia de los cónyuges.",
-      "Únicamente tiene incidencia en la herencia en el supuesto de una separación legal."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 6 – p. 93 (la separación de hecho priva de la cuota legitimaria del viudo)"
-  },
-  {
-    "pregunta": "La sentencia de divorcio produce efectos:",
-    "opciones": [
-      "Ex tunc que se retrotraen al momento de celebración del matrimonio.",
-      "Ex nunc, careciendo de eficacia retroactiva alguna.",
-      "Solo tiene efectos retroactivos ex func respecto de los hijos y el cónyuge de buena fe."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 7 – p. 104 (art. 89 CC, la sentencia de divorcio produce efectos ex nunc)"
-  },
-  {
-    "pregunta": "Admitida la demanda de nulidad, separación o divorcio:",
-    "opciones": [
-      "El uso de la vivienda familiar correspondera al cónyuge titular de los derechos sobre la misma.",
-      "El uso de la vivienda familiar correspondera al coOnyuge no titular si es vulnerable econémicamente pero no tiene derecho a           la justicia gratuita.",
-      "El uso de la vivienda familiar correspondera al cónyuge no titular si así lo exige el interés familiar mas necesitado de protección."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 8 – p. 125 (art. 96 CC, uso de la vivienda familiar según el interés más necesitado de protección)"
-  },
-  {
-    "pregunta": "Marque la respuesta correcta. En el régimen económico matrimonial de separación de bienes:",
-    "opciones": [
-      "el Código Civil impone que la contribuci6n a las cargas del matrimonio sea proporcional a los respectivos recursos economicos de los cónyuges.",
-      "el Cdédigo Civil establece que, a falta de convenio, la contribuci6n a las cargas   del   matrimonio   sea   proporcional   a   los   respectivos   recursos economicos de los cónyuges.",
-      "el Código Civil exige que la contribución a las cargas del matrimonio sea igual para ambos cónyuges, por aplicación del principio de igualdad."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 14 – p. 240 (art. 1438 CC, a falta de convenio, contribución proporcional a los recursos económicos)"
-  },
-  {
-    "pregunta": "Las donaciones por razón de matrimonio...",
-    "opciones": [
-      "Son irrevocables.",
-      "Son revocables por supervivencia de hijos.",
-      "Ambas respuestas son incorrectas."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 11 – p. 172 (art. 1343 CC, revocables por causas comunes salvo supervivencia de hijos)"
-  },
-  {
-    "pregunta": "Los bienes adquiridos a costa o en sustitución de bienes privativos son ...",
-    "opciones": [
-      "bienes privativos.",
-      "bienes gananciales si se trata de la vivienda familiar.",
-      "ninguna de las respuestas anteriores es correcta."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 12 – p. 183 (art. 1346.3º CC, bienes adquiridos a costa o en sustitución de privativos son privativos)"
-  },
-  {
-    "pregunta": "En el régimen de gananciales, cada cónyuge podrá tomar un anticipo de fondos gananciales para destinarlo al ejercicio de su profesión:",
-    "opciones": [
-      "Libremente, sin consentimiento del otro cónyuge.",
-      "Para ello necesitara el consentimiento del otro cónyuge.",
-      "Debera informar al otro cónyuge, pero no necesitara su consentimiento."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 13 – p. 199 (art. 1382 CC, anticipo sin consentimiento pero siempre con conocimiento del otro cónyuge)"
-  },
-  {
-    "pregunta": "En la liquidación de la sociedad de gananciales, una vez pagadas las deudas y cargas de la sociedad:",
-    "opciones": [
-      "Se abonaran los gastos hipotecarios.",
-      "Se abonaran las indemnizaciones y reintegros debidos a cada cónyuge.",
-      "Se abonaran los pagos a los trabajadores."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 15 – p. 224-225 (art. 1403 CC, tras pagar deudas y cargas se abonan indemnizaciones y reintegros)"
-  },
-  {
-    "pregunta": "Emilio y M? Pilar, casados en régimen de gananciales, se separan de hecho por acuerdo mutuo entre ambos. Tanto Emilio cómo M? Pilar pueden solicitar al juez la disolución de la sociedad de gananciales, siempre que:",
-    "opciones": [
-      "Hayan transcurrido mas de 2 años de dicha separación.",
-      "Haya transcurrido mas de 1 año de dicha separación.",
-      "Hayan transcurrido mas de 3 años de dicha separación."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 15 – p. 223 (art. 1393.3º CC, separación de hecho de más de un año)"
-  },
-  {
-    "pregunta": "Precise en qué caso NO se aplica por ministerio de la ley el régimen de separación de bienes:",
-    "opciones": [
-      "Una vez admitida la demanda de nulidad, separación o divorcio.",
-      "Cuándo se disuelve el régimen de gananciales a consecuencia del embargo de bienes comunes por deudas propias de uno de los cónyuges.",
-      "Cuándo se decreta judicialmente la separación de los cónyuges."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 15 – p. 223 (la sociedad de gananciales subsiste hasta la firmeza de la sentencia)"
-  },
-  {
-    "pregunta": "Maria está embarazada y Juan, cómo futuro padre quiere reconocer a su hijo nasciturus (concebido y no nacido):",
-    "opciones": [
-      "Juan puede realizar el reconocimiento del nasciturus de forma aislada y por separado, sin contar con la madre.",
-      "Solo puede reconocer al nasciturus la madre y nunca el padre porque la maternidad viene determinada por el parto.",
-      "Ambos      pueden    reconocer   conjuntamente   el   reconocimiento   del nascisturus"
-    ],
-    "correcta": 2,
-    "cita": "Cap. 19 – p. 281 (art. 122 CC, el padre no puede reconocer al nasciturus aislado, sí conjuntamente)"
-  },
-  {
-    "pregunta": "La patria potestad es:",
-    "opciones": [
-      "Un derecho subjetivo.",
-      "Un derecho subjetivo atribuido al patriarca familiar.",
-      "Un conjunto de poderes y facultades que el ordenamiento otorga a los progenitores para que los ejerciten en beneficio de los hijos."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 23 – p. 340 (art. 154 CC, conjunto de poderes y facultades en beneficio de los hijos)"
-  },
-  {
-    "pregunta": "Paca, de treinta años, es tia de Alberto, de cinco años, quién recientemente se ha quedado huérfano de padre y madre. Paca quiere adoptar a Alberto ya que viven en la misma ciudad y tienen muy buena relación. ¿Podra hacerlo?",
-    "opciones": [
-      "no, los tios no pueden adoptar a sus sobrinos.",
-      "si, los tios pueden adoptar a sus sobrinos y por la diferencia de edad entre ellos, es posible.",
-      "no, no puede adoptar a su sobrino por no cumplir la diferencia de edad legal requerida."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 22 – p. 318-319 (art. 175.1 y 175.3 CC, tíos y sobrinos (3er grado colateral) no está prohibido)"
-  },
-  {
-    "pregunta": "El principio de igualdad conyugal está recogido:",
-    "opciones": [
-      "En la Constitución espafola.",
-      "En el Código civil.",
-      "Ambas respuestas son correctas."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 2 – p. 30/62 (principio de igualdad conyugal recogido en la CE y en el CC)"
-  },
-  {
-    "pregunta": "Las rentas del alquiler de un piso privativo de uno de los cónyuges casados en régimen de gananciales, constituye un bien:",
-    "opciones": [
-      "Ganancial.",
-      "Privativo del propietario del piso.",
-      "Mixto de la sociedad de gananciales y del cónyuge propietario del piso."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 12 – p. 186 (art. 1347.2º CC, los frutos de bienes privativos son gananciales)"
-  },
-  {
-    "pregunta": "El parentesco por consanguinidad",
-    "opciones": [
-      "puede ser en linea recta o en linea colateral.",
-      "es el que existe entre los parientes por afinidad.",
-      "desaparecié de nuestro ordenamiento como consecuencia del principio constitucional de laicidad."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 18 – p. 261 (art. 918 CC, parentesco por consanguinidad en línea recta o colateral)"
-  },
-  {
-    "pregunta": "¿ Puede el juez nombrar tutor a quién los progenitores hayan excluido cómo tutores?",
-    "opciones": [
-      "No.",
-      "Sdlo si así lo exige el principio del interés superior del menor.",
-      "Ninguna de las dos respuestas anteriores es correcta. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulaci6n de alguna de las 20 preguntas ordinarias que integran el examen."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 25 – p. 375 (art. 234 CC, orden de preferencia para el nombramiento de tutor)"
-  },
-  {
-    "pregunta": "Si hay doble filiación y los progenitores no están de acuerdo en el orden de los apellidos del menor:",
-    "opciones": [
-      "encaso de que los progenitores sean de distinto sexo, se aplica el sistema de sorteo notarial.",
-      "encaso de que los progenitores sean del mismo sexo, se aplica el sistema de sorteo notarial.",
-      "ninguna de las dos respuestas anteriores es correcta."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 18 – p. 268 (el sorteo notarial es una propuesta política criticada, no la regla legal (interés superior del menor))"
-  },
-  {
-    "pregunta": "Marque el enunciado correcto:",
-    "opciones": [
-      "La filiación extramatrimonial       0 no matrimonial se determina mediante presunciones   de     paternidad,    al   igual   que   sucede   con   la   filiación matrimonial.",
-      "La filiación extramatrimonial   o no matrimonial se determina, entre otros modos, fundamentalmente por el reconocimiento ante el Encargado del Registro Civil, en testamento, o también por sentencia firme.",
-      "La filiación extramatrimonial o no matrimonial se determina sólo ante Notario."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 19 – p. 277 (art. 120 CC, reconocimiento ante el Encargado del RC, en testamento o por sentencia firme)"
-  },
-  {
-    "pregunta": "Es necesaria la dispensa para contraer matrimonio entre:",
-    "opciones": [
-      "Tios y sobrinos.",
-      "Primos.",
-      "Padres e hijos adoptivos."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 3 – p. 41 (art. 47.2ª CC, colaterales hasta el 3er grado (tíos y sobrinos) requieren dispensa)"
-  },
-  {
-    "pregunta": "El Código civil espanol:",
-    "opciones": [
-      "Solo admite el matrimonio religioso",
-      "Solo admite el matrimonio civil.",
-      "Ambas respuestas son incorrectas."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 3 – p. 19/55 (art. 60 CC, matrimonio civil y religioso con efectos civiles)"
-  },
-  {
-    "pregunta": "Las capitulaciones matrimoniales otorgadas antes de contraer matrimonio:",
-    "opciones": [
-      "Quedaran sin efecto si el matrimonio no se contrae en el plazo de dos años.",
-      "Quedaran sin efecto si el matrimonio no se contrae en el plazo de tres meses.",
-      "Quedaran sin efecto si el matrimonio no se contrae en el plazo de un año."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 10 – p. 163 (art. 1334 CC, ineficacia si no se contrae matrimonio en el plazo de un año)"
-  },
-  {
-    "pregunta": "La acción de resarcimiento por incumplimiento sin causa de la promesa de matrimonio caducara:",
-    "opciones": [
-      "Al año contado desde la negativa a la celebración de matrimonio.",
-      "A los tres años contados desde la negativa a la celebraci6n de matrimonio.",
-      "Es imprescriptible."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 2 – p. 32 (art. 43 CC, caducidad al año desde la negativa a la celebración)"
-  },
-  {
-    "pregunta": "Juan está casado con Maria. Un día, Juan resulta asesinado por un mafioso, que termina siendo detenido y condenado por ello. Maria consigue un permiso para ir a ver al mafioso a la carcel para reprocharle el asesinato, pero, sin embargo, tras esa entrevista y otras posteriores, terminan enamorandose y desean contraer matrimonio. ¿Podran?",
-    "opciones": [
-      "Si, pero sólo con dispensa judicial.",
-      "Si, sin necesidad de dispensa, porque no estuvieron de acuerdo para asesinar a Juan y no hay impedimento matrimonial.",
-      "No, en ningún caso, porque hay un impedimento matrimonial."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 3 – p. 41 (art. 47.3ª CC, el impedimento exige participación en la muerte dolosa del cónyuge)"
-  },
-  {
-    "pregunta": "Calixto, de 17 años, y Melibea, de 16 años, desean contraer matrimonio. ¿Es posible?",
-    "opciones": [
-      "No, en ningún caso, porque hay un impedimento matrimonial.",
-      "Si, si ambos se emanciparan previamente.",
-      "Si, pero sólo con dispensa judicial."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 3 – p. 38 (edad mínima de emancipación, 16 años)"
-  },
-  {
-    "pregunta": "No es competente para tramitar el expediente previo a la celebración del matrimonio:",
-    "opciones": [
-      "El alcalde.",
-      "El funcionario diplomático o consular.",
-      "El encargado del Registro Civil."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 3 – p. 46 (art. 51 CC, el alcalde solo interviene en la celebración, no en el expediente)"
-  },
-  {
-    "pregunta": "Marque la única frase totalmente correcta de entre las tres siguientes:",
-    "opciones": [
-      "La presunción de convivencia permite al cónyuge exigir al otro que resida en la vivienda privativa.",
-      "Si uno de los cónyuges se muda temporalmente a otro domicilio distinto del conyugal, se pierde la presunción de convivencia y con ello el deber de ayuda y socorro.",
-      "Se presume, salvo prueba en contrario, que los coOnyuges viven juntos."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 4 – p. 63 (art. 69 CC, presunción de convivencia salvo prueba en contrario)"
-  },
-  {
-    "pregunta": "Los cónyuges pueden celebrar contratos entre si:",
-    "opciones": [
-      "En todos los casos.",
-      "En ningún caso.",
-      "Excepto celebrar donaciones remuneratorias."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 11 – p. 174 (art. 1323 CC, los cónyuges pueden celebrar entre sí toda clase de contratos)"
-  },
-  {
-    "pregunta": "El matrimonio celebrado por coacción o miedo grave es:",
-    "opciones": [
-      "Nulo.",
-      "Anulable.",
-      "Rescindible por lesidn."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 5 – p. 74-76 (art. 73.5ª CC, matrimonio nulo por coacción o miedo grave)"
-  },
-  {
-    "pregunta": "En caso de reconciliación de un matrimonio separados judicialmente:",
-    "opciones": [
-      "Es necesario que vuelvan a contraer matrimonio.",
-      "Ambos cónyuges deberan ponerlo en conocimiento del juez que entienda o haya entendido del litigio, para que surta efecto la reconciliaci6n.",
-      "La mera reconciliación es suficiente y anula la sentencia de separación."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 6 – p. 90 (art. 84 CC, la reconciliación debe ponerse en conocimiento del juez)"
-  },
-  {
-    "pregunta": "Luis y Berta están casados. Un día Luis desaparece y, cumplidos los correspondientes    requisitos,   se   le   declara   fallecido.   Berta    contrae   nuevo matrimonio con Jorge,     pero Luis vuelve a aparecer vivo.                ¿Cual de estos matrimonios es valido y efectivo actualmente?",
-    "opciones": [
-      "El de Luis y Berta.",
-      "El de Jorge y Berta.",
-      "Ninguno de ellos, porque se anulan mutuamente."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 7 – p. 98 (el matrimonio del cónyuge presente con un tercero es válido tras la declaración de fallecimiento)"
-  },
-  {
-    "pregunta": "En caso de divorcio de mutuo acuerdo, ¿será necesario aportar con la demanda un convenio regulador?",
-    "opciones": [
-      "Si, siempre.",
-      "No, porque las medidas reguladoras de los efectos del divorcio se fijan judicialmente.",
-      "No, porque el convenio regulador se puede acordar por los cónyuges una vez divorciados."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 7 – p. 101 (art. 81/86-87 CC, el divorcio de mutuo acuerdo exige convenio regulador)"
-  },
-  {
-    "pregunta": "¿Quién de estos funcionarios tiene competencia para determinar el divorcio?",
-    "opciones": [
-      "El Alcalde 0 concejal en quién delegue.",
-      "El Notario.",
-      "El funcionario diplomático o consular, en ejercicio de sus funciones notariales."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 7 – p. 101 (art. 87 CC, los funcionarios diplomáticos/consulares no pueden autorizar la escritura de divorcio)"
-  },
-  {
-    "pregunta": "En caso de matrimonio putativo, el cónyuge de buena fe:",
-    "opciones": [
-      "Podra pedir una indemnización, en todo caso.",
-      "Podra pedir una indemnización si ha habido convivencia.",
-      "No podrá pedir indemnización."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 8 – p. 133 (art. 98 CC, indemnización al cónyuge de buena fe si ha habido convivencia)"
-  },
-  {
-    "pregunta": "Las capitulaciones, para que sean validas:",
-    "opciones": [
-      "Deberan constar en escritura pública.",
-      "Pueden constar en documento privado.",
-      "Pueden constar en documento privado, pero han de convalidarse en el plazo de un año."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 10 – p. 159 (art. 1327 CC, escritura pública)"
-  },
-  {
-    "pregunta": "En las donaciones por razón de matrimonio, los futuros esposos:",
-    "opciones": [
-      "podran donarse bienes presentes e igualmente podran donarse antes del matrimonio en capitulaciones matrimoniales bienes futuros, sólo para el caso de muerte y según las normas de la sucesión testada.",
-      "sólo podran donarse bienes presentes.",
-      "no podran donarse ningún bien en consideración a su matrimonio."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 11 – p. 169 (art. 1341 CC, bienes presentes y, en capitulaciones, bienes futuros para caso de muerte)"
-  },
-  {
-    "pregunta": "En la sociedad de gananciales, si ambos cónyuges resultan beneficiados conjuntamente, ya sea por testamento o ya sea por donación:",
-    "opciones": [
-      "Los bienes donados o dejados en testamento            a ambos cónyuges conjuntamente y sin especial designación de partes,           se entenderan gananciales, si ambos aceptan la liberalidad, y el donante o testador no hubiere dispuesto lo contrario.",
-      "Los bienes donados o dejados en testamento a ambos cdonyuges conjuntamente y sin especial designación de partes,           se entenderan privativos, siendo necesario que los cónyuges echen a suertes para decidir a quién pertenecen.",
-      "No es posible dejar a ambos cónyuges conjuntamente en donaciéon o en testamento ningún tipo de bien."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 12 – p. 187 (art. 1353 CC, bienes donados o legados conjuntamente se presumen gananciales)"
-  },
-  {
-    "pregunta": "El reconocimiento de la filiaci6n extramatrimonial:",
-    "opciones": [
-      "puede efectuarse por el padre y por la madre.",
-      "puede efectuarse por el padre, pero no por la madre.",
-      "sólo puede efectuarse en testamento."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 19 – p. 277 (art. 120 CC, el reconocimiento puede efectuarlo el padre y la madre)"
-  },
-  {
-    "pregunta": "Maria, de 28 años, quiere adoptar a su hermano pequeno, de 15, ante el fallecimiento de los padres de ambos- ¿,Podria hacerlo?",
-    "opciones": [
-      "No. En ningún caso.",
-      "Si, pero con dispensa.",
-      "Ninguna de las respuestas anteriores es correcta."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 22 – p. 319 (art. 175.3.2ª CC, prohibición no dispensable entre colaterales de 2º grado (hermanos))"
-  },
-  {
-    "pregunta": "Pueden ser tutores:",
-    "opciones": [
-      "Las personas físicas, pero las personas jurídicas no.",
-      "Las personas físicas y cualquier persona jurídica.",
-      "Las personas físicas y las fundaciones y demás personas jurídicas sin animo de lucro, entre cuyos fines esté la protección de menores. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulación de alguna de las 20 preguntas ordinarias que integran el examen."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 25 – p. 375 (art. 242 CC, personas físicas y personas jurídicas sin ánimo de lucro)"
-  },
-  {
-    "pregunta": "El Código civil por lo que al matrimonio se refiere dispone:",
-    "opciones": [
-      "Un sistema de matrimonio único.",
-      "Un sistema electivo material.",
-      "Un sistema electivo formal."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 3 – p. 29 (sistema electivo formal, de forma múltiple y clase única)"
-  },
-  {
-    "pregunta": "En las donaciones por razón de matrimonio otorgadas por terceros:",
-    "opciones": [
-      "no se podran revocar.",
-      "se pueden revocar si el donatario está de acuerdo, y siempre que quiera devolver lo recibido.",
-      "se reputara incumplimiento de cargas, además de cualquiera otras especificas a que pudiera haberse subordinado la donación, la anulaci6n del matrimonio por cualquier causa."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 11 – p. 173 (art. 1343.2 CC, la anulación del matrimonio se reputa incumplimiento de cargas)"
-  },
-  {
-    "pregunta": "Ante las personas que tienen un antepasado comun se habla de:",
-    "opciones": [
-      "Parentesco en linea recta.",
-      "Parentesco en linea colateral.",
-      "Parentesco adoptivo."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 18 – p. 259 (parentesco colateral: antepasado común)"
-  },
-  {
-    "pregunta": "A tenor del Código civil espanol:",
-    "opciones": [
-      "El matrimonio homosexual es valido si los contrayentes son mayores de 25 años.",
-      "El matrimonio homosexual     no es valido si se trata de menores emancipados",
-      "El matrimonio homosexual está sometido a los mismos requisitos que el matrimonio heterosexual."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 3 – p. 19 (art. 44 CC, mismos requisitos para el matrimonio homosexual y heterosexual)"
-  },
-  {
-    "pregunta": "Las relaciones jurídico-civiles relativas a las formas de matrimonio:",
-    "opciones": [
-      "Son competencia exclusiva de la Unión Europea.",
-      "Son competencia exclusiva del Estado.",
-      "Son una competencia compartida entre el Estado y las Comunidades Autonomas."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 2 – p. 30 (art. 149.1.8ª CE, competencia exclusiva del Estado)"
-  },
-  {
-    "pregunta": "La promesa cierta de matrimonio:",
-    "opciones": [
-      "Produce efectos legales y produce obligación de contraerlo, salvo justa causa.",
-      "Produce efectos legales y genera obligación de cumplir lo que se hubiera estipulado para el supuesto de su no celebración.",
-      "Solo producirá la obligación de resarcir a la otra parte de los gastos hechos y las obligaciones contraidas en consideración al matrimonio prometido."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 2 – p. 32 (art. 43 CC, solo resarcimiento de gastos)"
-  },
-  {
-    "pregunta": "Pedro desea contraer matrimonio con su sobrina Clara. ¿Podra hacerlo?",
-    "opciones": [
-      "Si, en todo caso.",
-      "No, en ningún caso, porque son parientes proximos.",
-      "Si, si obtienen dispensa judicial del impedimento."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 3 – p. 41 (art. 47.2ª y 48 CC, tíos y sobrinos, 3er grado colateral, dispensable)"
-  },
-  {
-    "pregunta": "Romeo, de 18 años, y Julieta, de 15 años, desean contraer matrimonio. ¿Es posible?",
-    "opciones": [
-      "Si, porque Romeo ya es mayor de edad.",
-      "Si, pero sólo con dispensa judicial.",
-      "No, en ningún caso, porque hay un impedimento matrimonial."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 3 – p. 38 (edad mínima 16 años para emancipación; a los 15 impedimento absoluto)"
-  },
-  {
-    "pregunta": "Las capitulaciones matrimoniales se pueden otorgar:",
-    "opciones": [
-      "Solo después de contraer matrimonio.",
-      "Solo antes de contraer matrimonio.",
-      "Antes y después de contraer matrimonio"
-    ],
-    "correcta": 2,
-    "cita": "Cap. 10 – p. 157 (art. 1326 CC, antes o después del matrimonio)"
-  },
-  {
-    "pregunta": "£El deber de ayuda y socorro entre los cónyuges comprende la obligaci6én de alimentos entre los cónyuges?",
-    "opciones": [
-      "Si.",
-      "Si, pero está condicionado a que el cónyuge beneficiario de la ayuda respete las decisiones del otro sobre el interés superior del menor.",
-      "Si, pero los cónyuges sólo tienen que prestarse ayuda y socorro cuando viven bajo el mismo techo."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 4 – p. 62 (art. 68 CC, socorrerse mutuamente incluye la obligación de alimentos)"
-  },
-  {
-    "pregunta": "Las donaciones entre cónyuges:",
-    "opciones": [
-      "Estan expresamente prohibidas en el cddigo Civil.",
-      "Estan permitidas.",
-      "Estan prohibidas las donaciones remuneratorias."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 11 – p. 174 (art. 1323 CC, donaciones entre cónyuges plenamente lícitas)"
-  },
-  {
-    "pregunta": "El matrimonio celebrado entre dos hermanos es:",
-    "opciones": [
-      "Anulable.",
-      "Nulo de pleno derecho.",
-      "Ninguna de las respuestas anteriores es correcta."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 3 – p. 41-43 (art. 47.2ª y 48 CC, hermanos (2º grado colateral) es impedimento no dispensable)"
-  },
-  {
-    "pregunta": "Un matrimonio nulo contraido de buena fe al menos por un cónyuge es:",
-    "opciones": [
-      "Anulable, pero se puede confirmar.",
-      "Es un matrimonio putativo.",
-      "Ninguna de las respuestas anteriores es correcta."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 5 – p. 77 (matrimonio putativo)"
-  },
-  {
-    "pregunta": "El cédigo civil exige que para poder entablar demanda de separación:",
-    "opciones": [
-      "Hayan transcurrido, al menos, un año desde la celebración del matrimonio.",
-      "Hayan     transcurrido,   al   menos,   seis   meses   desde   la   celebración   del matrimonio.",
-      "Hayan    transcurrido,    al   menos,    tres   meses   desde    la   celebración    del matrimonio, salvo las excepciones previstas en el cédigo, en cuyo caso no será necesario plazo alguno."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 6 – p. 88 (art. 81-82 CC, tres meses desde la celebración salvo excepciones)"
-  },
-  {
-    "pregunta": "Antonio y Concha están casados. Un día Antonio desaparece y, cumplidos los correspondientes requisitos, se le declara fallecido. ~Cual es su situaci6én actual?",
-    "opciones": [
-      "Siguen      casados,    porque     ambos    están   vivos,    aunque   pueden divorciarse.",
-      "Siguen casados, por lo que deben iniciar un procedimiento de divorcio para regularizar su situación.",
-      "No están casados, porque la declaración de fallecimiento disolvid el matrimonio, pero pueden volver a casarse."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 7 – p. 97 (art. 85 CC, la declaración de fallecimiento disuelve el matrimonio)"
-  },
-  {
-    "pregunta": "En    caso   de   divorcio   tramitado   por el   procedimiento     contencioso,    el funcionario competente será:",
-    "opciones": [
-      "El Juez.",
-      "El Letrado de la Administración de Justicia (Secretario Judicial).",
-      "Cualquiera de ellos."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 7 – p. 104-105 (el divorcio contencioso requiere sentencia judicial)"
-  },
-  {
-    "pregunta": "En un procedimiento de nulidad,             separaci6n o divorcio,       las llamadas medidas provisionalisimas 0 previas:",
-    "opciones": [
-      "Se derivan de la admisioOn de la demanda y con anterioridad a la sentencia.",
-      "Se pueden adoptar con anterioridad a la presentación de la demanda.",
-      "Se adoptan con la sentencia y con anterioridad a su ejecución."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 8 – p. 115 (medidas provisionalísimas previas a la demanda)"
-  },
-  {
-    "pregunta": "En unas capitulaciones matrimoniales:",
-    "opciones": [
-      "Podria reconocerse un hijo prematrimonial.",
-      "Solamente podrá modificarse en régimen económico del matrimonio.",
-      "Ninguna de las respuestas anteriores es correcta."
-    ],
-    "correcta": 0,
-    "cita": "Cap. 10 – p. 160 (contenido atípico de las capitulaciones: reconocimiento de hijo extramatrimonial)"
-  },
-  {
-    "pregunta": "Las donaciones por raz6n de matrimonio, podran realizarlas:",
-    "opciones": [
-      "sólo los cónyuges entre si.",
-      "sólo los familiares de los futuros cónyuges.",
-      "cualquier persona."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 11 – p. 169 (art. 1336 CC, cualquier persona puede donar por razón de matrimonio)"
-  },
-  {
-    "pregunta": "Juan y Maria están casados en gananciales. Diga si los siguientes bienes son privativos o gananciales:",
-    "opciones": [
-      "El coche que compro Juan de soltero, el piso de la playa que hered6 Juan de sus tios y su sueldo: todos son bienes privativos.",
-      "El coche que compro Juan de soltero y el piso de la playa que hered6 Juan de sus tios son privativos; pero su sueldo es ganancial.",
-      "El coche que compro Juan de soltero es privativo; pero el piso de la playa que heredo Juan de sus tios y su sueldo son gananciales."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 12 – p. 183-184 (arts. 1346.2º y 1347.1º CC, herencia privativa y sueldo ganancial)"
-  },
-  {
-    "pregunta": "El parentesco por afinidad es un vínculo estrictamente personal entre:",
-    "opciones": [
-      "Hermanos.",
-      "Padre e hijo.",
-      "Un cónyuge y el cufado."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 18 – p. 259 (parentesco por afinidad: cónyuge y parientes consanguíneos del otro (cuñado))"
-  },
-  {
-    "pregunta": "La tutela es una figura de protecci6n que se establece en beneficio de:",
-    "opciones": [
-      "Los menores y los mayores en situación de desamparo y no sujetos a patria potestad.",
-      "Los menores no emancipados en situación de desamparo, y los menores no emancipados no sujetos a patria potestad.",
-      "Los menores no emancipados en situación de desamparo, y los mayores sujetos a patria potestad."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 25 – p. 375 (art. 199 CC, tutela restringida a menores no emancipados)"
-  },
-  {
-    "pregunta": "Los cónyuges divorciados:",
-    "opciones": [
-      "Tienen derecho de alimentos si se da una situaci6n de desequilibrio económico.",
-      "Tienen derecho de alimentos durante tres años después de haberse divorciado.",
-      "No tienen derecho de alimentos. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulación de alguna de las 20 preguntas ordinarias que integran el examen."
-    ],
-    "correcta": 2,
-    "cita": "Cap. 24 – p. 355 (los cónyuges divorciados no tienen derecho de alimentos)"
-  },
-  {
-    "pregunta": "Los actos de disposición a titulo oneroso de bienes gananciales realizados sin el consentimiento de ambos cónyuges son:",
-    "opciones": [
-      "Nulos de pleno derecho.",
-      "Anulables.",
-      "Rescindibles sólo por los acreedores perjudicados."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 13 – p. 193 (art. 1322.1 CC, anulables)"
-  },
-  {
-    "pregunta": "El conjunto normativo del Céddigo Civil que contiene reglas basicas del régimen económico matrimonial, con independencia de cual sea el régimen económico-matrimonial aplicable al matrimonio, es denominado:",
-    "opciones": [
-      "El régimen matrimonial esencial.",
-      "El régimen matrimonial primario.",
-      "El régimen matrimonial básico."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 9 – p. 146 (régimen matrimonial primario, expresión doctrinal de Lacruz Berdejo)"
-  },
-  {
-    "pregunta": "Cosme y Damaso forman una pareja de hecho registrada. Cosme conoce a Andrea y quieren contraer matrimonio. ~Es posible?",
-    "opciones": [
-      "No, en ningún caso, porque hay un impedimento matrimonial.",
-      "Si, en todo caso.",
-      "Si, pero sólo con dispensa judicial."
-    ],
-    "correcta": 1,
-    "cita": "Cap. 3 – p. — (la pareja de hecho registrada no genera impedimento matrimonial de ligamen)"
-  }
-]
+{
+  "puntuacion": {
+    "acierto": 0.5,
+    "error": -0.25,
+    "blanco": 0
+  },
+  "preguntas": [
+    {
+      "pregunta": "Diga cual es la afirmación correcta:",
+      "opciones": [
+        "El matrimonio es un acto solemne, salvo pacto en contrario.",
+        "El matrimonio es un acto solemne de modo que si no se respeta la forma establecida por el Código civil o la forma religiosa legalmente prevista tiene como consecuencia la nulidad del matrimonio.",
+        "Solo el matrimonio religioso es un acto solemne. Respecto al matrimonio civil el Código civil establece la libertad de forma."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 3 – p. 73 (art. 73.3ª CC, nulidad por defecto de forma)"
+    },
+    {
+      "pregunta": "Las capitulaciones matrimoniales deberan constar:",
+      "opciones": [
+        "En cualquier documento, público o privado.",
+        "En cualquier documento público.",
+        "En escritura pública."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 10 – p. 159 (art. 1327 CC, escritura pública)"
+    },
+    {
+      "pregunta": "¿Cómo se constituye la adopción nacional?",
+      "opciones": [
+        "Mediante acta otorgada ante Notario.",
+        "Mediante resolución del Registro Civil.",
+        "Mediante resolución judicial."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 22 – p. 323 (art. 176.1 CC, naturaleza constitutiva de la resolución judicial)"
+    },
+    {
+      "pregunta": "El plazo para pedir el resarcimiento de los gastos realizados en atención al matrimonio prometido:",
+      "opciones": [
+        "Caduca al año,      contado desde la negativa a la celebración del matrimonio.",
+        "Caduca a los dos años, contados desde la negativa a la celebración del matrimonio.",
+        "Caduca a los seis meses, contados desde la ruptura de la promesa."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 2 – p. 32 (art. 43 CC, caducidad al año)"
+    },
+    {
+      "pregunta": "Ante Notario podrá realizarse:",
+      "opciones": [
+        "La celebración del matrimonio, y la separación legal y el divorcio.",
+        "La celebración del matrimonio, pero no la separación legal y el divorcio.",
+        "La separación legal y el divorcio, pero no la celebraci6n del matrimonio."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 6/3 – p. 86/46-47 (notario competente para autorizar matrimonio y separación)"
+    },
+    {
+      "pregunta": "Pedro, de 17 años, quiere contraer matrimonio con su novia Pepa, de 16. 4 Podran hacerlo?",
+      "opciones": [
+        "Si, con dispensa del juez.",
+        "Solo si previamente son emancipados.",
+        "Nunca."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 3 – p. 38 (edad núbil; dispensa de edad abolida por la LJV)"
+    },
+    {
+      "pregunta": "La separación de hecho",
+      "opciones": [
+        "tiene efectos en cuanto a la herencia, pues al cónyuge separado de hecho le priva de la legítima correspondiente al cónyuge viudo.",
+        "tiene efectos en cuanto a la herencia, pues si hay hijos menores priva al cónyuge separado de hecho de la legítima correspondiente al cónyuge viudo.",
+        "no priva al cónyuge separado de la legítima correspondiente al cónyuge viudo."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 6 – p. 93 (la separación de hecho priva de la cuota legitimaria del viudo)"
+    },
+    {
+      "pregunta": "Maria Dolores casada en régimen de gananciales con Felipe, tiene un accidente de trafico. Cómo consecuencia del mismo recibe una indemnizacidén por las lesiones sufridas. El dinero percibido por Maria Dolores es de caracter:",
+      "opciones": [
+        "Privativo de ella.",
+        "Ganancial.",
+        "Es de caracter privativo, pero la sociedad de gananciales tendrá un crédito frente a ella."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 12 – p. 184 (art. 1346.6º CC, indemnizaciones por daños a la persona)"
+    },
+    {
+      "pregunta": "En caso de discrepancia entre los cónyuges sobre la fijación del domicilio conyugal:",
+      "opciones": [
+        "Se fijara por resolución judicial,   en función    de   las   necesidades laborales de los cónyuges.",
+        "Lo resolvera el juez, teniendo en cuenta el interés de la familia.",
+        "Se resolvera en sede judicial, sólo en caso de separación o divorcio."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 4 – p. 66 (art. 70 CC, en caso de discrepancia resuelve el juez)"
+    },
+    {
+      "pregunta": "¿Cual de las siguientes proposiciones es falsa?",
+      "opciones": [
+        "Los cónyuges están obligados a vivir juntos.",
+        "Se presume, salvo prueba en contrario, que los cónyuges viven juntos.",
+        "El deber de fidelidad conyugal ha sido derogado recientemente."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 4 – p. 62 (art. 68 CC, deber de fidelidad)"
+    },
+    {
+      "pregunta": "El matrimonio putativo:",
+      "opciones": [
+        "Es el que no produce efectos civiles por haber sido declarado nulo.",
+        "Es el matrimonio contraido de mala fe por al menos uno de los contrayentes.",
+        "Es el matrimonio que produce efectos civiles por haber sido contraido de buena fe por al menos uno de los contrayentes."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 5 – p. 77 (matrimonio putativo, buena fe)"
+    },
+    {
+      "pregunta": "La acción de separación",
+      "opciones": [
+        "se extingue por la muerte de cualquiera de los dos cónyuges.",
+        "tiene caracter de personalisima, pero los herederos del cónyuge que haya fallecido o haya sido declarado muerto durante el procedimiento pueden continuar   el   procedimiento     si   se   está   discutiendo   una _ pensión compensatoria que se incluya en la herencia.",
+        "no tiene caracter de personalisima."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 6 – p. 89 (la acción de separación se extingue por la muerte de cualquiera de los cónyuges)"
+    },
+    {
+      "pregunta": "Para que un cónyuge puede solicitar unilateralmente la separación judicial",
+      "opciones": [
+        "han de haber transcurrido al menos seis meses desde que se celebro el matrimonio, salvo que exista riesgo para la vida, la integridad física, la integridad moral o libertad e indemnidad sexual del cónyuge demandante. Oo de los hijos de ambos o de cualquiera de los miembros del matrimonio",
+        "ha de haber transcurrido al menos un afo desde que se celebro el matrimonio.",
+        "ninguna de las dos respuestas anteriores es correcta."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 6 – p. 88 (el plazo real es de tres meses, no seis ni un año (art. 81-82 CC))"
+    },
+    {
+      "pregunta": "Dos primos son, entre si...",
+      "opciones": [
+        "parientes por afinidad.",
+        "parientes colaterales en cuarto grado.",
+        "parientes colaterales en tercer grado."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 18 – p. 261 (art. 918 CC, primos hermanos = 4º grado colateral)"
+    },
+    {
+      "pregunta": "Una vez declarado fallecido un cónyuge...",
+      "opciones": [
+        "el otro podrá volver a contraer matrimonio.",
+        "el otro podrá volver a contraer matrimonio, pero tras los seis meses desde la declaraci6n de fallecimiento.",
+        "ninguna de las respuestas anteriores es correcta."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 7 – p. 97 (art. 85 CC, disolución del matrimonio por declaración de fallecimiento)"
+    },
+    {
+      "pregunta": "El matrimonio se disuelve por ...",
+      "opciones": [
+        "sólo por el divorcio.",
+        "por el divorcio, por la muerte y por la declaración de fallecimiento de un cónyuge.",
+        "por el divorcio, por la muerte, por la declaración de fallecimiento y por la declaración de ausencia legal de un cónyuge."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 7 – p. 97 (art. 85 CC (pregunta reconstruida por falta de una opción en el PDF original))"
+    },
+    {
+      "pregunta": "Cuándo se solicite la separación o el divorcio ante Notario o ante el Letrado de la Administración de Justicia, la formulaci6n del convenio regulador por parte de los cónyuges:",
+      "opciones": [
+        "Sera voluntaria.",
+        "Sera obligatoria.",
+        "Dependera de las partes, si así lo estiman conveniente."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 7/6 – p. 101/86 (el convenio regulador es obligatorio salvo mutuo acuerdo ante LAJ/notario)"
+    },
+    {
+      "pregunta": "Los acuerdos y el convenio regulador que le presenten al Juez los cónyuges, en los que regulan las consecuencias en caso de nulidad, separación o divorcio:",
+      "opciones": [
+        "Vinculan al Juez siempre y debera aprobarlos.",
+        "El Juez discrecionalmente puede aprobarlos 0 no según le parezca.",
+        "Seran aprobados por el Juez, salvo si son dafhosos para los hijos o gravemente perjudiciales para uno de los cónyuges."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 8 – p. 118 (art. 90.2 CC, convenio dañoso o gravemente perjudicial)"
+    },
+    {
+      "pregunta": "Con la Ley 8/2021, de 2 de junio, por la que se reforma la legislaci6n civil y procesal para el apoyo a las personas con discapacidad en el ejercicio de su capacidad jurídica,",
+      "opciones": [
+        "hay dos tipos de curatela:   la asistencial y la representativa.",
+        "hay tres tipos de curatela: la asistencial, la representativa y la tutela.",
+        "hay tres tipos de curatela: la asistencial, la representativa y la guarda de hecho."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 25 – p. 372 (Ley 8/2021, curatela asistencial y representativa)"
+    },
+    {
+      "pregunta": "En caso de que una persona reclame alimentos ;quién será el primer obligado según nuestro Código Civil?",
+      "opciones": [
+        "Su padre que carece de medios.",
+        "Su hermana",
+        "Su cónyuge del que está separado de hecho. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulaci6n de alguna de las 20 preguntas ordinarias que integran el examen."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 6 – p. 93 (la separación de hecho no extingue la obligación alimenticia entre cónyuges)"
+    },
+    {
+      "pregunta": "El interesado en cambiar el orden de sus apellidos podrá hacerlo...",
+      "opciones": [
+        "cuando cumpla 12 años.",
+        "siempre que quiera, pero con el consentimiento de sus padres.",
+        "ninguna de las respuestas anteriores es correcta."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 18 – p. 267 (art. 109 CC, cambio de orden de apellidos al alcanzar la mayoría de edad)"
+    },
+    {
+      "pregunta": "Diga cual es la afirmacion_correcta:",
+      "opciones": [
+        "Las Comunidades AutOnomas pueden establecer sus propias normas respecto de los requisitos del matrimonio.",
+        "Las Comunidades aut6nomas pueden establecer sus propias normas respecto a la forma del matrimonio.",
+        "Las Comunidades aut6nomas pueden establecer reglas propias por lo que se refiere al régimen económico matrimonial, siempre que tengan competencia para ello."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 2 – p. 30 (art. 149.1.8ª CE, las CCAA sí pueden legislar sobre el régimen económico)"
+    },
+    {
+      "pregunta": "Es necesaria la dispensa para contraer matrimonio entre:",
+      "opciones": [
+        "Tios y sobrinos.",
+        "Primos.",
+        "Padres e hijos adoptivos."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 3 – p. 41 (art. 47.2ª CC, colaterales hasta el 3er grado (tíos y sobrinos) necesitan dispensa)"
+    },
+    {
+      "pregunta": "Diga cual es la afirmación CORRECTA:",
+      "opciones": [
+        "La promesa de matrimonio debe ser cumplida siempre que no exista justa causa para su ruptura.",
+        "El incumplimiento de la promesa de matrimonio puede dar lugar al resarcimiento del daho moral producido.",
+        "El incumplimiento de la promesa de matrimonio únicamente puede dar lugar al resarcimiento de determinados gastos."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 2 – p. 32 (art. 43 CC, incumplimiento sin causa solo genera resarcimiento de gastos, nunca daño moral)"
+    },
+    {
+      "pregunta": "En uniones de hecho, la compensación económica entre convivientes que no ha sido pactada previamente por los convivientes:",
+      "opciones": [
+        "se concede de oficio por los tribunales si hay hiios comunes.",
+        "se ha concedido en ocasiones por los tribunales en aplicación de la doctrina del enriquecimiento injusto.",
+        "en ocasiones se ha concedido por los tribunales por haber habido hijos menores del otro conviviente que hayan convivido en la vivienda familiar, conforme al principio del interés superior del menor."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 1 – p. 22 (jurisprudencia sobre compensación económica no pactada en parejas de hecho)"
+    },
+    {
+      "pregunta": "El Alcalde o Concejal en quién delegue tiene competencia para instruir el expediente matrimonial:",
+      "opciones": [
+        "Si.",
+        "Si, pero sólo si el matrimonio se va a celebrar en su municipio.",
+        "No, nunca."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 3 – p. 46 (art. 51 CC, instrucción del expediente corresponde a LAJ, notario o Encargado del RC, no al alcalde)"
+    },
+    {
+      "pregunta": "El matrimonio por apoderado:",
+      "opciones": [
+        "No es posible, porque la celebración del matrimonio es un acto personal.",
+        "Es posible, otorgando un poder general.",
+        "Es posible, otorgando un poder especial."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 3 – p. 50 (art. 55 CC, matrimonio por poder especial)"
+    },
+    {
+      "pregunta": "Antonio, en estado de soltero, adquiere un coche a plazos. Posteriormente, contrae matrimonio con Luisa, en régimen de gananciales. La mayoria de las cuotas aplazadas del vehiculo se pagan estando casados. ; Qué naturaleza tiene el coche?",
+      "opciones": [
+        "Es un bien de naturaleza mixta, parte es privativo de Antonio y parte es ganancial.",
+        "Es ganancial, ya que la mayoria de las cuotas se satisfacen constante matrimonio.",
+        "Es privativo de Antonio. No obstante, la sociedad de gananciales tendrá un crédito frente a Antonio por las cuotas pagadas constante matrimonio."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 12 – p. 188 (art. 1357 CC, bienes comprados a plazos antes del matrimonio son siempre privativos)"
+    },
+    {
+      "pregunta": "En el ordenamiento jurídico espanol, si una persona mayor de 80 años quiere contraer matrimonio:",
+      "opciones": [
+        "el Código Civil dispone que debera aportar un informe médico en el expediente matrimonial si la diferencia de edad con el otro contrayente es de mas de 20 años o de nacionalidad extranjera, salvo que el notario considere que es innecesario.",
+        "el Código Civil dispone que debera aportar un informe médico en el expediente matrimonial en el que se haga constar que esa persona es consciente de que el matrimonio afectara al futuro reparto de su herencia, salvo que el notario considere que es innecesario.",
+        "ninguna de las dos respuestas anteriores es correcta."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 3 – p. 52-53 (no se ha localizado la regla de informe médico por edad/diferencia de edad; se aplica la regla general condicionada a la salud (art. 56.2 CC))"
+    },
+    {
+      "pregunta": "El matrimonio fn artículo mortis:",
+      "opciones": [
+        "lo puede celebrar el notario.",
+        "exige        previo   expediente   matrimonial   judicial   urgente   en   el   que intervengan dos testigos.",
+        "exige en la celebración del matrimonio la presencia de dos testigos, uno de los cuales, cómo mínimo, debe ser de nacionalidad espafola o de un pais de la Unión Europea."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 3 – p. 52-53 (art. 52 CC, matrimonio en peligro de muerte)"
+    },
+    {
+      "pregunta": "En        Espana se reconoce legalmente el derecho a celebrar matrimonio religioso con efectos civiles, además de a la Iglesia Catolica:",
+      "opciones": [
+        "a cualquier religidn que figure inscrita en el Registro de Entidades Religiosas del Ministerio de Justicia.",
+        "a cualquier confesión religiosa reconocida con la declaración de notorio arraigo.",
+        "ninguna de las dos respuestas anteriores es correcta."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 3 – p. 55 (art. 60 CC y 58 bis LRC, notorio arraigo)"
+    },
+    {
+      "pregunta": "En caso de discrepancia entre los cónyuges sobre la fijación del domicilio conyugal:",
+      "opciones": [
+        "ello constituye causa legal de divorcio.",
+        "ello constituye causa legal de divorcio si hay hijos comunes.",
+        "ninguna de las dos respuestas anteriores es correcta."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 4 – p. 66 (art. 70 CC, resuelve el juez, no es causa de divorcio)"
+    },
+    {
+      "pregunta": "gQué parentesco me une a mi con el hijo de mi primo hermano?:",
+      "opciones": [
+        "Sexto grado en la linea colateral por consanguinidad.",
+        "Cuarto grado en la linea recta por consanguinidad.",
+        "Quinto grado en la linea colateral por consanguinidad."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 18 – p. 261 (art. 918 CC, hijo del primo hermano = 5º grado colateral)"
+    },
+    {
+      "pregunta": "El juez puede denegar la separaciéon judicial de mutuo acuerdo:",
+      "opciones": [
+        "si así lo exige el interés superior del menor de los hijos comunes menores de edad, por el tiempo máximo de tres meses.",
+        "si así lo exige el interés superior de los hijos comunes menores de edad y de cualquier hijo mayor de edad con discapacidad sometido a curatela que conviva en el domicilio familiar, por el tiempo máximo de seis meses.",
+        "ninguna de las dos respuestas anteriores es correcta."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 8 – p. 113 (la presentación de la demanda no disuelve el régimen de gananciales; no cabe generalizar el plazo)"
+    },
+    {
+      "pregunta": "La reconciliación de los divorciados posterior al divorcio:",
+      "opciones": [
+        "surte los mismos efectos jurídicos que la reconciliación de los separados judicialmente, excepto los patrimoniales.",
+        "surte los mismos efectos jurídicos que la reconciliación de los separados judicialmente, si hay hijos menores.",
+        "no surte los mismos efectos jurídicos que la reconciliación de los separados judicialmente."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 7 – p. 106 (art. 88.2 CC, la reconciliación tras el divorcio no produce efectos legales)"
+    },
+    {
+      "pregunta": "En las sentencias de nulidad, separación o divorcio el Juez adoptara diversas medidas. En relaci6n con las medidas relativas al uso de la vivienda familiar:",
+      "opciones": [
+        "Si no hay hijos, será el cónyuge no titular el que decida si quiere continuar 0 no usando y disfrutando la vivienda familiar.",
+        "Sino hay hijos, nunca podrá acordarse el uso de la vivienda familiar al cónyuge no titular.",
+        "Si no hay hijos,      podrá acordarse que el uso durante un tiempo prudencial corresponda al cónyuge no titular, si su interés fuera el mas necesitado de protección."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 8 – p. 125 (art. 96 CC, uso de la vivienda sin hijos si el interés es el más necesitado de protección)"
+    },
+    {
+      "pregunta": "La compensación o pensi6n compensatoria en los casos de separación o divorcio:",
+      "opciones": [
+        "Sera siempre obligatoria con independencia de si la solicitan o no las partes.",
+        "Podra pedirla el cónyuge al que la separación o el divorcio le produzca un desequilibrio económico en relación con la posicidén del otro, que implique un empeoramiento en su situacidén anterior en el matrimonio.",
+        "Podra pedirla el cónyuge al que la separación o el divorcio le produzca un desequilibrio económico en relación con la posicidén del otro, que implique un empeoramiento en su situacidén anterior en el matrimonio, siempre y cuando lleven por lo menos dos años casados."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 8 – p. 127 (art. 97 CC, pensión compensatoria por desequilibrio económico)"
+    },
+    {
+      "pregunta": "Puede un menor ser adoptado por mas de una persona.",
+      "opciones": [
+        "No, en ningún caso.",
+        "Si.",
+        "No, salvo que se haga conjunta o sucesivamente por los cónyuges 0 por personas unidas por una relación analoga de afectividad a la conyugal."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 22 – p. 317 (art. 175.4 CC, adopción conjunta o sucesiva por cónyuges o pareja de hecho)"
+    },
+    {
+      "pregunta": "Los cónyuges deben contribuir a las cargas del matrimonio:",
+      "opciones": [
+        "Solo en el régimen de gananciales.",
+        "Solo en los regímenes de gananciales y participaci6n, pero no en el de separación de bienes.",
+        "Con independencia de cual sea el régimen económico que rija el matrimonio."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 9 – p. 148 (art. 1318 CC, cargas del matrimonio con independencia del régimen)"
+    },
+    {
+      "pregunta": "Los actos de disposición a titulo oneroso que requieran el consentimiento de ambos cónyuges, si han sido realizados por un cónyuge sin el consentimiento del otro:",
+      "opciones": [
+        "Son nulos de pleno derecho.",
+        "Son anulables.",
+        "Son susceptibles de rescisión por lesión del interés familiar."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 9 – p. 151 (art. 1322 CC, anulabilidad de actos onerosos sin consentimiento)"
+    },
+    {
+      "pregunta": "Rodrigo e Irene otorgan capitulaciones matrimoniales pero no las han inscrito en el Registro Civil, por lo que las mismas:",
+      "opciones": [
+        "No serán validas.",
+        "No serán oponibles frente a los terceros de buena fe interesados.",
+        "Tendran plena eficacia frente a todos, tanto los cónyuges cómo los terceros de buena fe."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 10 – p. 162 (art. 1333 CC, no oponibilidad frente a terceros de las capitulaciones no inscritas)"
+    },
+    {
+      "pregunta": "La Ley 8/2021, de 2 de junio, por la que se reforma la legislación civil y procesal para el apoyo a las personas con discapacidad en el ejercicio de su capacidad jurídica:",
+      "opciones": [
+        "fomenta la guarda de hecho de la persona con discapacidad.",
+        "prohibe la guarda de hecho de la persona con discapacidad.",
+        "considera la guarda de hecho de persona con discapacidad cómo equivalente a la patria potestad."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 25 – p. 382 (Ley 8/2021 fomenta la figura del guardador de hecho)"
+    },
+    {
+      "pregunta": "Las donaciones por razón de matrimonio:",
+      "opciones": [
+        "Son aquellas que cualquier persona hace antes de celebrarse el matrimonio, en consideración al mismo, en favor de uno o de los dos esposos.",
+        "Son aquellas que efectuan los parientes a cualquier esposo antes o después de celebrado el matrimonio.",
+        "Son aquellas que efectua el esposo a la esposa después de celebrado el matrimonio. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulaci6n de alguna de las 20 preguntas ordinarias que integran el examen."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 11 – p. 169 (art. 1336 CC, concepto de donación por razón de matrimonio)"
+    },
+    {
+      "pregunta": "La donación de inmuebles entre los cónyuges:",
+      "opciones": [
+        "es fraudulenta si hay hijos menores.",
+        "es admisible si no hay hijos menores.",
+        "es admisible."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 11 – p. 174 (art. 1323 CC, donaciones entre cónyuges plenamente lícitas)"
+    },
+    {
+      "pregunta": "Roberto y Adriana, ambos de vecindad civil comun, contraen matrimonio sin celebrar      capitulaciones   matrimoniales.   ~Qué   régimen   económico   rige   su matrimonio?:",
+      "opciones": [
+        "Gananciales.",
+        "Separación de bienes.",
+        "No tiene régimen económico, hasta que no celebren capitulaciones."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 9 – p. 178 (art. 1316 CC, régimen legal supletorio de primer grado: gananciales)"
+    },
+    {
+      "pregunta": "La presunción de ganancialidad de un bien significa:",
+      "opciones": [
+        "Que en caso de duda de la naturaleza de un bien, se presumen privativos.",
+        "Que se presumen gananciales, mientras no se pruebe que pertenecen privativamente a uno de los cónyuges.",
+        "Las respuestas a y b son incorrectas."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 12 – p. 181 (art. 1361 CC, presunción de ganancialidad)"
+    },
+    {
+      "pregunta": "Se podrá contraer matrimonio:",
+      "opciones": [
+        "Desde los 14 años.",
+        "Desde los 16 años.",
+        "Desde la mayoria de edad, o la emancipación."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 3 – p. 38 (edad núbil: mayoría de edad o emancipación)"
+    },
+    {
+      "pregunta": "La promesa del matrimonio:",
+      "opciones": [
+        "Produce obligaci6n de contraerlo.",
+        "No produce obligación de contraerlo, pero el incumplimiento sin causa, sólo produciria la obligación de resarcir a la otra parte de los gastos hechos por razón de la promesa.",
+        "Yano se encuentra regulada en el Código Civil, tras la promulgación de la Ley de Jurisdicci6n Voluntaria."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 2 – p. 32 (art. 43 CC, solo resarcimiento de gastos)"
+    },
+    {
+      "pregunta": "Es valido el matrimonio celebrado por el capitan de un barco:",
+      "opciones": [
+        "Si, en todo caso.",
+        "No, nunca.",
+        "Solo en los matrimonios en peligro de muerte."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 3 – p. 52 (art. 52 CC, matrimonio en peligro de muerte a bordo de nave o aeronave)"
+    },
+    {
+      "pregunta": "El domicilio conyugal es",
+      "opciones": [
+        "El que determinen los cónyuges y en caso de desavenencia, resolvera el Juez, teniendo en cuenta el interés de la familia.",
+        "El que determinen los cónyuges y en caso de desavenencia, resolvera el arbitro teniendo en cuenta el interés de la familia.",
+        "Es el que determine la autoridad marital ya que la mujer debe seguir al marido donde quiere que fije su residencia."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 4 – p. 66 (art. 70 CC, resuelve el juez en caso de discrepancia)"
+    },
+    {
+      "pregunta": "Juan y Maria están casados y preguntan a su abogado si pueden celebrar contratos entre si. Señale la respuesta correcta:",
+      "opciones": [
+        "El Código Civil prohibe las donaciones entre conyugesy la realización de algunos contratos onerosos entre ellos.",
+        "Los   cónyuges    pueden      transmitirse    por cualquier titulo       bienes   y derechos, y pueden celebrar entre si toda clase de contratos.",
+        "Existen prohibiciones de contratación sólo en los contratos onerosos entre los cónyuges. Por lo tanto, los cónyuges sólo realizar donaciones entre si."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 11 – p. 174 (art. 1323 CC, los cónyuges pueden celebrar entre sí toda clase de contratos)"
+    },
+    {
+      "pregunta": "En el caso de un matrimonio celebrado con coacción o miedo grave en uno de los cónyuges, si cesa la fuerza 0 miedo grave:",
+      "opciones": [
+        "caduca la acción de nulidad y se convalida el matrimonio si los cónyuges hubieran vivido juntos durante dos años después de haber cesado la fuerza o causa del miedo.",
+        "el matrimonio es nulo y no se convalidara nunca en ningún caso.",
+        "caduca la acción de nulidad y se convalida el matrimonio si los cónyuges hubieran vivido juntos durante un año después de haber cesado la fuerza o causa del miedo."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 5 – p. 75 (art. 76.1 CC, caducidad de un año tras cesar el vicio del consentimiento)"
+    },
+    {
+      "pregunta": "Tios y sobrinos podran contraer matrimonio entre si:",
+      "opciones": [
+        "Libremente.",
+        "Con dispensa judicial.",
+        "En ningún caso."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 3 – p. 41 (art. 47.2ª CC, colaterales hasta el 3er grado (tíos-sobrinos) requieren dispensa)"
+    },
+    {
+      "pregunta": "En     el    régimen    de   gananciales,     en   cuanto    a     las   propias   actividades econdomicas cada cónyuge debera respecto del otro:",
+      "opciones": [
+        "Informarle de ellas.",
+        "Requerir su consentimiento.",
+        "Ambas respuestas anteriores son incorrectas, porque en la gestidn de las       propias    actividades      econdémicas   cada       cónyuge    goza    de    plena independencia."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 13 – p. 194 (art. 1383 CC, deber de información recíproca, no de consentimiento)"
+    },
+    {
+      "pregunta": "Para        realizar   un   acto   de   disposición   a   titulo    oneroso    sobre     bienes gananciales, el cónyuge:",
+      "opciones": [
+        "Necesitara en todo caso el consentimiento del otro cónyuge.",
+        "Necesitara el consentimiento del otro cónyuge, o si éste no puede o se niega, autorización judicial.",
+        "Podra realizarlo sólo con su propio consentimiento."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 13 – p. 195 (art. 1377 CC, consentimiento de ambos o autorización judicial supletoria)"
+    },
+    {
+      "pregunta": "Si una persona es declarada fallecida y luego reaparece:",
+      "opciones": [
+        "Se considera que sigue casado si el cónyuge del reaparecido habia manifestado con anterioridad su voluntad de seguir casado a pesar de la declaración de fallecimiento.",
+        "Se considera que sigue casado si el cónyuge del reaparecido no ha contraido nuevo matrimonio.",
+        "La reaparición no cambia nada: el matrimonio del declarado fallecido debe considerarse disuelto conforme al artículo 85 del Código civil."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 7 – p. 98 (el matrimonio del reaparecido quedó disuelto por la declaración de fallecimiento)"
+    },
+    {
+      "pregunta": "No pueden divorciar en ningún caso:",
+      "opciones": [
+        "Los alcaldes.",
+        "Los notarios.",
+        "Los Letrados de la Administración de Justicia (secretarios judiciales)."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 6 – p. 89 (la acción de separación se extingue por la muerte de cualquiera de los cónyuges)"
+    },
+    {
+      "pregunta": "Señale la respuesta FALSA. Admitida la demanda de nulidad, separación o divorcio:",
+      "opciones": [
+        "Debera determinarse la contribución de cada cónyuge a las cargas del matrimonio.",
+        "Debera procederse a la liquidación de los bienes gananciales.",
+        "Debera fijarse el régimen de administración de los bienes privativos especialmente afectados a las cargas del matrimonio por escritura pública 0 capitulaciones matrimoniales."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 8 – p. 113 (art. 103.4ª CC, la demanda no determina la disolución de gananciales, no liquidación inmediata)"
+    },
+    {
+      "pregunta": "Marque la respuesta correcta. El Código Civil dispone que, en caso de muerte de un cónyuge, el ajuar doméstico,",
+      "opciones": [
+        "sea entregado al cónyuge viudo sin computarselo en su haber, sin estar comprendidos dentro de ese ajuar los objetos de extraordinario valor",
+        "se reparta entre los herederos, salvo los bienes comprados con dinero privativo del cónyuge viudo, que serán entregados al cónyuge viudo.",
+        "se   reparta   entre   los   herederos,   salvo   en   el   régimen   económico matrimonial de gananciales."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 9 – p. 150 (art. 1321 CC, ajuar conyugal entregado al viudo sin cómputo en su haber)"
+    },
+    {
+      "pregunta": "En la separaci6n matrimonial:",
+      "opciones": [
+        "Desaparece el vínculo matrimonial.",
+        "No desaparece el vínculo matrimonial.",
+        "Solo desaparece el vínculo matrimonial en el supuesto de una separación legal."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 6 – p. 92 (la separación no disuelve el vínculo matrimonial)"
+    },
+    {
+      "pregunta": "Las capitulaciones matrimoniales:",
+      "opciones": [
+        "sólo podran otorgarse antes de celebrar el matrimonio.",
+        "podran otorgarse antes o después de celebrar el matrimonio.",
+        "podran otorgarse antes o después de la celebración del matrimonio pero sólo durante el primer año."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 10 – p. 157 (art. 1326 CC, capitulaciones antes o después del matrimonio)"
+    },
+    {
+      "pregunta": "Las donaciones por raz6n de matrimonio se realizan...",
+      "opciones": [
+        "Antes y en consideración del matrimonio futuro.",
+        "Antes, durante o después del matrimonio, siempre que se realicen antes del divorcio.",
+        "Solo las realizan los parientes colaterales en linea recta."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 11 – p. 169 (art. 1336 CC, donaciones antes de celebrarse el matrimonio)"
+    },
+    {
+      "pregunta": "Constante la sociedad de gananciales, de las deudas comunes contraidas por uno sólo de los cónyuges responden:",
+      "opciones": [
+        "El cónyuge deudor y subsidiariamente la sociedad de gananciales.",
+        "Solidariamente los bienes de la sociedad de gananciales.",
+        "Nunca hay deudas comunes contraidas por un sólo cónyuge de las que respondan los bienes de la sociedad de gananciales."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 14 – p. 212 (art. 1369 CC, responsabilidad solidaria de los bienes gananciales)"
+    },
+    {
+      "pregunta": "Marque la respuesta correcta. Si A y B imponen a su primer hijo comun, cuando nace, un orden de apellidos",
+      "opciones": [
+        "tendrán que imponer a los demás hijos comunes ese mismo orden de apellidos cuando nazcan",
+        "podran imponer el orden inverso de apellidos a los demás hijos comunes cuando nazcan, siempre que así lo decidan ambos de comun acuerdo",
+        "podran imponer el orden que deseen a cada uno de los sucesivos hijos comunes cuando nazcan, siempre que así lo decidan ambos de comun acuerdo para cada uno de los hijos."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 18 – p. 268 (art. 49 LRC-2011, mismo orden de apellidos para todos los hijos comunes)"
+    },
+    {
+      "pregunta": "En la legislación vigente, la tutela se contempla:",
+      "opciones": [
+        "Tanto para los menores cómo para las personas con discapacidad.",
+        "Solo para los menores.",
+        "Solo para las personas con discapacidad."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 25 – p. 375 (art. 199 CC, tutela restringida a los menores tras la Ley 8/2021)"
+    },
+    {
+      "pregunta": "¿Existe la obligación legal de alimentos entre hermanos?",
+      "opciones": [
+        "Si, en todo caso, por ser colaterales en segundo grado.",
+        "Solo se deben los gastos necesarios para la educación.",
+        "Solo se deben los auxilios necesarios para la vida cuando los necesiten por cualquier causa que no sea imputable al alimentista. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulaci6n de alguna de las 20 preguntas ordinarias que integran el examen."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 24 – p. 355 (art. 143 CC, alimentos entre hermanos: solo auxilios necesarios para la vida)"
+    },
+    {
+      "pregunta": "La guarda de hecho de las personas con discapacidad es:",
+      "opciones": [
+        "Una medida formal, constituida por decisión judicial.",
+        "Una medida informal.",
+        "Una figura inexistente actualmente, puesto que la Ley 8/2021 la ha suprimido."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 25 – p. 382 (la guarda de hecho es una medida informal de apoyo)"
+    },
+    {
+      "pregunta": "La situación de separación:",
+      "opciones": [
+        "No extingue la obligaci6n alimenticia.",
+        "Si extingue la obligación alimenticia.",
+        "Solo se extingue, si es una separación de hecho."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 6 – p. 93 (la separación de hecho no extingue la obligación alimenticia entre cónyuges)"
+    },
+    {
+      "pregunta": "Antonio, casado en régimen de gananciales con Juana, tiene un piso privativo. Cómo consecuencia de una avería en la instalación eléctrica de dicho piso, Antonio decide efectuar la correspondiente reparación. Del coste de la avería responde:",
+      "opciones": [
+        "Directamente la sociedad de gananciales frente al acreedor.",
+        "Solamente Antonio, al ser un bien privativo.",
+        "La   sociedad   de   gananciales    no   puede   responder   de   deudas devengadas por la administración de los bienes propios de un cónyuge."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 14 – p. 215 (art. 1373 CC, cada cónyuge responde con su patrimonio de sus deudas propias)"
+    },
+    {
+      "pregunta": "Las personas con discapacidad psiquica podran contraer matrimonio:",
+      "opciones": [
+        "Previo dictamen médico, en todo caso.",
+        "Previo   dictamen     médico    excepcionalmente,      sólo       cuando   la discapacidad psiquica pueda impedir la prestación del consentimiento matrimonial pese a las medias de apoyo.",
+        "En ningún caso, por falta de capacidad matrimonial."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 3 – p. 52-53 (art. 56.2 CC, dictamen médico excepcional si impide prestar el consentimiento)"
+    },
+    {
+      "pregunta": "Pedro, de veinte años, se casa con Paula, de dieciséis.           A los cuatro años Paula quiere solicitar la nulidad de su matrimonio. ¿ Sera posible?",
+      "opciones": [
+        "No, ya que se caso con dieciséis años, y podia contraer matrimonio desde los quince.",
+        "No, ya que después de alcanzar la mayoria de edad ha vivido un año con Pedro, por lo que se ha convalidado su matrimonio.",
+        "Si, ese matrimonio es nulo y Paula podrá solicitar la nulidad en cualquier momento."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 5 – p. 75 (art. 75.2 CC, convalidación tras un año de convivencia alcanzada la mayoría de edad)"
+    },
+    {
+      "pregunta": "Pedro y Juana son amantes, y conciertan llevar a cabo el asesinato de Lucas, esposo de Juana. Finalmente, así lo realizan,       y son condenados por asesinato. Con posterioridad, deciden contraer matrimonio entre ellos. ¿Podran hacerlo?",
+      "opciones": [
+        "Si, libremente.",
+        "Si, si obtuvieran dispensa.",
+        "No, nunca."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 3 – p. 41 (art. 47.3ª y 48 CC, muerte dolosa del cónyuge, impedimento dispensable)"
+    },
+    {
+      "pregunta": "El deber conyugal que se refiere a la atención a las necesidades del otro cónyuge, comprendiendo de forma particular la obligación alimenticia entre los cónyuges, es conocido cómo:",
+      "opciones": [
+        "El deber de respeto debido al otro cónyuge.",
+        "El deber de convivencia.",
+        "El deber de ayuda y socorro mutuos."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 4 – p. 62 (art. 68 CC, deber de ayuda y socorro mutuos)"
+    },
+    {
+      "pregunta": "La declaraci6én de nulidad del matrimonio no invalidará los efectos ya producidos:",
+      "opciones": [
+        "respecto de los hijos y de ambos contrayentes.",
+        "sólo respecto de los hijos; respecto de los contrayentes nunca se mantienen los efectos ya producidos.",
+        "respecto de los hijos y del contrayente o contrayentes de buena fe, lo que se conoce cómo matrimonio putativo."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 5 – p. 77 (matrimonio putativo: efectos a favor del contrayente de buena fe)"
+    },
+    {
+      "pregunta": "Las resoluciones dictadas por los Tribunales eclesiásticos sobre nulidad de matrimonio candnico:",
+      "opciones": [
+        "sólo tendrán eficacia en el Ambito candnico, pero no en el ámbito civil.",
+        "tendrán eficacia en el ámbito civil automaticamente.",
+        "tendrán eficacia en el ámbito civil si se declaran ajustadas a Derecho del Estado en resolución dictada por el juez civil."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 5 – p. 80-81 (las resoluciones eclesiásticas requieren homologación civil ajustada a Derecho estatal)"
+    },
+    {
+      "pregunta": ". La acción de divorcio.",
+      "opciones": [
+        "Es personalisima, pues se extingue por la muerte de cualquiera de los cónyuges.",
+        "No es personalisima y puede ser ejercitada por los herederos de ambos cónyuges si alguno de ellos muere.",
+        "Es personalisima y nunca puede ser ejercitada por el representante legal del cónyuge a cuyo favor estuvieran establecidas medidas de apoyo en caso de discapacidad."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 6 – p. 89 (la acción de divorcio es personalísima, se extingue por la muerte de un cónyuge)"
+    },
+    {
+      "pregunta": "El divorcio requiere sentencia judicial:",
+      "opciones": [
+        "Siempre.",
+        "Solo si hay hijos menores de edad o hijos mayores de edad con la capacidad jurídica modificada y respecto de los que se hayan establecido judicialmente medidas de apoyo correspondientes a sus progenitores.",
+        "Nunca."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 6 – p. 87 (art. 82 CC, divorcio/separación con hijos menores requiere competencia judicial)"
+    },
+    {
+      "pregunta": "Sefnale la respuesta FALSA:",
+      "opciones": [
+        "Las medias provisionales se convierten en definitivas si son mantenidas por la sentencia firme de nulidad, separación o divorcio.",
+        "Las medias definitivas sustituyen a las medidas provisionales una vez que haya sentencia firme de nulidad, separación o divorcio.",
+        "El plazo de duración de las medidas provisionalisimas no podrá exceder de sesenta días,        a tenor de las   reglas establecidas en   la   Ley de Enjuiciamiento Civil para el computo de los plazos procesales."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 8 – p. 115 (art. 771 LEC, las medidas provisionalísimas no exceden de treinta días, no sesenta)"
+    },
+    {
+      "pregunta": "El contenido mínimo del convenio regulador:",
+      "opciones": [
+        "Sera el que libremente determinen los cónyuges de mutuo acuerdo.",
+        "Vendra fijado por el juez competente para conocer del procedimiento de nulidad, separación o divorcio.",
+        "Esta recogido en el Código civil."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 8 – p. 117 (el contenido mínimo del convenio regulador está recogido en el art. 90 CC)"
+    },
+    {
+      "pregunta": "Marque la respuesta correcta.   La libertad de configuraci6n del régimen económico matrimonial:",
+      "opciones": [
+        "es plena sin otras limitaciones que las establecidas en el Código Civil.",
+        "depende de la existencia 0 no de bienes privativos previos al matrimonio.",
+        "es inexistente en caso de hijos menores comunes o de hijos de uno cualquiera de cónyuges que convivan en el domicilio familiar."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 9 – p. 147 (art. 1315 CC, libertad de configuración plena sin más límites que el propio Código)"
+    },
+    {
+      "pregunta": "Marque la respuesta correcta. El cónyuge que sea propietario exclusivo del piso que constituya la vivienda familiar: puede donar el piso a quién considere oportuno sin consentimiento del otro cónyuge puede donar el piso a un hijo comun mayor de edad que conviva en la vivienda, sin consentimiento del otro cónyuge ninguna de las dos respuestas anteriores es correcta.",
+      "opciones": [
+        "puede donar el piso a quién considere oportuno sin consentimiento del otro cónyuge",
+        "puede donar el piso a un hijo común mayor de edad que conviva en la vivienda, sin consentimiento del otro cónyuge",
+        "ninguna de las dos respuestas anteriores es correcta."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 9 – p. 149 (art. 1320.1 CC, se requiere siempre el consentimiento de ambos para disponer de la vivienda habitual)"
+    },
+    {
+      "pregunta": "¿Pueden otorgarse capitulaciones matrimoniales antes de la celebración del matrimonio?:",
+      "opciones": [
+        "no, no será posible otorgarlas antes de la celebración del matrimonio.",
+        "si, pero lo que se estipule quedara sin efecto en el caso de no contraerse el matrimonio en el plazo de seis meses.",
+        "si, pero lo que se estipule quedara sin efecto en el caso de no contraerse el matrimonio en el plazo de un año."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 10 – p. 163 (art. 1334 CC, ineficacia si no se contrae matrimonio en el plazo de un año)"
+    },
+    {
+      "pregunta": "Diga qué bienes de los siguientes son gananciales:",
+      "opciones": [
+        "la vivienda familiar, aunque se haya pagado integramente por un sólo cónyuge antes de contraer matrimonio.",
+        "los frutos, rentas e intereses de los bienes privativos y de los bienes gananciales.",
+        "los bienes adquiridos a titulo gratuito   u oneroso durante la vida del régimen de gananciales."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 12 – p. 186 (art. 1347.2º CC, frutos, rentas e intereses son gananciales)"
+    },
+    {
+      "pregunta": "La gesti6n de los bienes gananciales, cómo regla general:",
+      "opciones": [
+        "Corresponde siempre a ambos cónyuges.",
+        "Corresponde cómo regla general a ambos cónyuges, pero puede pactarse su gestion individual.",
+        "Corresponde a cada cónyuge individualmente."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 13 – p. 190 (gestión individual pactada convencionalmente, art. 1439 CC)"
+    },
+    {
+      "pregunta": "No serán de cargo de la sociedad de gananciales, los gastos que se originen:",
+      "opciones": [
+        "Por adquisici6n, tenencia y disfrute de los bienes comunes.",
+        "Por la administración ordinaria de los bienes privativos de cualquiera de los cónyuges.",
+        "Por la educaci6n de los hijos de cualquiera de los cOényuges que no convivan en el hogar familiar."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 14 – p. 215 (art. 1362.1º in fine CC, gastos de hijos no comunes que no residan en el hogar familiar excluidos)"
+    },
+    {
+      "pregunta": "Pueden adoptar:",
+      "opciones": [
+        "sólo los cónyuges -adopcidén conjunta-.",
+        "sólo es posible la adopción individual, pero no la conjunta: ni parejas casadas ni parejas de hecho.",
+        "tanto   las   personas   individuales   -adopción   individual-   cuanto   los cónyuges y las parejas de hecho -adopción conjunta-."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 22 – p. 317 (art. 175.4 CC, adopción individual y conjunta (matrimonio o pareja de hecho))"
+    },
+    {
+      "pregunta": "Forman parte del activo de la sociedad de gananciales:",
+      "opciones": [
+        "Los bienes gananciales existentes en el momento de la disolución y las deudas pendientes a cargo de la sociedad.",
+        "Única y exclusivamente las deudas pendientes.",
+        "Los bienes gananciales existentes en el momento de la disolución."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 15 – p. 225 (art. 1397.1º CC, activo: bienes gananciales existentes al disolverse)"
+    },
+    {
+      "pregunta": "Marque la respuesta correcta. En el computo del parentesco:",
+      "opciones": [
+        "un tio dista de su sobrino dos grados en linea recta descendente.",
+        "un tio dista de su sobrino en dos grados en linea recta.",
+        "un tio dista de su sobrino tres grados en linea colateral."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 18 – p. 261 (art. 918 CC, tío y sobrino distan 3 grados en línea colateral)"
+    },
+    {
+      "pregunta": "Marque la respuesta correcta. La filiación:",
+      "opciones": [
+        "puede tener lugar por naturaleza y por adopción.",
+        "puede tener lugar por naturaleza, por adopción y por consanguinidad.",
+        "ninguna de las dos respuestas anteriores es correcta. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulaci6n de alguna de las 20 preguntas ordinarias que integran el examen."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 19 – p. 316 (art. 108 CC, la filiación puede tener lugar por naturaleza y por adopción)"
+    },
+    {
+      "pregunta": "Maria y Juan están casados y han tenido un hijo. No saben cómo se determina la filiaci6n matrimonial materna y paterna. Señale la respuesta correcta:",
+      "opciones": [
+        "Únicamente por la inscripci6n del nacimiento junto con la del matrimonio de los padres.",
+        "Por la inscripci6n del nacimiento junto con la del matrimonio de los padres o por sentencia firme.",
+        "Por la inscripción del nacimiento o por la sentencia firme."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 19 – p. 273 (art. 115 CC, inscripción del nacimiento junto con la del matrimonio, o sentencia firme)"
+    },
+    {
+      "pregunta": "En la liquidación de la sociedad de gananciales, se considera parte del activo:",
+      "opciones": [
+        "El importe actualizado de las cantidades pagadas por la sociedad que fueran de cargo de un sólo cónyuge.",
+        "Las deudas pendientes a cargo de la sociedad.",
+        "El importe actualizado de las cantidades que, habiendo sido pagadas por un sólo cónyuge, fueran de cargo de la sociedad."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 15 – p. 225 (art. 1397.3º CC, cantidades pagadas por la sociedad de cargo de un solo cónyuge, parte del activo)"
+    },
+    {
+      "pregunta": "Quedan sometidos a patria potestad:",
+      "opciones": [
+        "Todos los hijos o hijas, nacidos durante el matrimonio",
+        "Todos los hijos o hijas menores de edad.",
+        "Todos los hijos e hijas menores de edad, no emancipados"
+      ],
+      "correcta": 2,
+      "cita": "Cap. 12 – p. — (art. 199 CC, tutela restringida a menores no emancipados)"
+    },
+    {
+      "pregunta": "La promesa de matrimonio",
+      "opciones": [
+        "vincula a las dos partes y ninguna de las dos partes puede contraer matrimonio con otra persona hasta que de comun acuerdo decidan dar por finalizados los efectos de la promesa o uno de ellos notifique por via notarial al otro su decisión unilateral de dar por finalizados los efectos.",
+        "puede ser incumplida por cualquiera de las partes y en ese caso se aplica la clausula penal que se haya previsto contractualmente.",
+        "ninguna de las dos respuestas anteriores es correcta."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 2 – p. 32 (art. 43 CC, incumplimiento sin causa solo genera resarcimiento de gastos)"
+    },
+    {
+      "pregunta": "El matrimonio en peligro de muerte queda eximido en todo caso del requisito de:",
+      "opciones": [
+        "La previa tramitación del acta o expediente matrimonial.",
+        "La presencia de dos testigos mayores de edad.",
+        "El dictamen médico de la capacidad para prestar el consentimiento."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 3 – p. 52-53 (art. 52 CC, exención absoluta solo del expediente matrimonial previo)"
+    },
+    {
+      "pregunta": ". La acci6n de divorcio.",
+      "opciones": [
+        "Corresponde a ambos cónyuges siempre que actuen conjuntamente.",
+        "Corresponde a ambos cónyuges sólo cuando actuen por separado.",
+        "Corresponde a ambos cónyuges, ya actuen conjuntamente o por separado."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 7 – p. 102 (art. 86 CC, la acción de divorcio corresponde a ambos cónyuges, juntos o por separado)"
+    },
+    {
+      "pregunta": "La separación de hecho:",
+      "opciones": [
+        "Priva al cónyuge separado de la cuota de legítima correspondiente al cónyuge viudo.",
+        "No tiene ninguna incidencia en la herencia de los cónyuges.",
+        "Únicamente tiene incidencia en la herencia en el supuesto de una separación legal."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 6 – p. 93 (la separación de hecho priva de la cuota legitimaria del viudo)"
+    },
+    {
+      "pregunta": "La sentencia de divorcio produce efectos:",
+      "opciones": [
+        "Ex tunc que se retrotraen al momento de celebración del matrimonio.",
+        "Ex nunc, careciendo de eficacia retroactiva alguna.",
+        "Solo tiene efectos retroactivos ex func respecto de los hijos y el cónyuge de buena fe."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 7 – p. 104 (art. 89 CC, la sentencia de divorcio produce efectos ex nunc)"
+    },
+    {
+      "pregunta": "Admitida la demanda de nulidad, separación o divorcio:",
+      "opciones": [
+        "El uso de la vivienda familiar correspondera al cónyuge titular de los derechos sobre la misma.",
+        "El uso de la vivienda familiar correspondera al coOnyuge no titular si es vulnerable econémicamente pero no tiene derecho a           la justicia gratuita.",
+        "El uso de la vivienda familiar correspondera al cónyuge no titular si así lo exige el interés familiar mas necesitado de protección."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 8 – p. 125 (art. 96 CC, uso de la vivienda familiar según el interés más necesitado de protección)"
+    },
+    {
+      "pregunta": "Marque la respuesta correcta. En el régimen económico matrimonial de separación de bienes:",
+      "opciones": [
+        "el Código Civil impone que la contribuci6n a las cargas del matrimonio sea proporcional a los respectivos recursos economicos de los cónyuges.",
+        "el Cdédigo Civil establece que, a falta de convenio, la contribuci6n a las cargas   del   matrimonio   sea   proporcional   a   los   respectivos   recursos economicos de los cónyuges.",
+        "el Código Civil exige que la contribución a las cargas del matrimonio sea igual para ambos cónyuges, por aplicación del principio de igualdad."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 14 – p. 240 (art. 1438 CC, a falta de convenio, contribución proporcional a los recursos económicos)"
+    },
+    {
+      "pregunta": "Las donaciones por razón de matrimonio...",
+      "opciones": [
+        "Son irrevocables.",
+        "Son revocables por supervivencia de hijos.",
+        "Ambas respuestas son incorrectas."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 11 – p. 172 (art. 1343 CC, revocables por causas comunes salvo supervivencia de hijos)"
+    },
+    {
+      "pregunta": "Los bienes adquiridos a costa o en sustitución de bienes privativos son ...",
+      "opciones": [
+        "bienes privativos.",
+        "bienes gananciales si se trata de la vivienda familiar.",
+        "ninguna de las respuestas anteriores es correcta."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 12 – p. 183 (art. 1346.3º CC, bienes adquiridos a costa o en sustitución de privativos son privativos)"
+    },
+    {
+      "pregunta": "En el régimen de gananciales, cada cónyuge podrá tomar un anticipo de fondos gananciales para destinarlo al ejercicio de su profesión:",
+      "opciones": [
+        "Libremente, sin consentimiento del otro cónyuge.",
+        "Para ello necesitara el consentimiento del otro cónyuge.",
+        "Debera informar al otro cónyuge, pero no necesitara su consentimiento."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 13 – p. 199 (art. 1382 CC, anticipo sin consentimiento pero siempre con conocimiento del otro cónyuge)"
+    },
+    {
+      "pregunta": "En la liquidación de la sociedad de gananciales, una vez pagadas las deudas y cargas de la sociedad:",
+      "opciones": [
+        "Se abonaran los gastos hipotecarios.",
+        "Se abonaran las indemnizaciones y reintegros debidos a cada cónyuge.",
+        "Se abonaran los pagos a los trabajadores."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 15 – p. 224-225 (art. 1403 CC, tras pagar deudas y cargas se abonan indemnizaciones y reintegros)"
+    },
+    {
+      "pregunta": "Emilio y M? Pilar, casados en régimen de gananciales, se separan de hecho por acuerdo mutuo entre ambos. Tanto Emilio cómo M? Pilar pueden solicitar al juez la disolución de la sociedad de gananciales, siempre que:",
+      "opciones": [
+        "Hayan transcurrido mas de 2 años de dicha separación.",
+        "Haya transcurrido mas de 1 año de dicha separación.",
+        "Hayan transcurrido mas de 3 años de dicha separación."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 15 – p. 223 (art. 1393.3º CC, separación de hecho de más de un año)"
+    },
+    {
+      "pregunta": "Precise en qué caso NO se aplica por ministerio de la ley el régimen de separación de bienes:",
+      "opciones": [
+        "Una vez admitida la demanda de nulidad, separación o divorcio.",
+        "Cuándo se disuelve el régimen de gananciales a consecuencia del embargo de bienes comunes por deudas propias de uno de los cónyuges.",
+        "Cuándo se decreta judicialmente la separación de los cónyuges."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 15 – p. 223 (la sociedad de gananciales subsiste hasta la firmeza de la sentencia)"
+    },
+    {
+      "pregunta": "Maria está embarazada y Juan, cómo futuro padre quiere reconocer a su hijo nasciturus (concebido y no nacido):",
+      "opciones": [
+        "Juan puede realizar el reconocimiento del nasciturus de forma aislada y por separado, sin contar con la madre.",
+        "Solo puede reconocer al nasciturus la madre y nunca el padre porque la maternidad viene determinada por el parto.",
+        "Ambos      pueden    reconocer   conjuntamente   el   reconocimiento   del nascisturus"
+      ],
+      "correcta": 2,
+      "cita": "Cap. 19 – p. 281 (art. 122 CC, el padre no puede reconocer al nasciturus aislado, sí conjuntamente)"
+    },
+    {
+      "pregunta": "La patria potestad es:",
+      "opciones": [
+        "Un derecho subjetivo.",
+        "Un derecho subjetivo atribuido al patriarca familiar.",
+        "Un conjunto de poderes y facultades que el ordenamiento otorga a los progenitores para que los ejerciten en beneficio de los hijos."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 23 – p. 340 (art. 154 CC, conjunto de poderes y facultades en beneficio de los hijos)"
+    },
+    {
+      "pregunta": "Paca, de treinta años, es tia de Alberto, de cinco años, quién recientemente se ha quedado huérfano de padre y madre. Paca quiere adoptar a Alberto ya que viven en la misma ciudad y tienen muy buena relación. ¿Podra hacerlo?",
+      "opciones": [
+        "no, los tios no pueden adoptar a sus sobrinos.",
+        "si, los tios pueden adoptar a sus sobrinos y por la diferencia de edad entre ellos, es posible.",
+        "no, no puede adoptar a su sobrino por no cumplir la diferencia de edad legal requerida."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 22 – p. 318-319 (art. 175.1 y 175.3 CC, tíos y sobrinos (3er grado colateral) no está prohibido)"
+    },
+    {
+      "pregunta": "El principio de igualdad conyugal está recogido:",
+      "opciones": [
+        "En la Constitución espafola.",
+        "En el Código civil.",
+        "Ambas respuestas son correctas."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 2 – p. 30/62 (principio de igualdad conyugal recogido en la CE y en el CC)"
+    },
+    {
+      "pregunta": "Las rentas del alquiler de un piso privativo de uno de los cónyuges casados en régimen de gananciales, constituye un bien:",
+      "opciones": [
+        "Ganancial.",
+        "Privativo del propietario del piso.",
+        "Mixto de la sociedad de gananciales y del cónyuge propietario del piso."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 12 – p. 186 (art. 1347.2º CC, los frutos de bienes privativos son gananciales)"
+    },
+    {
+      "pregunta": "El parentesco por consanguinidad",
+      "opciones": [
+        "puede ser en linea recta o en linea colateral.",
+        "es el que existe entre los parientes por afinidad.",
+        "desaparecié de nuestro ordenamiento como consecuencia del principio constitucional de laicidad."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 18 – p. 261 (art. 918 CC, parentesco por consanguinidad en línea recta o colateral)"
+    },
+    {
+      "pregunta": "¿ Puede el juez nombrar tutor a quién los progenitores hayan excluido cómo tutores?",
+      "opciones": [
+        "No.",
+        "Sdlo si así lo exige el principio del interés superior del menor.",
+        "Ninguna de las dos respuestas anteriores es correcta. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulaci6n de alguna de las 20 preguntas ordinarias que integran el examen."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 25 – p. 375 (art. 234 CC, orden de preferencia para el nombramiento de tutor)"
+    },
+    {
+      "pregunta": "Si hay doble filiación y los progenitores no están de acuerdo en el orden de los apellidos del menor:",
+      "opciones": [
+        "encaso de que los progenitores sean de distinto sexo, se aplica el sistema de sorteo notarial.",
+        "encaso de que los progenitores sean del mismo sexo, se aplica el sistema de sorteo notarial.",
+        "ninguna de las dos respuestas anteriores es correcta."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 18 – p. 268 (el sorteo notarial es una propuesta política criticada, no la regla legal (interés superior del menor))"
+    },
+    {
+      "pregunta": "Marque el enunciado correcto:",
+      "opciones": [
+        "La filiación extramatrimonial       0 no matrimonial se determina mediante presunciones   de     paternidad,    al   igual   que   sucede   con   la   filiación matrimonial.",
+        "La filiación extramatrimonial   o no matrimonial se determina, entre otros modos, fundamentalmente por el reconocimiento ante el Encargado del Registro Civil, en testamento, o también por sentencia firme.",
+        "La filiación extramatrimonial o no matrimonial se determina sólo ante Notario."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 19 – p. 277 (art. 120 CC, reconocimiento ante el Encargado del RC, en testamento o por sentencia firme)"
+    },
+    {
+      "pregunta": "Es necesaria la dispensa para contraer matrimonio entre:",
+      "opciones": [
+        "Tios y sobrinos.",
+        "Primos.",
+        "Padres e hijos adoptivos."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 3 – p. 41 (art. 47.2ª CC, colaterales hasta el 3er grado (tíos y sobrinos) requieren dispensa)"
+    },
+    {
+      "pregunta": "El Código civil espanol:",
+      "opciones": [
+        "Solo admite el matrimonio religioso",
+        "Solo admite el matrimonio civil.",
+        "Ambas respuestas son incorrectas."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 3 – p. 19/55 (art. 60 CC, matrimonio civil y religioso con efectos civiles)"
+    },
+    {
+      "pregunta": "Las capitulaciones matrimoniales otorgadas antes de contraer matrimonio:",
+      "opciones": [
+        "Quedaran sin efecto si el matrimonio no se contrae en el plazo de dos años.",
+        "Quedaran sin efecto si el matrimonio no se contrae en el plazo de tres meses.",
+        "Quedaran sin efecto si el matrimonio no se contrae en el plazo de un año."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 10 – p. 163 (art. 1334 CC, ineficacia si no se contrae matrimonio en el plazo de un año)"
+    },
+    {
+      "pregunta": "La acción de resarcimiento por incumplimiento sin causa de la promesa de matrimonio caducara:",
+      "opciones": [
+        "Al año contado desde la negativa a la celebración de matrimonio.",
+        "A los tres años contados desde la negativa a la celebraci6n de matrimonio.",
+        "Es imprescriptible."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 2 – p. 32 (art. 43 CC, caducidad al año desde la negativa a la celebración)"
+    },
+    {
+      "pregunta": "Juan está casado con Maria. Un día, Juan resulta asesinado por un mafioso, que termina siendo detenido y condenado por ello. Maria consigue un permiso para ir a ver al mafioso a la carcel para reprocharle el asesinato, pero, sin embargo, tras esa entrevista y otras posteriores, terminan enamorandose y desean contraer matrimonio. ¿Podran?",
+      "opciones": [
+        "Si, pero sólo con dispensa judicial.",
+        "Si, sin necesidad de dispensa, porque no estuvieron de acuerdo para asesinar a Juan y no hay impedimento matrimonial.",
+        "No, en ningún caso, porque hay un impedimento matrimonial."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 3 – p. 41 (art. 47.3ª CC, el impedimento exige participación en la muerte dolosa del cónyuge)"
+    },
+    {
+      "pregunta": "Calixto, de 17 años, y Melibea, de 16 años, desean contraer matrimonio. ¿Es posible?",
+      "opciones": [
+        "No, en ningún caso, porque hay un impedimento matrimonial.",
+        "Si, si ambos se emanciparan previamente.",
+        "Si, pero sólo con dispensa judicial."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 3 – p. 38 (edad mínima de emancipación, 16 años)"
+    },
+    {
+      "pregunta": "No es competente para tramitar el expediente previo a la celebración del matrimonio:",
+      "opciones": [
+        "El alcalde.",
+        "El funcionario diplomático o consular.",
+        "El encargado del Registro Civil."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 3 – p. 46 (art. 51 CC, el alcalde solo interviene en la celebración, no en el expediente)"
+    },
+    {
+      "pregunta": "Marque la única frase totalmente correcta de entre las tres siguientes:",
+      "opciones": [
+        "La presunción de convivencia permite al cónyuge exigir al otro que resida en la vivienda privativa.",
+        "Si uno de los cónyuges se muda temporalmente a otro domicilio distinto del conyugal, se pierde la presunción de convivencia y con ello el deber de ayuda y socorro.",
+        "Se presume, salvo prueba en contrario, que los coOnyuges viven juntos."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 4 – p. 63 (art. 69 CC, presunción de convivencia salvo prueba en contrario)"
+    },
+    {
+      "pregunta": "Los cónyuges pueden celebrar contratos entre si:",
+      "opciones": [
+        "En todos los casos.",
+        "En ningún caso.",
+        "Excepto celebrar donaciones remuneratorias."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 11 – p. 174 (art. 1323 CC, los cónyuges pueden celebrar entre sí toda clase de contratos)"
+    },
+    {
+      "pregunta": "El matrimonio celebrado por coacción o miedo grave es:",
+      "opciones": [
+        "Nulo.",
+        "Anulable.",
+        "Rescindible por lesidn."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 5 – p. 74-76 (art. 73.5ª CC, matrimonio nulo por coacción o miedo grave)"
+    },
+    {
+      "pregunta": "En caso de reconciliación de un matrimonio separados judicialmente:",
+      "opciones": [
+        "Es necesario que vuelvan a contraer matrimonio.",
+        "Ambos cónyuges deberan ponerlo en conocimiento del juez que entienda o haya entendido del litigio, para que surta efecto la reconciliaci6n.",
+        "La mera reconciliación es suficiente y anula la sentencia de separación."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 6 – p. 90 (art. 84 CC, la reconciliación debe ponerse en conocimiento del juez)"
+    },
+    {
+      "pregunta": "Luis y Berta están casados. Un día Luis desaparece y, cumplidos los correspondientes    requisitos,   se   le   declara   fallecido.   Berta    contrae   nuevo matrimonio con Jorge,     pero Luis vuelve a aparecer vivo.                ¿Cual de estos matrimonios es valido y efectivo actualmente?",
+      "opciones": [
+        "El de Luis y Berta.",
+        "El de Jorge y Berta.",
+        "Ninguno de ellos, porque se anulan mutuamente."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 7 – p. 98 (el matrimonio del cónyuge presente con un tercero es válido tras la declaración de fallecimiento)"
+    },
+    {
+      "pregunta": "En caso de divorcio de mutuo acuerdo, ¿será necesario aportar con la demanda un convenio regulador?",
+      "opciones": [
+        "Si, siempre.",
+        "No, porque las medidas reguladoras de los efectos del divorcio se fijan judicialmente.",
+        "No, porque el convenio regulador se puede acordar por los cónyuges una vez divorciados."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 7 – p. 101 (art. 81/86-87 CC, el divorcio de mutuo acuerdo exige convenio regulador)"
+    },
+    {
+      "pregunta": "¿Quién de estos funcionarios tiene competencia para determinar el divorcio?",
+      "opciones": [
+        "El Alcalde 0 concejal en quién delegue.",
+        "El Notario.",
+        "El funcionario diplomático o consular, en ejercicio de sus funciones notariales."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 7 – p. 101 (art. 87 CC, los funcionarios diplomáticos/consulares no pueden autorizar la escritura de divorcio)"
+    },
+    {
+      "pregunta": "En caso de matrimonio putativo, el cónyuge de buena fe:",
+      "opciones": [
+        "Podra pedir una indemnización, en todo caso.",
+        "Podra pedir una indemnización si ha habido convivencia.",
+        "No podrá pedir indemnización."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 8 – p. 133 (art. 98 CC, indemnización al cónyuge de buena fe si ha habido convivencia)"
+    },
+    {
+      "pregunta": "Las capitulaciones, para que sean validas:",
+      "opciones": [
+        "Deberan constar en escritura pública.",
+        "Pueden constar en documento privado.",
+        "Pueden constar en documento privado, pero han de convalidarse en el plazo de un año."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 10 – p. 159 (art. 1327 CC, escritura pública)"
+    },
+    {
+      "pregunta": "En las donaciones por razón de matrimonio, los futuros esposos:",
+      "opciones": [
+        "podran donarse bienes presentes e igualmente podran donarse antes del matrimonio en capitulaciones matrimoniales bienes futuros, sólo para el caso de muerte y según las normas de la sucesión testada.",
+        "sólo podran donarse bienes presentes.",
+        "no podran donarse ningún bien en consideración a su matrimonio."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 11 – p. 169 (art. 1341 CC, bienes presentes y, en capitulaciones, bienes futuros para caso de muerte)"
+    },
+    {
+      "pregunta": "En la sociedad de gananciales, si ambos cónyuges resultan beneficiados conjuntamente, ya sea por testamento o ya sea por donación:",
+      "opciones": [
+        "Los bienes donados o dejados en testamento            a ambos cónyuges conjuntamente y sin especial designación de partes,           se entenderan gananciales, si ambos aceptan la liberalidad, y el donante o testador no hubiere dispuesto lo contrario.",
+        "Los bienes donados o dejados en testamento a ambos cdonyuges conjuntamente y sin especial designación de partes,           se entenderan privativos, siendo necesario que los cónyuges echen a suertes para decidir a quién pertenecen.",
+        "No es posible dejar a ambos cónyuges conjuntamente en donaciéon o en testamento ningún tipo de bien."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 12 – p. 187 (art. 1353 CC, bienes donados o legados conjuntamente se presumen gananciales)"
+    },
+    {
+      "pregunta": "El reconocimiento de la filiaci6n extramatrimonial:",
+      "opciones": [
+        "puede efectuarse por el padre y por la madre.",
+        "puede efectuarse por el padre, pero no por la madre.",
+        "sólo puede efectuarse en testamento."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 19 – p. 277 (art. 120 CC, el reconocimiento puede efectuarlo el padre y la madre)"
+    },
+    {
+      "pregunta": "Maria, de 28 años, quiere adoptar a su hermano pequeno, de 15, ante el fallecimiento de los padres de ambos- ¿,Podria hacerlo?",
+      "opciones": [
+        "No. En ningún caso.",
+        "Si, pero con dispensa.",
+        "Ninguna de las respuestas anteriores es correcta."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 22 – p. 319 (art. 175.3.2ª CC, prohibición no dispensable entre colaterales de 2º grado (hermanos))"
+    },
+    {
+      "pregunta": "Pueden ser tutores:",
+      "opciones": [
+        "Las personas físicas, pero las personas jurídicas no.",
+        "Las personas físicas y cualquier persona jurídica.",
+        "Las personas físicas y las fundaciones y demás personas jurídicas sin animo de lucro, entre cuyos fines esté la protección de menores. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulación de alguna de las 20 preguntas ordinarias que integran el examen."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 25 – p. 375 (art. 242 CC, personas físicas y personas jurídicas sin ánimo de lucro)"
+    },
+    {
+      "pregunta": "El Código civil por lo que al matrimonio se refiere dispone:",
+      "opciones": [
+        "Un sistema de matrimonio único.",
+        "Un sistema electivo material.",
+        "Un sistema electivo formal."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 3 – p. 29 (sistema electivo formal, de forma múltiple y clase única)"
+    },
+    {
+      "pregunta": "En las donaciones por razón de matrimonio otorgadas por terceros:",
+      "opciones": [
+        "no se podran revocar.",
+        "se pueden revocar si el donatario está de acuerdo, y siempre que quiera devolver lo recibido.",
+        "se reputara incumplimiento de cargas, además de cualquiera otras especificas a que pudiera haberse subordinado la donación, la anulaci6n del matrimonio por cualquier causa."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 11 – p. 173 (art. 1343.2 CC, la anulación del matrimonio se reputa incumplimiento de cargas)"
+    },
+    {
+      "pregunta": "Ante las personas que tienen un antepasado comun se habla de:",
+      "opciones": [
+        "Parentesco en linea recta.",
+        "Parentesco en linea colateral.",
+        "Parentesco adoptivo."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 18 – p. 259 (parentesco colateral: antepasado común)"
+    },
+    {
+      "pregunta": "A tenor del Código civil espanol:",
+      "opciones": [
+        "El matrimonio homosexual es valido si los contrayentes son mayores de 25 años.",
+        "El matrimonio homosexual     no es valido si se trata de menores emancipados",
+        "El matrimonio homosexual está sometido a los mismos requisitos que el matrimonio heterosexual."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 3 – p. 19 (art. 44 CC, mismos requisitos para el matrimonio homosexual y heterosexual)"
+    },
+    {
+      "pregunta": "Las relaciones jurídico-civiles relativas a las formas de matrimonio:",
+      "opciones": [
+        "Son competencia exclusiva de la Unión Europea.",
+        "Son competencia exclusiva del Estado.",
+        "Son una competencia compartida entre el Estado y las Comunidades Autonomas."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 2 – p. 30 (art. 149.1.8ª CE, competencia exclusiva del Estado)"
+    },
+    {
+      "pregunta": "La promesa cierta de matrimonio:",
+      "opciones": [
+        "Produce efectos legales y produce obligación de contraerlo, salvo justa causa.",
+        "Produce efectos legales y genera obligación de cumplir lo que se hubiera estipulado para el supuesto de su no celebración.",
+        "Solo producirá la obligación de resarcir a la otra parte de los gastos hechos y las obligaciones contraidas en consideración al matrimonio prometido."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 2 – p. 32 (art. 43 CC, solo resarcimiento de gastos)"
+    },
+    {
+      "pregunta": "Pedro desea contraer matrimonio con su sobrina Clara. ¿Podra hacerlo?",
+      "opciones": [
+        "Si, en todo caso.",
+        "No, en ningún caso, porque son parientes proximos.",
+        "Si, si obtienen dispensa judicial del impedimento."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 3 – p. 41 (art. 47.2ª y 48 CC, tíos y sobrinos, 3er grado colateral, dispensable)"
+    },
+    {
+      "pregunta": "Romeo, de 18 años, y Julieta, de 15 años, desean contraer matrimonio. ¿Es posible?",
+      "opciones": [
+        "Si, porque Romeo ya es mayor de edad.",
+        "Si, pero sólo con dispensa judicial.",
+        "No, en ningún caso, porque hay un impedimento matrimonial."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 3 – p. 38 (edad mínima 16 años para emancipación; a los 15 impedimento absoluto)"
+    },
+    {
+      "pregunta": "Las capitulaciones matrimoniales se pueden otorgar:",
+      "opciones": [
+        "Solo después de contraer matrimonio.",
+        "Solo antes de contraer matrimonio.",
+        "Antes y después de contraer matrimonio"
+      ],
+      "correcta": 2,
+      "cita": "Cap. 10 – p. 157 (art. 1326 CC, antes o después del matrimonio)"
+    },
+    {
+      "pregunta": "£El deber de ayuda y socorro entre los cónyuges comprende la obligaci6én de alimentos entre los cónyuges?",
+      "opciones": [
+        "Si.",
+        "Si, pero está condicionado a que el cónyuge beneficiario de la ayuda respete las decisiones del otro sobre el interés superior del menor.",
+        "Si, pero los cónyuges sólo tienen que prestarse ayuda y socorro cuando viven bajo el mismo techo."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 4 – p. 62 (art. 68 CC, socorrerse mutuamente incluye la obligación de alimentos)"
+    },
+    {
+      "pregunta": "Las donaciones entre cónyuges:",
+      "opciones": [
+        "Estan expresamente prohibidas en el cddigo Civil.",
+        "Estan permitidas.",
+        "Estan prohibidas las donaciones remuneratorias."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 11 – p. 174 (art. 1323 CC, donaciones entre cónyuges plenamente lícitas)"
+    },
+    {
+      "pregunta": "El matrimonio celebrado entre dos hermanos es:",
+      "opciones": [
+        "Anulable.",
+        "Nulo de pleno derecho.",
+        "Ninguna de las respuestas anteriores es correcta."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 3 – p. 41-43 (art. 47.2ª y 48 CC, hermanos (2º grado colateral) es impedimento no dispensable)"
+    },
+    {
+      "pregunta": "Un matrimonio nulo contraido de buena fe al menos por un cónyuge es:",
+      "opciones": [
+        "Anulable, pero se puede confirmar.",
+        "Es un matrimonio putativo.",
+        "Ninguna de las respuestas anteriores es correcta."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 5 – p. 77 (matrimonio putativo)"
+    },
+    {
+      "pregunta": "El cédigo civil exige que para poder entablar demanda de separación:",
+      "opciones": [
+        "Hayan transcurrido, al menos, un año desde la celebración del matrimonio.",
+        "Hayan     transcurrido,   al   menos,   seis   meses   desde   la   celebración   del matrimonio.",
+        "Hayan    transcurrido,    al   menos,    tres   meses   desde    la   celebración    del matrimonio, salvo las excepciones previstas en el cédigo, en cuyo caso no será necesario plazo alguno."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 6 – p. 88 (art. 81-82 CC, tres meses desde la celebración salvo excepciones)"
+    },
+    {
+      "pregunta": "Antonio y Concha están casados. Un día Antonio desaparece y, cumplidos los correspondientes requisitos, se le declara fallecido. ~Cual es su situaci6én actual?",
+      "opciones": [
+        "Siguen      casados,    porque     ambos    están   vivos,    aunque   pueden divorciarse.",
+        "Siguen casados, por lo que deben iniciar un procedimiento de divorcio para regularizar su situación.",
+        "No están casados, porque la declaración de fallecimiento disolvid el matrimonio, pero pueden volver a casarse."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 7 – p. 97 (art. 85 CC, la declaración de fallecimiento disuelve el matrimonio)"
+    },
+    {
+      "pregunta": "En    caso   de   divorcio   tramitado   por el   procedimiento     contencioso,    el funcionario competente será:",
+      "opciones": [
+        "El Juez.",
+        "El Letrado de la Administración de Justicia (Secretario Judicial).",
+        "Cualquiera de ellos."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 7 – p. 104-105 (el divorcio contencioso requiere sentencia judicial)"
+    },
+    {
+      "pregunta": "En un procedimiento de nulidad,             separaci6n o divorcio,       las llamadas medidas provisionalisimas 0 previas:",
+      "opciones": [
+        "Se derivan de la admisioOn de la demanda y con anterioridad a la sentencia.",
+        "Se pueden adoptar con anterioridad a la presentación de la demanda.",
+        "Se adoptan con la sentencia y con anterioridad a su ejecución."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 8 – p. 115 (medidas provisionalísimas previas a la demanda)"
+    },
+    {
+      "pregunta": "En unas capitulaciones matrimoniales:",
+      "opciones": [
+        "Podria reconocerse un hijo prematrimonial.",
+        "Solamente podrá modificarse en régimen económico del matrimonio.",
+        "Ninguna de las respuestas anteriores es correcta."
+      ],
+      "correcta": 0,
+      "cita": "Cap. 10 – p. 160 (contenido atípico de las capitulaciones: reconocimiento de hijo extramatrimonial)"
+    },
+    {
+      "pregunta": "Las donaciones por raz6n de matrimonio, podran realizarlas:",
+      "opciones": [
+        "sólo los cónyuges entre si.",
+        "sólo los familiares de los futuros cónyuges.",
+        "cualquier persona."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 11 – p. 169 (art. 1336 CC, cualquier persona puede donar por razón de matrimonio)"
+    },
+    {
+      "pregunta": "Juan y Maria están casados en gananciales. Diga si los siguientes bienes son privativos o gananciales:",
+      "opciones": [
+        "El coche que compro Juan de soltero, el piso de la playa que hered6 Juan de sus tios y su sueldo: todos son bienes privativos.",
+        "El coche que compro Juan de soltero y el piso de la playa que hered6 Juan de sus tios son privativos; pero su sueldo es ganancial.",
+        "El coche que compro Juan de soltero es privativo; pero el piso de la playa que heredo Juan de sus tios y su sueldo son gananciales."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 12 – p. 183-184 (arts. 1346.2º y 1347.1º CC, herencia privativa y sueldo ganancial)"
+    },
+    {
+      "pregunta": "El parentesco por afinidad es un vínculo estrictamente personal entre:",
+      "opciones": [
+        "Hermanos.",
+        "Padre e hijo.",
+        "Un cónyuge y el cufado."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 18 – p. 259 (parentesco por afinidad: cónyuge y parientes consanguíneos del otro (cuñado))"
+    },
+    {
+      "pregunta": "La tutela es una figura de protecci6n que se establece en beneficio de:",
+      "opciones": [
+        "Los menores y los mayores en situación de desamparo y no sujetos a patria potestad.",
+        "Los menores no emancipados en situación de desamparo, y los menores no emancipados no sujetos a patria potestad.",
+        "Los menores no emancipados en situación de desamparo, y los mayores sujetos a patria potestad."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 25 – p. 375 (art. 199 CC, tutela restringida a menores no emancipados)"
+    },
+    {
+      "pregunta": "Los cónyuges divorciados:",
+      "opciones": [
+        "Tienen derecho de alimentos si se da una situaci6n de desequilibrio económico.",
+        "Tienen derecho de alimentos durante tres años después de haberse divorciado.",
+        "No tienen derecho de alimentos. PREGUNTAS DE RESERVA Las siguientes preguntas tienen la condición de preguntas de reserva. Estas preguntas sólo serán tenidas en cuenta y, por el orden en que aparecen, en el caso de que se produzca la anulación de alguna de las 20 preguntas ordinarias que integran el examen."
+      ],
+      "correcta": 2,
+      "cita": "Cap. 24 – p. 355 (los cónyuges divorciados no tienen derecho de alimentos)"
+    },
+    {
+      "pregunta": "Los actos de disposición a titulo oneroso de bienes gananciales realizados sin el consentimiento de ambos cónyuges son:",
+      "opciones": [
+        "Nulos de pleno derecho.",
+        "Anulables.",
+        "Rescindibles sólo por los acreedores perjudicados."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 13 – p. 193 (art. 1322.1 CC, anulables)"
+    },
+    {
+      "pregunta": "El conjunto normativo del Céddigo Civil que contiene reglas basicas del régimen económico matrimonial, con independencia de cual sea el régimen económico-matrimonial aplicable al matrimonio, es denominado:",
+      "opciones": [
+        "El régimen matrimonial esencial.",
+        "El régimen matrimonial primario.",
+        "El régimen matrimonial básico."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 9 – p. 146 (régimen matrimonial primario, expresión doctrinal de Lacruz Berdejo)"
+    },
+    {
+      "pregunta": "Cosme y Damaso forman una pareja de hecho registrada. Cosme conoce a Andrea y quieren contraer matrimonio. ~Es posible?",
+      "opciones": [
+        "No, en ningún caso, porque hay un impedimento matrimonial.",
+        "Si, en todo caso.",
+        "Si, pero sólo con dispensa judicial."
+      ],
+      "correcta": 1,
+      "cita": "Cap. 3 – p. — (la pareja de hecho registrada no genera impedimento matrimonial de ligamen)"
+    }
+  ]
+}
