@@ -6,6 +6,1006 @@
   },
   "preguntas": [
     {
+      "pregunta": "Las normas jurídicas se caracterizan por:",
+      "opciones": [
+        "Alteridad, Sociabilidad e interioridad.",
+        "Interioridad, no coercibilidad y sanción objetiva.",
+        "Coercibilidad, sanción objetiva y exterioridad"
+      ],
+      "correcta": 2,
+      "cita": "Tema 1/14, p. 33/266 (normas jurídicas: coercibilidad, sanción objetiva y exterioridad)"
+    },
+    {
+      "pregunta": "El núcleo de la dimensión moral radica en:",
+      "opciones": [
+        "La conciencia individual",
+        "La libertad de pensamiento",
+        "La conciencia colectiva"
+      ],
+      "correcta": 0,
+      "cita": "Tema 1, p. 36 (centro de gravedad de la dimensión moral: la conciencia individual)"
+    },
+    {
+      "pregunta": "Las relaciones jurídicas están reguladas por:",
+      "opciones": [
+        "Los derechos subjetivos",
+        "Las facultades y poderes de los sujetos",
+        "Las normas jurídicas"
+      ],
+      "correcta": 2,
+      "cita": "Tema 3, p. 63 (relación jurídica regulada por normas jurídicas)"
+    },
+    {
+      "pregunta": "Las normas de Derecho Público son, por lo general:",
+      "opciones": [
+        "Preceptivas y excluyen los pactos en contrario",
+        "Preceptivas y no excluyen los pactos en contrario",
+        "Dispositivas y excluyen los pactos en contrario"
+      ],
+      "correcta": 0,
+      "cita": "Tema 4, p. 100 (normas de Derecho Público, por lo general, preceptivas)"
+    },
+    {
+      "pregunta": "Cuando a rmamos que los derechos subjetivos pueden ser absolutos o relativos, estamos haciendo referencia a:",
+      "opciones": [
+        "Tipos de derecho subjetivo en relación con las facultades que otorgan a sus titulares",
+        "Tipos de derecho subjetivo en relación con el sujeto pasivo",
+        "Tipos de derecho subjetivo en relación a su ámbito de ejercicio"
+      ],
+      "correcta": 1,
+      "cita": "Tema 4, p. 87 (derecho subjetivo absoluto/relativo según el sujeto pasivo)"
+    },
+    {
+      "pregunta": "Algunos de los siguientes caracteres NO son propios del deber jurídico:",
+      "opciones": [
+        "La norma y la sanción",
+        "La sanción y la posibilidad de su imposición coactiva",
+        "El ejercicio del derecho y su pretensión y defensa"
+      ],
+      "correcta": 2,
+      "cita": "Tema 4, p. 91 (presupuestos del deber jurídico: norma, coacción y sanción)"
+    },
+    {
+      "pregunta": "El sujeto social llamado a poseer el pleno control de la actividad creadora de Derecho es:",
+      "opciones": [
+        "Las Cámaras Legislativas",
+        "El Poder Judicial",
+        "El Estado"
+      ],
+      "correcta": 2,
+      "cita": "Tema 4, p. 80 (ni gobiernos ni parlamentos tienen en exclusiva la potestad de crear Derecho)"
+    },
+    {
+      "pregunta": "Según Pérez-Luño las fuentes jurídicas materiales son:",
+      "opciones": [
+        "El conjunto de hechos que determinan la existencia de cada norma en un determinado espacio y tiempo.",
+        "Los sujetos a los que corresponde la facultad de crear nuevas normas jurídicas",
+        "Los sujetos a los que corresponde identificar las situaciones susceptibles de ser normativizadas."
+      ],
+      "correcta": 1,
+      "cita": "Tema 5, p. 105 (pluralidad y variedad normativa: diversidad de fuentes materiales y formales)"
+    },
+    {
+      "pregunta": "Dentro de las funciones del Derecho destacan:",
+      "opciones": [
+        "Función de integración y control",
+        "Función de legitimación y limitación del poder político",
+        "Ambas respuestas son correctas"
+      ],
+      "correcta": 2,
+      "cita": "Tema 9, p. 159 (funciones del Derecho: organización/control y legitimación/limitación del poder)"
+    },
+    {
+      "pregunta": "Algunos de los medios a través de los que ejerce el Derecho la función de integración y control son:",
+      "opciones": [
+        "Técnicas protectoras y represivas",
+        "Técnicas de información para su conocimiento",
+        "Técnicas de divulgación"
+      ],
+      "correcta": 0,
+      "cita": "Tema 9, p. 161 (técnicas protectoras y represivas, medios de control social)"
+    },
+    {
+      "pregunta": "La concepción de AUSTIN sobre la naturaleza de las normas jurídicas supone que las normas:",
+      "opciones": [
+        "Tienen una validez objetiva e independiente.",
+        "Tienen una validez subjetiva y psicológica.",
+        "Ambas respuestas son incorrectas."
+      ],
+      "correcta": 2,
+      "cita": "Tema 5, p. 95 (Austin: mandato del soberano impide validez normativa objetiva e independiente)"
+    },
+    {
+      "pregunta": "Según la doctrina kelseniana, la norma que establece “El que matare a otro será castigado, como reo de homicidio, con la pena de prisión de 10 a 15 años”, es:",
+      "opciones": [
+        "una norma completa.",
+        "una norma incompleta.",
+        "una norma de reconocimiento."
+      ],
+      "correcta": 0,
+      "cita": "Tema 5, p. 101 (Kelsen: normas completas (incluyen la sanción) frente a incompletas)"
+    },
+    {
+      "pregunta": "En la doctrina de Hart las normas que establecen los criterios de validez jurídica son:",
+      "opciones": [
+        "las reglas primarias",
+        "las reglas de organización",
+        "las reglas de reconocimiento"
+      ],
+      "correcta": 2,
+      "cita": "Tema 5, p. 98 (Hart: reglas de reconocimiento)"
+    },
+    {
+      "pregunta": "Si dos normas de un mismo ordenamiento jurídico son contradictorias, pero no coincide totalmente su ámbito de aplicación:",
+      "opciones": [
+        "No existirá antinomia jurídica.",
+        "Habrá una antinomia jurídica.",
+        "No podrán ser aplicadas."
+      ],
+      "correcta": 1,
+      "cita": "Tema 6, p. 121 (antinomia: basta la coincidencia total o parcial del ámbito de validez)"
+    },
+    {
+      "pregunta": "El criterio de jerarquía normativa se puede utilizar para:",
+      "opciones": [
+        "Dotar de coherencia al ordenamiento jurídico.",
+        "Dotar de plenitud al ordenamiento jurídico.",
+        "Dotar de eficacia al ordenamiento jurídico."
+      ],
+      "correcta": 0,
+      "cita": "Tema 6, p. 121 (criterio de jerarquía normativa: dota de coherencia al ordenamiento)"
+    },
+    {
+      "pregunta": "El método de interpretación jurídica que analiza el sentido y alcance de las normas a partir de las circunstancias políticas, jurídicas y sociales existentes en el momento de su promulgación se denomina:",
+      "opciones": [
+        "Método teleológico.",
+        "Método histórico.",
+        "Método sistemático."
+      ],
+      "correcta": 1,
+      "cita": "Tema 7, p. 135 (método histórico: origen de la norma en su momento de promulgación)"
+    },
+    {
+      "pregunta": "La interpretación llevada a cabo por los abogados en su labor profesional se puede integrar en la clase denominada:",
+      "opciones": [
+        "Interpretación privada.",
+        "Interpretación pública.",
+        "Interpretación auténtica."
+      ],
+      "correcta": 0,
+      "cita": "Tema 7, p. 136 (interpretación privada: la realizada por particulares, juristas y abogados)"
+    },
+    {
+      "pregunta": "El acto jurídico:",
+      "opciones": [
+        "Es lo mismo que el hecho natural",
+        "Es una acción humana con consecuencias jurídicas",
+        "Es un acontecimiento natural, independiente de la acción humana, con consecuencias jurídicas."
+      ],
+      "correcta": 1,
+      "cita": "Tema 3, p. 67 (acto jurídico: acción o comportamiento humano con consecuencias jurídicas)"
+    },
+    {
+      "pregunta": "Marque la respuesta correcta sobre la Paz social:",
+      "opciones": [
+        "En su sentido objetivo, entendemos como Paz social que los miembros de la sociedad tengan la convicción de que las normas además de eficaces son justas.",
+        "En su sentido subjetivo, entendemos como Paz social que un sistema social y jurídico sea eficaz en realizar los valores para cuyo logro fue instituido.",
+        "La Paz social solo puede ser fruto de la Justicia, pues en caso contrario no sería más que la implantación de la injusticia."
+      ],
+      "correcta": 2,
+      "cita": "Tema 10, p. 170 (la Paz social solo puede ser fruto de la Justicia)"
+    },
+    {
+      "pregunta": "La Dogmática Jurídica:",
+      "opciones": [
+        "Designa la actividad propia de los jueces en su labor de interpretación y aplicación del Derecho.",
+        "Se centra en el análisis y sistematización del contenido material de las normas positivas.",
+        "Analiza el Derecho como un fenómeno social entre otros, desde un punto de vista externo."
+      ],
+      "correcta": 1,
+      "cita": "Tema 14, p. 250 (Dogmática Jurídica: análisis sistemático del contenido material de las normas)"
+    },
+    {
+      "pregunta": "La alteridad del Derecho es una característica que significa que:",
+      "opciones": [
+        "pone en referencia los actos de una persona con los de otra.",
+        "se debe cumplir inexorablemente.",
+        "una relación jurídica se extinga"
+      ],
+      "correcta": 0,
+      "cita": "Tema 14, p. 261 (glosario: alteridad = cualidad de ser relativo a otro)"
+    },
+    {
+      "pregunta": "Las normas jurídicas tienen como principal objetivo regular:",
+      "opciones": [
+        "Conductas externas de los miembros del grupo social",
+        "Conductas subjetivas únicamente",
+        "Ambas respuestas son correctas"
+      ],
+      "correcta": 0,
+      "cita": "Tema 1, p. 39 (las normas jurídicas se circunscriben a la regulación de conductas externas)"
+    },
+    {
+      "pregunta": "La forma con la que inicia su existencia una regla jurídica:",
+      "opciones": [
+        "Resuelve y aclara por sí sola las objeciones que puedan oponerse al protagonismo del sujeto social que la ha creado",
+        "No resuelve ni aclara por sí sola las objeciones que puedan oponerse al protagonismo del sujeto social que la ha creado",
+        "Indica que la pueden utilizar únicamente los sujetos sociales que la han creado"
+      ],
+      "correcta": 1,
+      "cita": "Tema 4, p. — (general: la forma de creación no despeja por sí sola la legitimidad del creador)"
+    },
+    {
+      "pregunta": "Los principales tipos de normas que integraban los ordenamientos jurídicos de las sociedades organizadas fueron por este orden y jerarquía:",
+      "opciones": [
+        "La “costumbre”, la “práctica judicial” y “la doctrina legal”",
+        "La “la doctrina legal”, la “costumbre” y la “práctica judicial”",
+        "La “costumbre”, la “doctrina legal” y la “práctica judicial”"
+      ],
+      "correcta": 0,
+      "cita": "Tema 5, p. — (conocimiento jurídico general, no localizado literalmente en el material)"
+    },
+    {
+      "pregunta": "Según García Maynez, el principio que establece que “todo lo que está jurídicamente ordenado está jurídicamente permitido” es el principio de:",
+      "opciones": [
+        "Principio de identidad",
+        "Principio de inclusión",
+        "Principio de libertad"
+      ],
+      "correcta": 0,
+      "cita": "Tema 6, p. — (conocimiento jurídico general (García Maynez), no localizado literalmente)"
+    },
+    {
+      "pregunta": "El    n de la función de paci cación y resolución de conflictos, según Ferrari, es:",
+      "opciones": [
+        "Resolver los conflictos jurídicos y sociales",
+        "Tratar los conflictos",
+        "Llegar a acuerdos mediante el proceso de arbitraje"
+      ],
+      "correcta": 1,
+      "cita": "Tema 9, p. 162 (Ferrari: la función de pacificación consiste en «tratar» los conflictos, no resolverlos)"
+    },
+    {
+      "pregunta": "Cómo se denomina la cualidad que le falta al Derecho que hace que los ciudadanos no cumplen las normas jurídicas:",
+      "opciones": [
+        "validez",
+        "eficacia",
+        "realismo"
+      ],
+      "correcta": 1,
+      "cita": "Tema 2, p. 59 (la eficacia alude al grado de aceptación y cumplimiento de la norma)"
+    },
+    {
+      "pregunta": "Con el carácter de          abstracción de las normas jurídicas se pretende garantizar:",
+      "opciones": [
+        "el valor igualdad.",
+        "el valor libertad.",
+        "el valor seguridad jurídica."
+      ],
+      "correcta": 2,
+      "cita": "Tema 5, p. 100-101 (la abstracción contribuye a la seguridad jurídica)"
+    },
+    {
+      "pregunta": "La norma de la Constitución española que señala “Las Cortes Generales representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado”, es un ejemplo de:",
+      "opciones": [
+        "norma de organización.",
+        "norma de conducta.",
+        "norma de competencia."
+      ],
+      "correcta": 0,
+      "cita": "Tema 5, p. 106-107 (art. 66.2 CE, ejemplo de norma de organización)"
+    },
+    {
+      "pregunta": "La plenitud potencial o funcional no admite:",
+      "opciones": [
+        "la falta de plenitud de las normas.",
+        "la falta de plenitud del ordenamiento jurídico.",
+        "la existencia de vacíos normativos."
+      ],
+      "correcta": 1,
+      "cita": "Tema 6, p. 120 (plenitud potencial o funcional admite la existencia de lagunas jurídicas)"
+    },
+    {
+      "pregunta": "Según H. Kelsen, la norma que dota de unidad al ordenamiento jurídico es una norma:",
+      "opciones": [
+        "positiva.",
+        "presupuesta.",
+        "delegada."
+      ],
+      "correcta": 1,
+      "cita": "Tema 6, p. 116 (Kelsen: la Grundnorm es una norma presupuesta)"
+    },
+    {
+      "pregunta": "Entre otros rasgos, el paradigma constitucionalista actual se caracteriza por:",
+      "opciones": [
+        "La validez exclusivamente formal de las normas jurídicas.",
+        "El imperio de la ley, como fuente suprema y casi exclusiva del Derecho.",
+        "Las dos anteriores son falsas."
+      ],
+      "correcta": 2,
+      "cita": "Tema 7, p. 139 (paradigma constitucionalista: importancia de los principios; el resto describe el positivista)"
+    },
+    {
+      "pregunta": "Los negocios jurídicos también se denominan:",
+      "opciones": [
+        "Actos jurídicos simples",
+        "Declaraciones de voluntad",
+        "Actos jurídicos complejos"
+      ],
+      "correcta": 1,
+      "cita": "Tema 3, p. 68 (los negocios jurídicos también se denominan declaraciones de voluntad)"
+    },
+    {
+      "pregunta": "¿Cuál de estos elementos no forma parte de la relación jurídica?",
+      "opciones": [
+        "Norma jurídica",
+        "Vínculo de atribución",
+        "Institución jurídica"
+      ],
+      "correcta": 2,
+      "cita": "Tema 3, p. 68/75 (los elementos de la relación jurídica no incluyen la institución jurídica)"
+    },
+    {
+      "pregunta": "La Asamblea General de Naciones Unidas, en la Declaración del Milenio, proclamó que los valores y principios a tomar en consideración en el siglo XXI deberían de ser: (Marque la respuesta INCORRECTA).",
+      "opciones": [
+        "El establecimiento de una paz justa y duradera.",
+        "El respeto a la igualdad de los Estados, su integridad y su independencia.",
+        "La consideración de que la mundialización es una fuerza perniciosa para la humanidad."
+      ],
+      "correcta": 2,
+      "cita": "Tema 11, p. 181 (la Declaración del Milenio proclama que la mundialización sea una fuerza positiva)"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes legados culturales NO pertenece a la prehistoria de los derechos humanos?",
+      "opciones": [
+        "El legado religioso-idealista.",
+        "El legado greco-romano.",
+        "El legado hebraico-cristiano."
+      ],
+      "correcta": 0,
+      "cita": "Tema 11, p. 186 (los legados de la prehistoria de los DDHH son el oriental, greco-romano y hebraico-cristiano)"
+    },
+    {
+      "pregunta": "En la etapa de generalización de los derechos humanos:",
+      "opciones": [
+        "Surgen las primeras grandes declaraciones de derechos internacionales, en los que se reconocen derechos y libertades a todos los hombres.",
+        "Las concesiones reales dejan de ser privilegios para unos pocos y se generalizan a todo el cuerpo social.",
+        "Surge la necesidad de poner    n al rumbo de la historia, con el objeto de evitar la destrucción de la humanidad."
+      ],
+      "correcta": 1,
+      "cita": "Tema 11, p. 186 (primera etapa: generalización de los derechos humanos a todo el cuerpo social)"
+    },
+    {
+      "pregunta": "Los derechos de libertad:",
+      "opciones": [
+        "Son aquellos que otorgan a sus titulares un ámbito de libertad o autonomía para exigir a los obligados.",
+        "Son los últimos que aparecen en la historia, con la   finalidad de cubrir las necesidades y aspiraciones societarias del ser humano,",
+        "Se centran en la protección y garantía de la libertad en dimensiones y ámbitos particulares de la vida humana."
+      ],
+      "correcta": 0,
+      "cita": "Tema 12, p. 203 (derechos de libertad: ámbito de libertad o autonomía para exigir a los obligados)"
+    },
+    {
+      "pregunta": "La Ética Profesional:",
+      "opciones": [
+        "Impone conductas coactivas",
+        "Implica el cumplimiento de las conductas establecidas en los Códigos Deontológicos de la actividad concreta de que se trate",
+        "Implica el análisis y la reflexión sobre los principios que constituyen los pilares de la moralidad en el ejercicio de la actividad profesional"
+      ],
+      "correcta": 2,
+      "cita": "Tema 13, p. 225 (la Ética Profesional implica reflexión sobre los principios de la moralidad profesional)"
+    },
+    {
+      "pregunta": "La dimensión crítico-valorativa del conocimiento jurídico es propia de:",
+      "opciones": [
+        "La Sociología del Derecho.",
+        "El Derecho Comparado.",
+        "La Filosofía del Derecho"
+      ],
+      "correcta": 2,
+      "cita": "Tema 14, p. 255 (la dimensión crítico-valorativa es propia de la Filosofía del Derecho)"
+    },
+    {
+      "pregunta": "La acepción del Derecho que lo entiende como facultad o poder se denomina:",
+      "opciones": [
+        "Derecho objetivo",
+        "Derecho valorativo",
+        "Derecho subjetivo"
+      ],
+      "correcta": 2,
+      "cita": "Tema 1, p. 33 (segunda acepción de «derecho»: facultad o poder = derecho subjetivo)"
+    },
+    {
+      "pregunta": "Las normas jurídicas tienen como principal objetivo regular:",
+      "opciones": [
+        "Conductas externas de los miembros del grupo social",
+        "Conductas subjetivas únicamente",
+        "Ambas respuestas son correctas"
+      ],
+      "correcta": 0,
+      "cita": "Tema 1, p. 39 (las normas jurídicas se circunscriben a la regulación de conductas externas)"
+    },
+    {
+      "pregunta": "El núcleo de la dimensión moral radica en:",
+      "opciones": [
+        "La conciencia individual",
+        "La libertad de pensamiento",
+        "La conciencia colectiva"
+      ],
+      "correcta": 0,
+      "cita": "Tema 1, p. 36 (centro de gravedad de la dimensión moral: la conciencia individual)"
+    },
+    {
+      "pregunta": "Las relaciones jurídicas están reguladas por:",
+      "opciones": [
+        "Los derechos subjetivos",
+        "Las facultades y poderes de los sujetos",
+        "Las normas jurídicas"
+      ],
+      "correcta": 2,
+      "cita": "Tema 3, p. 63 (relación jurídica regulada por normas jurídicas)"
+    },
+    {
+      "pregunta": "La Declaración de Derechos del Buen Pueblo de Virginia pertenece a la etapa de:",
+      "opciones": [
+        "La generalización de los derechos humanos",
+        "La internacionalización de los derechos humanos",
+        "La universalización de los derechos humanos"
+      ],
+      "correcta": 2,
+      "cita": "Tema 11, p. 187 (Declaración de Virginia (1776), exponente de la fase de universalización)"
+    },
+    {
+      "pregunta": "Las normas de Derecho Público son, por lo general:",
+      "opciones": [
+        "Preceptivas y excluyen los pactos en contrario",
+        "Preceptivas y no excluyen los pactos en contrario",
+        "Dispositivas y excluyen los pactos en contrario"
+      ],
+      "correcta": 0,
+      "cita": "Tema 4, p. 100 (normas de Derecho Público, por lo general, preceptivas)"
+    },
+    {
+      "pregunta": "Cuando a rmamos que los derechos subjetivos pueden ser absolutos o relativos, estamos haciendo referencia a:",
+      "opciones": [
+        "Tipos de derecho subjetivo en relación con las facultades que otorgan a sus titulares",
+        "Tipos de derecho subjetivo en relación con el sujeto pasivo",
+        "Tipos de derecho subjetivo en relación a su ámbito de ejercicio"
+      ],
+      "correcta": 1,
+      "cita": "Tema 4, p. 87 (derecho subjetivo absoluto/relativo según el sujeto pasivo)"
+    },
+    {
+      "pregunta": "Cómo se denomina el método de integración jurídica que aplica, por identidad de razón, una norma jurídica a un supuesto no regulado:",
+      "opciones": [
+        "equidad",
+        "heterointegración",
+        "analogía"
+      ],
+      "correcta": 2,
+      "cita": "Tema 6, p. 120 (analogía: aplicación por identidad de razón a un supuesto no regulado)"
+    },
+    {
+      "pregunta": "Son normas taxativas:",
+      "opciones": [
+        "las que permiten a los destinatarios elegir los comportamientos a realizar",
+        "las que se imponen a los destinatarios de forma incondicionada",
+        "las que se imponen sólo los operadores jurídicos"
+      ],
+      "correcta": 1,
+      "cita": "Tema 5, p. 107 (normas taxativas o de ius cogens: imposición incondicionada de lo prescrito)"
+    },
+    {
+      "pregunta": "Cómo se denomina la cualidad que le falta al Derecho cuando los ciudadanos no cumplen las normas jurídicas:",
+      "opciones": [
+        "validez",
+        "eficacia",
+        "legitimidad"
+      ],
+      "correcta": 1,
+      "cita": "Tema 2, p. 59 (la eficacia alude al grado de aceptación y cumplimiento de la norma)"
+    },
+    {
+      "pregunta": "Indique cuál de las siguientes no es una función del Derecho:",
+      "opciones": [
+        "La función de limitación y legitimación de los poderes sociales.",
+        "La función de limitación de la libertad personal en el ámbito privado.",
+        "La función de paci cación y resolución de conflictos."
+      ],
+      "correcta": 1,
+      "cita": "Tema 9, p. 159 (funciones del Derecho: la limitación de la libertad personal privada no figura en la lista)"
+    },
+    {
+      "pregunta": "La cualidad del ordenamiento jurídico que supone la inexistencia de lagunas jurídicas es:",
+      "opciones": [
+        "la unidad",
+        "la coherencia",
+        "La plenitud"
+      ],
+      "correcta": 2,
+      "cita": "Tema 6, p. 110-113 (la plenitud del ordenamiento jurídico: el problema de las lagunas jurídicas)"
+    },
+    {
+      "pregunta": "Dentro de las teorías acerca de la naturaleza de la norma jurídica, las tesis conocidas como imperativistas:",
+      "opciones": [
+        "Tienen su origen en la doctrina de Hobbes y se basan en la idea de la amenaza, daño o castigo en caso de incumplimiento.",
+        "Tienen su origen en la doctrina de Austin y se basan en la idea de la amenaza, daño o castigo en caso de incumplimiento.",
+        "Tienen su origen en la doctrina de Hobbes y se basan en la idea del contrato social (hipotético) con el Leviatán."
+      ],
+      "correcta": 1,
+      "cita": "Tema 5, p. 95 (tesis imperativistas: origen en la doctrina de Austin)"
+    },
+    {
+      "pregunta": "Se entiende por fuentes materiales del Derecho:",
+      "opciones": [
+        "las formas de manifestación del Derecho",
+        "el objeto de regulación de las normas jurídicas",
+        "los sujetos con capacidad de creación normativa"
+      ],
+      "correcta": 2,
+      "cita": "Tema 3, p. 80 (fuentes materiales: sujetos con capacidad de creación normativa)"
+    },
+    {
+      "pregunta": "De acuerdo con el       filósofo del Derecho italiano Norberto Bobbio, lo que caracteriza las sanciones jurídicas es:",
+      "opciones": [
+        "El haber llegado al máximo grado de control social.",
+        "El haber llegado al máximo grado de sanción jurídica.",
+        "El haber llegado al máximo grado de institucionalización."
+      ],
+      "correcta": 2,
+      "cita": "Tema 4, p. 71 (Bobbio: máximo grado de institucionalización de las sanciones jurídicas)"
+    },
+    {
+      "pregunta": "Para que estemos ante un auténtico supuesto de antinomia jurídica, las normas supuestamente antinómicas:",
+      "opciones": [
+        "Han de referirse total o parcialmente, a los mismos sujetos destinatarios, prescribir comportamientos idénticos y ser aplicables en el mismo territorio y momento temporal.",
+        "Han de prescribir los mismos comportamientos y ser aplicables en el mismo territorio y momento temporal, pero no es necesario que se re eran a los mismos sujetos destinatarios, pues las normas jurídicas son generales y abstractas.",
+        "Han de referirse a los mismos sujetos destinatarios, prescribir comportamientos idénticos y ser aplicables en el mismo momento temporal, pero no es necesario que se re eran al mismo territorio, pues todos los territorios regionales y subregionales forman parte del ordenamiento jurídico español."
+      ],
+      "correcta": 0,
+      "cita": "Tema 6, p. 121 (antinomia: coincidencia total o parcial en sujetos, materia y ámbito temporal/territorial)"
+    },
+    {
+      "pregunta": "Los principales criterios de solución de las contradicciones entre normas son:",
+      "opciones": [
+        "Los de cronología normativa, jerarquía normativa y prelación temporal.",
+        "Los de cronología normativa, jerarquía normativa y especialidad.",
+        "Los de cronología normativa, prelación temporal y especialidad."
+      ],
+      "correcta": 1,
+      "cita": "Tema 6, p. 121 (criterios de solución de antinomias: cronología, jerarquía y especialidad)"
+    },
+    {
+      "pregunta": "El positivismo legalista es una visión del Derecho que, típicamente:",
+      "opciones": [
+        "Considera la actividad judicial como una labor meramente declarativa y donde los operadores jurídicos, por consiguiente, apenas tienen ningún espacio para la interpretación.",
+        "Considera la actividad judicial como una labor meramente declarativa y donde los operadores jurídicos tienen amplio espacio para la interpretación.",
+        "Considera la actividad judicial como una labor meramente creativa y donde los operadores jurídicos, por consiguiente, apenas tienen ningún espacio para la interpretación."
+      ],
+      "correcta": 0,
+      "cita": "Tema 7, p. 132 (positivismo legalista: actividad judicial como labor meramente declarativa)"
+    },
+    {
+      "pregunta": "Las teorías contemporáneas de la interpretación sostienen, grosso modo, que:",
+      "opciones": [
+        "El método gramatical, el que sostiene que los enunciados jurídicos ha de ser interpretados delimitando el sentido mismo de la interpretación, es el mejor, por lo que el resto son de aplicación prioritaria.",
+        "El método gramatical, el que sostiene que los enunciados jurídicos ha de ser interpretados delimitando el sentido mismo de la interpretación, es el mejor, por lo que el resto son de aplicación subsidiaria.",
+        "No   existe un orden de prelación entre los diferentes métodos de interpretación del Derecho, ni existe un orden de prelación entre los mismos."
+      ],
+      "correcta": 2,
+      "cita": "Tema 7, p. 134 (los métodos de interpretación no son excluyentes ni tienen orden de prelación)"
+    },
+    {
+      "pregunta": "En el ámbito de la argumentación jurídica se ha producido una evolución:",
+      "opciones": [
+        "Del paradigma positivista al paradigma constitucional.",
+        "Del paradigma positivista al paradigma neopositivista.",
+        "Del paradigma positivista al paradigma neoconstitucional."
+      ],
+      "correcta": 0,
+      "cita": "Tema 7, p. 138-141 (evolución del paradigma positivista al paradigma constitucional)"
+    },
+    {
+      "pregunta": "Las normas morales se caracterizan por:",
+      "opciones": [
+        "Heteronomía, sanción subjetiva y exterioridad",
+        "Sociabilidad, alteridad y sanción objetiva.",
+        "Autonomía, interioridad y no coercibilidad."
+      ],
+      "correcta": 2,
+      "cita": "Tema 14, p. 266 (glosario: Normas Morales, individualidad/autonomía/no coercibilidad/subjetividad)"
+    },
+    {
+      "pregunta": "En los criterios para distinguir entre normas morales, reglas de trato social y normas jurídicas, encontramos que la individualidad es un rasgo de las:",
+      "opciones": [
+        "Normas morales.",
+        "Normas jurídicas.",
+        "Reglas de trato social."
+      ],
+      "correcta": 0,
+      "cita": "Tema 14, p. 266 (glosario: la individualidad es rasgo de las normas morales)"
+    },
+    {
+      "pregunta": "Las normas jurídicas se caracterizan por:",
+      "opciones": [
+        "Interioridad, no coercibilidad y sanción objetiva.",
+        "Coercibilidad, sanción objetiva e interioridad",
+        "Alteridad, Sociabilidad y sanción objetiva"
+      ],
+      "correcta": 2,
+      "cita": "Tema 1/14, p. 33/266 (normas jurídicas: alteridad, exterioridad, heteronomía, coercibilidad objetiva)"
+    },
+    {
+      "pregunta": "El aforismo jurídico ubi societas, ibi ius hace referencia a",
+      "opciones": [
+        "La dimensión fáctica del Derecho",
+        "A la capacidad de la sociedad de cumplir los objetivos del Derecho",
+        "A los retos que el Derecho debe cumplir en la sociedad"
+      ],
+      "correcta": 0,
+      "cita": "Tema 9, p. 157 (ubi societas, ibi ius y la dimensión fáctica del Derecho)"
+    },
+    {
+      "pregunta": "Dentro de los elementos que constituyen la relación jurídica ¿cuál es el elemento central?",
+      "opciones": [
+        "El objeto",
+        "Los sujetos",
+        "El vínculo de atribución"
+      ],
+      "correcta": 2,
+      "cita": "Tema 3, p. 68-69 (vínculo de atribución, elemento central de la relación jurídica)"
+    },
+    {
+      "pregunta": "De acuerdo con el     filósofo del derecho italiano Norberto Bobbio:",
+      "opciones": [
+        "Lo que caracteriza las sanciones es haber alcanzado el máximo grado de punitividad.",
+        "Lo que caracteriza a las sanciones jurídicas es haber alcanzado el máximo grado de institucionalización.",
+        "Lo que caracteriza a las sanciones jurídicas es haber alcanzado el máximo grado de coercibilidad."
+      ],
+      "correcta": 1,
+      "cita": "Tema 4, p. 71 (Bobbio: máximo grado de institucionalización de las sanciones jurídicas)"
+    },
+    {
+      "pregunta": "El Derecho reconoce",
+      "opciones": [
+        "Dos clases de personas jurídicas: las físicas y las colectivas o jurídicas propiamente dichas.",
+        "Dos clases de personas jurídicas: las físicas y las unipersonales, que se establecen como entidad jurídica a los efectos de limitar la responsabilidad al patrimonio empresarial.",
+        "Tres clases de personas jurídicas: las físicas, las unipersonales y las colectivas."
+      ],
+      "correcta": 0,
+      "cita": "Tema 3, p. 64 (el Derecho reconoce dos clases de personas jurídicas: físicas y colectivas)"
+    },
+    {
+      "pregunta": "La teoría de la tridimensionalidad del Derecho es de:",
+      "opciones": [
+        "Ronald Dworkin",
+        "Miguel Reale",
+        "Hans Kelsen"
+      ],
+      "correcta": 1,
+      "cita": "Tema 2, p. 57 (Miguel Reale, Teoría tridimensional del Derecho)"
+    },
+    {
+      "pregunta": "Podemos definir, sucintamente, la ética como:",
+      "opciones": [
+        "El conjunto de reglas que se aplican en la vida cotidiana y todos los ciudadanos emplean continuamente.",
+        "Una reflexión   filosófica sobre la libertad, la igualdad y la justicia.",
+        "Una reflexión   filosófica sobre la moral."
+      ],
+      "correcta": 2,
+      "cita": "Tema 13, p. 221 (la Ética es una reflexión filosófica sobre la moral)"
+    },
+    {
+      "pregunta": "De acuerdo con la teoría elaborada por el         filósofo del derecho estadounidense Ronald Dworkin en su obra Los derechos en serio:",
+      "opciones": [
+        "El derecho no se compone sólo de reglas, sino también de principios éticos a los cuales hay que atender a la hora de establecer cuál es el derecho válido.",
+        "El derecho se compone de dos tipos de normas: las normas de derecho positivo, es decir, las que provienen del legislador, y las normas de derecho natural, que bien proceden de un mandato divino, o bien de la propia naturaleza racional de los hombres.",
+        "El derecho se compone exclusivamente del derecho creado por el legislador estatal, bien de forma directa, bien por delegación en otros agentes creadores de Derecho, que actúan siempre conforme a lo dispuesto por las leyes del Estado."
+      ],
+      "correcta": 0,
+      "cita": "Tema 2, p. 57 (Dworkin, Los derechos en serio: reglas y principios éticos)"
+    },
+    {
+      "pregunta": "Se denominan normas potestativas o autorizativas a:",
+      "opciones": [
+        "Aquellas que determinan cuáles son las conductas que los sujetos pueden realizar o las pretensiones que pueden reclamar",
+        "Aquellas que determinan únicamente cuáles son las pretensiones que los sujetos pueden reclamar",
+        "Aquellas que determinan únicamente cuáles son las conductas que los sujetos pueden realizar"
+      ],
+      "correcta": 0,
+      "cita": "Tema 4, p. — (norma potestativa: resumen del libro, apdo. 2 (derecho subjetivo))"
+    },
+    {
+      "pregunta": "El actual paradigma jurídico constitucionalista",
+      "opciones": [
+        "Las otras dos respuestas son correctas.",
+        "De ende la tajante separación entre los procesos de creación y aplicación del Derecho.",
+        "Subraya la importancia de los principios, como condicionantes materiales y sustanciales de los procesos de creación y aplicación del Derecho."
+      ],
+      "correcta": 2,
+      "cita": "Tema 7, p. 139-140 (paradigma constitucionalista: importancia de los principios)"
+    },
+    {
+      "pregunta": "Las denominadas reglas de adjudicación:",
+      "opciones": [
+        "Forman parte de la teoría propuesta por Herbert Hart, en la que se les atribuye la determinación de quiénes son los sujetos con potestad jurisdiccional.",
+        "Forma parte de la teoría pura del Derecho de Hans Kelsen.",
+        "Forman parte de la teoría expuesta por Ronald Dworkin y se re eren a que la regla de reconocimiento sólo es útil para reconocer y considerar como elementos del ordenamiento a las normas jurídicas"
+      ],
+      "correcta": 0,
+      "cita": "Tema 6, p. 117 (Hart: reglas de adjudicación determinan sujetos con potestad jurisdiccional)"
+    },
+    {
+      "pregunta": "Los Usos sociales surgen dentro del grupo social como consecuencia de",
+      "opciones": [
+        "Factores sociológicos que operan espontáneamente dentro del seno del grupo",
+        "Un proceso de arraigo espontáneo dentro de los grupos sociales",
+        "Un proceso racional de convicción de que deben ser observados"
+      ],
+      "correcta": 1,
+      "cita": "Tema 1, p. 46 (los usos surgen y se arraigan espontáneamente en los grupos sociales)"
+    },
+    {
+      "pregunta": "Las conductas de alteridad son aquellas que",
+      "opciones": [
+        "Se observan por la mayoría de los miembros del grupo",
+        "Se realizan en relación con otro",
+        "Vienen impuestas por la voluntad de la sociedad"
+      ],
+      "correcta": 1,
+      "cita": "Tema 14, p. 261 (glosario: alteridad = cualidad de ser relativo a otro)"
+    },
+    {
+      "pregunta": "El actual paradigma jurídico constitucionalista",
+      "opciones": [
+        "De ende la tajante separación entre los procesos de creación y aplicación del Derecho",
+        "Las otras dos respuestas son correctas",
+        "Subraya la importancia de tos principios, como condicionantes materiales y sustanciales de los procesos de creación y aplicación del Derecho"
+      ],
+      "correcta": 2,
+      "cita": "Tema 7, p. 139-140 (paradigma constitucionalista: importancia de los principios)"
+    },
+    {
+      "pregunta": "El análisis del problema de la validez jurídica es parte del contenido temático:",
+      "opciones": [
+        "De la Jurisprudencia",
+        "De la Teoría del Derecho",
+        "De la ciencia del Derecho"
+      ],
+      "correcta": 1,
+      "cita": "Tema 14, p. 257 (el análisis de la validez jurídica es contenido de la Teoría del Derecho)"
+    },
+    {
+      "pregunta": "La conocida como \"teoría del espacio jurídico vacio\":",
+      "opciones": [
+        "Fue desarrollada por K. Bergbohm y considera que todas las conductas humanas son objeto de regulación jurídica a través de una misma norma que cumple una doble función: regular ciertos comportamientos y, simultáneamente, excluir todos aquellos comportamientos no incluidos expresamente",
+        "Fue desarrollada por K. Bergbohm y sostiene que el campo del comportamiento social puede ocupar dos espacios distintos: (a) el denominado espacio jurídico pleno y (b) el espacio jurídico vacío",
+        "Fue desarrollada por E. Zitelmann y considera que todas las conductas humanas son objeto de regulación jurídica a través de una misma norma que cumple una doble función: regular ciertos comportamientos y, simultáneamente, excluir todos aquellos comportamiento no incluidos expresamente"
+      ],
+      "correcta": 1,
+      "cita": "Tema 6, p. 118 (Bergbohm: espacio jurídico pleno y espacio jurídico vacío)"
+    },
+    {
+      "pregunta": "El estudio sistemático de los derechos humanos es uno de los cometidos de:",
+      "opciones": [
+        "El Iusnaturalismo",
+        "La Axiología Jurídica",
+        "La Dogmática Jurídica"
+      ],
+      "correcta": 1,
+      "cita": "Tema 14, p. 259 (Axiología Jurídica: estudio sistemático de los derechos humanos)"
+    },
+    {
+      "pregunta": "Las denominadas reglas de adjudicación:",
+      "opciones": [
+        "Forman parte de la teoría propuesta por Herbert Hart, en la que se les atribuye la determinación de quiénes son los sujetos con potestad jurisdiccional",
+        "Forman parte de la teoría propuesta por Herbert Hart, en la que sirven para conferir unidad al ordenamiento, pues serán válidas, y por tanto pertenecerán a cada ordenamiento jurídico, todas aquellas normas que cumplan con los criterios establecidos por las reglas de adjudicación",
+        "Forman parte de la teoría expuesta por Ronald Dworkin y se re eren a que la regla de reconocimiento solo es útil para reconocer y considerar como elementos del ordenamiento a las normas jurídicas"
+      ],
+      "correcta": 0,
+      "cita": "Tema 6, p. 117 (Hart: reglas de adjudicación determinan sujetos con potestad jurisdiccional)"
+    },
+    {
+      "pregunta": "De acuerdo con la teoría elaborada por el         filósofo del derecho estadounidense Ronald Dworkin en su obra Los derechos en serio:",
+      "opciones": [
+        "El derecho no se compone sólo de reglas, sino también de principios éticos a los cuales hay que atender a la hora de establecer cuál es el derecho válido.",
+        "El derecho se compone exclusivamente del derecho creado por el legislador estatal, bien de forma directa, bien por delegación en otros agentes creadores de Derecho, que actúan siempre conforme a lo dispuesto por las leyes del Estado.",
+        "El derecho se compone de dos tipos de normas: las normas de derecho positivo, es decir, las que provienen del legislador, y las normas de derecho natural, que bien proceden de un mandato divino, o bien de la propia naturaleza racional de los hombres."
+      ],
+      "correcta": 0,
+      "cita": "Tema 2, p. 57 (Dworkin, Los derechos en serio: reglas y principios éticos)"
+    },
+    {
+      "pregunta": "El Derecho reconoce",
+      "opciones": [
+        "Tres clases de personas jurídicas: las físicas, las unipersonales y las colectivas.",
+        "Dos clases de personas jurídicas: las físicas y las colectivas o jurídicas propiamente dichas.",
+        "Dos clases de personas jurídicas: las físicas y las unipersonales, que se establecen como entidad jurídica a los efectos de limitar la responsabilidad al patrimonio empresarial."
+      ],
+      "correcta": 1,
+      "cita": "Tema 3, p. 64 (el Derecho reconoce dos clases de personas jurídicas: físicas y colectivas)"
+    },
+    {
+      "pregunta": "La acepción del Derecho que lo entiende como facultad o poder se denomina",
+      "opciones": [
+        "Derecho valorativo",
+        "Derecho objetivo",
+        "Derecho subjetivo"
+      ],
+      "correcta": 2,
+      "cita": "Tema 1, p. 33 (segunda acepción de «derecho»: facultad o poder = derecho subjetivo)"
+    },
+    {
+      "pregunta": "Las obras de renombrados juristas como Kelsen, Hart o Ross son:",
+      "opciones": [
+        "Una vindicación de la visión ideal del iuspositivismo legalista, que contempla al Derecho como un sistema cerrado, coherente y completo.",
+        "Una defensa del positivismo inclusivo, que contempla al Derecho como un sistema compuesto por principios y reglas,",
+        "Un cuestionamiento de la visión ideal y reduccionista que contemplaba al Derecho como un sistema cerrado, coherente y completo, lo que va a difuminar, en gran medida, la tajante separación entre creación y aplicación del Derecho."
+      ],
+      "correcta": 2,
+      "cita": "Tema 7, p. 129 (Kelsen, Hart y Ross cuestionan el sistema cerrado, coherente y completo)"
+    },
+    {
+      "pregunta": "La moral puede tener distintos significados:",
+      "opciones": [
+        "Las dos respuestas anteriores son correctas.",
+        "como el conjunto de hábitos, actos y carácter del ser humano",
+        "como fuerza, apropiación y justificación"
+      ],
+      "correcta": 0,
+      "cita": "Tema 1, p. 35 (moral: fuerza/apropiación/justificación y hábitos, actos y carácter)"
+    },
+    {
+      "pregunta": "Para Kelsen, la Grundnorm es:",
+      "opciones": [
+        "Una norma real, que equivale a esa parte de las Constituciones en la que se establecen los derechos y deberes fundamentales de los ciudadanos (la bill of rights).",
+        "Una normal real, que equivale al bloque de constitucionalidad de los países, integrado en lo esencial por la Constitución y las leyes orgánicas que la desarrollan.",
+        "Una norma hipotética, situada incluso por encima de la Constitución."
+      ],
+      "correcta": 2,
+      "cita": "Tema 6, p. 116 (Kelsen: la Grundnorm es una norma presupuesta o hipotética)"
+    },
+    {
+      "pregunta": "La alteridad del Derecho es una característica que significa que",
+      "opciones": [
+        "pone en referencia los actos de una persona con los de otra",
+        "afirma la posibilidad de que la relación jurídica se modifique",
+        "implica una alteración de las relaciones sociales"
+      ],
+      "correcta": 0,
+      "cita": "Tema 14, p. 261 (glosario: alteridad = cualidad de ser relativo a otro)"
+    },
+    {
+      "pregunta": "Señala cuál de las siguientes es la afirmación correcta:",
+      "opciones": [
+        "El Derecho objetivo y el derecho subjetivo están solo tangencialmente relacionados, ya que el derecho subjetivo puede existir incluso si no es declarado como tal por el Derecho objetivo, como demuestra, por ejemplo, el caso de la objeción de conciencia.",
+        "El Derecho objetivo y el derecho subjetivo están íntimamente relacionados, ya que la existencia del derecho subjetivo depende de que haya una norma de Derecho objetivo que declare su existencia,",
+        "El Derecho objetivo y el derecho subjetivo no están íntimamente relacionados, ya que la existencia del Derecho objetivo depende de que reconozca derechos subjetivos que lo son porque son inherentes al ser humano y existen con independencia de su positivación, como los derechos a la vida, la libertad religiosa, etc."
+      ],
+      "correcta": 1,
+      "cita": "Tema 4, p. 83 (Derecho objetivo y subjetivo íntimamente relacionados)"
+    },
+    {
+      "pregunta": "La llamada interpretación auténtica del Derecho:",
+      "opciones": [
+        "Es la realizada por el Parlamento, en cuanto que órgano donde legislador donde reside la soberanía popular.",
+        "Es la realizada por el mismo órgano creador de la norma.",
+        "Es la realizada por los jueces y tribunales,"
+      ],
+      "correcta": 1,
+      "cita": "Tema 7, p. 136 (interpretación auténtica: la realiza el mismo órgano creador de la norma)"
+    },
+    {
+      "pregunta": "El aforismo jurídico ubi societas, ibi ius hace referencia a",
+      "opciones": [
+        "La dimensión fáctica del Derecho",
+        "A los retos que el Derecho debe cumplir en la sociedad",
+        "A la capacidad de la sociedad de cumplir los objetivos del Derecho"
+      ],
+      "correcta": 0,
+      "cita": "Tema 9, p. 157 (ubi societas, ibi ius y la dimensión fáctica del Derecho)"
+    },
+    {
+      "pregunta": "El análisis del problema de la validez jurídica es parte del contenido temático:",
+      "opciones": [
+        "De la Jurisprudencia",
+        "De la Teoría del Derecho",
+        "De la ciencia del Derecho"
+      ],
+      "correcta": 1,
+      "cita": "Tema 14, p. 257 (el análisis de la validez jurídica es contenido de la Teoría del Derecho)"
+    },
+    {
+      "pregunta": "Cómo se denomina al conjunto de normas y relaciones jurídicas ordenadas en torno a una idea común:",
+      "opciones": [
+        "Institución jurídica",
+        "Relación jurídica",
+        "Situación jurídica"
+      ],
+      "correcta": 0,
+      "cita": "Tema 3, p. 75 (institución jurídica: normas y relaciones en torno a una idea común)"
+    },
+    {
+      "pregunta": "La teoría de la naturaleza de la norma jurídica de Olivecrona:",
+      "opciones": [
+        "Parte de la idea de que la producción jurídica es auto-obligatoria, por lo que concibe las normas jurídicas como imperativos impersonales: es decir, mandatos dirigidos a un conjunto de destinatarios que tienen como      finalidad dar instrucciones sobre la conducta a seguir",
+        "Parte de la idea de que la producción jurídica es anti-imperativa, por lo que concibe las normas jurídicas como imperativos ad extra: es decir, mandatos dirigidos a un conjunto de terceros destinatarios que tienen como    finalidad dar instrucciones sobre la conducta a seguir,",
+        "Parte de la idea de que la producción jurídica es la expresión de un deber-ser y pretende regular conductas humanas a través de unos juicios hipotéticos que establecen una conexión entre un hecho y una determinada consecuencia"
+      ],
+      "correcta": 0,
+      "cita": "Tema 5, p. 97 (Olivecrona: producción jurídica autoobligatoria, imperativos impersonales)"
+    },
+    {
+      "pregunta": "Se denominan consecuencias jurídicas directas:",
+      "opciones": [
+        "Las que consisten en alternativas por si se produce el incumplimiento de la norma",
+        "Las derivadas del normal cumplimiento de lo prescrito",
+        "Las que revisten forma de sanción"
+      ],
+      "correcta": 1,
+      "cita": "Tema 5, p. 104 (consecuencias jurídicas directas: derivadas del normal cumplimiento)"
+    },
+    {
+      "pregunta": "La Teoría del espacio jurídico vacío considera que el ordenamiento jurídico",
+      "opciones": [
+        "No puede tener plenitud absoluta",
+        "Es absolutamente pleno",
+        "Siempre tiene vacíos normativos"
+      ],
+      "correcta": 1,
+      "cita": "Tema 6, p. 118 (Bergbohm: espacio jurídico pleno y espacio jurídico vacío)"
+    },
+    {
+      "pregunta": "Dentro de los derechos de la libertad podemos distinguir dos grupos",
+      "opciones": [
+        "Derechos civiles y derechos políticos",
+        "Derechos privados y derechos personales",
+        "Derechos individuales y derechos sociales"
+      ],
+      "correcta": 0,
+      "cita": "Tema 12, p. 202 (derechos de libertad: dos grandes grupos, civiles y políticos)"
+    },
+    {
+      "pregunta": "Para Hans Kelsen:",
+      "opciones": [
+        "La sanción positiva, como premio, constituye una noción central de su teoría jurídica, por cuanto una regla de derecho desprovista de incentivos es \"como un fuego que no quema, una antorcha que no alumbra\"",
+        "Es posible, a pesar de que su obra constituye el principal exponente del normativismo, admitir la existencia de reglas cuya consecuencia normativa es un premio y no un castigo",
+        "La sanción negativa, como castigo, constituye una noción central de su teoría jurídica, por cuanto una regla de derecho desprovista de coacción jurídica es \"como un fuego que no quema, una antorcha que no alumbra\""
+      ],
+      "correcta": 2,
+      "cita": "Tema 4, p. 73 (Kelsen: sanción negativa como noción central del normativismo)"
+    },
+    {
+      "pregunta": "Las leyes naturales pueden proceder de:",
+      "opciones": [
+        "De la propia naturaleza racional del hombre",
+        "Las otras dos respuestas son correctas",
+        "Un mandato divino"
+      ],
+      "correcta": 1,
+      "cita": "Tema 2, p. 55 (leyes naturales: mandato divino o naturaleza racional del hombre)"
+    },
+    {
+      "pregunta": "El positivismo legalista del siglo XIX significa",
+      "opciones": [
+        "El juez resolvía los casos acudiendo a la costumbre y la jurisprudencia, interpretando la ley.",
+        "Plena confianza en la actividad judicial",
+        "Separación total entre creación y aplicación jurídica"
+      ],
+      "correcta": 2,
+      "cita": "Tema 7, p. 129 (positivismo legalista: separación total entre creación y aplicación)"
+    },
+    {
+      "pregunta": "El estudio sistemático de los derechos humanos es uno de los cometidos de:",
+      "opciones": [
+        "El Iusnaturalismo",
+        "La Axiología Jurídica",
+        "La Dogmática Jurídica"
+      ],
+      "correcta": 1,
+      "cita": "Tema 14, p. 259 (Axiología Jurídica: estudio sistemático de los derechos humanos)"
+    },
+    {
       "pregunta": "Las relaciones jurídicas están reguladas por:",
       "opciones": [
         "Los derechos subjetivos",
